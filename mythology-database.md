@@ -78,41 +78,125 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ## Norse Mythology
 
+### Overview
+- **Source:** Prose Edda, Poetic Edda (13th century)
+- **Culture:** North Germanic peoples (Scandinavia)
+- **Cosmos:** Nine Worlds connected by Yggdrasil
+- **Fate:** Controlled by Norns (Urðr, Verðandi, Skuld)
+
 ### Key Deities
 
 #### Odin
 - **Role:** Allfather, god of wisdom, war, poetry
+- **Symbols:** Spear (Gungnir), ring (Draupnir), ravens (Huginn & Muninn), wolves (Geri & Freki)
 - **Sacrifices:** Gave his eye for wisdom, hung on Yggdrasil for runes
-- **Archetype for AI:** The ultimate optimizer, sacrifice for knowledge
-- **Keywords:** wisdom, sacrifice, war, poetry, runes
+- **Stories:** Creation of world with brothers Vili and Vé, seeking wisdom, Ragnarök
+- **Archetype for AI:** The ultimate optimizer, sacrifice for knowledge, training cost
+- **Keywords:** wisdom, sacrifice, war, poetry, runes, ravens
 
 #### Thor
-- **Role:** God of thunder, protection
-- **Weapon:** Mjolnir (hammer)
-- **Archetype for AI:** Defense system, protector, force of nature
-- **Keywords:** thunder, protection, strength, hammer
+- **Role:** God of thunder, storms, strength, protection
+- **Symbols:** Mjolnir (hammer), Járngrjót (iron gloves), belt (Megingjörð)
+- **Stories:** Battles with jötnar (giants), fishing trip with Hymir, Ragnarök
+- **Archetype for AI:** Defense system, protector, force of nature, security
+- **Keywords:** thunder, protection, strength, hammer, storms
 
 #### Loki
-- **Role:** Trickster, shapeshifter
-- **Nature:** Neither fully god nor giant, causes chaos
-- **Archetype for AI:** The glitch, the unpredictable, anomaly
-- **Keywords:** trickster, chaos, shapeshift, anomaly
+- **Role:** Trickster, shapeshifter, chaos-bringer
+- **Nature:** Neither fully god nor jötunn (giant), blood brother to Odin
+- **Stories:** Father of Hel, Fenrir, Jörmungandr; causes Baldr's death; bound until Ragnarök
+- **Children:** Hel (death), Fenrir (wolf), Jörmungandr (sea serpent)
+- **Archetype for AI:** The glitch, the unpredictable, anomaly, adversarial examples
+- **Keywords:** trickster, chaos, shapeshift, anomaly, rebellion
 
 #### Freyja
 - **Role:** Goddess of love, beauty, war, seiðr (magic)
-- **Domain:** Fólkvangr (field of warriors)
-- **Archetype for AI:**情感 AI, beauty systems, war/chess algorithms
+- **Domain:** Fólkvangr (field of warriors - half of slain go here)
+- **Symbols:** Brísingamen (necklace), boar-headed chariot, falcon cloak
+- **Archetype for AI:** Emotional AI, beauty systems, war/chess algorithms, recommendation systems
+- **Keywords:** love, beauty, war, magic, beauty
+
+#### Heimdall
+- **Role:** Guardian of Bifröst (rainbow bridge)
+- **Powers:** Superior hearing and sight, foresees the future
+- **Symbols:** Gjallarhorn (warning horn)
+- **Archetype for AI:** Authentication, verification, access control
+- **Keywords:** guardian, bridge, watch, verification
+
+#### Tyr
+- **Role:** God of war, justice, law
+- **Story:** Sacrificed his hand to bind Fenrir
+- **Archetype for AI:** Security constraints, limitations, ethical bounds
+- **Keywords:** war, justice, law, sacrifice, binding
+
+### Creatures & Beings
 
 #### Yggdrasil
-- **Concept:** World tree, connects 9 worlds
-- **Archetype for AI:** The network, blockchain, interconnected systems
-- **Keywords:** tree, network, worlds, connection
+- **Concept:** World tree, ash tree, connects 9 worlds
+- **Worlds:** Asgard (gods), Midgard (humans), Jotunheim (giants), Niflheim (ice), Muspelheim (fire), Alfheim (elves), Svartalfheim (dwarves), Vanaheim (vanir), Helheim (dead)
+- **Norns:** Urðr (past), Verðandi (present), Skuld (future) - water the tree
+- **Archetype for AI:** The network, blockchain, interconnected systems, distributed computing
+- **Keywords:** tree, network, worlds, connection, fate
+
+#### Jötnar (Giants)
+- **Nature:** Primordial beings, often adversaries of gods
+- **Examples:** Ymir (primordial), Thrym (king of giants), Skadi (winter goddess)
+- **Archetype for AI:** Edge cases, adversarial inputs, scale challenges
+- **Keywords:** giants, edge cases, chaos, nature
+
+#### Valkyries
+- **Role:** Choosers of the slain, bring warriors to Valhalla
+- **Archetype for AI:** Resource allocation, priority scheduling, selection algorithms
+- **Keywords:** selection, war, death, honor
+
+#### Draugr (Undead)
+- **Nature:** Ghosts, undead warriors
+- **Archetype for AI:** Zombies processes, dormant data, persistence
+- **Keywords:** undead, ghosts, death, lingering
 
 ### Norse Concepts
-- **Ragnarök:** End of the world, rebirth
-- **Valhalla:** Hall of the slain warriors
-- **Fólkvangr:** Freyja's field (alternative afterlife)
-- **Runes:** Sacred symbols, knowledge system
+
+#### Ragnarök
+- **Concept:** The end of the world, battle between gods and giants
+- **Aftermath:** World submerged, then reborn green and fertile
+- **Survivors:** Baldr, Höðr, Magni, Modi, Thor's sons, Líf and Lífþrasir (humans)
+- **Archetype for AI:** System reset, catastrophic failure, reboot, disaster recovery
+- **Keywords:** apocalypse, rebirth, renewal, reset
+
+#### Valhalla
+- **Concept:** Hall of the slain warriors, ruled by Odin
+- **Archetype for AI:** Hall of fame, honored logs, preserved states
+- **Keywords:** honor, glory, preservation
+
+#### Seiðr
+- **Concept:** Magic involving fate and seeing into the future
+- **Archetype for AI:** Prediction systems, forecasting, precognition
+- **Keywords:** magic, fate, future, divination
+
+#### Runes
+- **Concept:** Sacred symbols, writing system, magical significance
+- **Archetype for AI:** Encodings, tokenization, embeddings
+- **Keywords:** symbols, writing, knowledge, encoding
+
+---
+
+### Norse AI Mapping Summary
+
+| Norse Concept | AI Analogy |
+|--------------|------------|
+| Odin + sacrifice | Training costs, GPU consumption |
+| Odin's ravens | Distributed monitoring |
+| Thor's hammer | Defense mechanism, security |
+| Loki | Glitch, anomaly, adversarial |
+| Yggdrasil | Blockchain, distributed ledger |
+| Ragnarök | System reset, disaster recovery |
+| Valkyries | Load balancing, scheduling |
+| Seiðr | Prediction, forecasting |
+| Valhalla | Backup storage, cold archive |
+| Norns |命运 (fate), scheduling algorithms |
+| Mjolnir | Access control, hammer down |
+| Jötnar | Edge cases, extremes |
+| Draugr | Zombie processes, dormant data |
 
 ---
 

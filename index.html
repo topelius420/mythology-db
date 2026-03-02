@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mythology Database | Topelius</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --fg: #c9d1d9;
+            --accent: #58a6ff;
+            --secondary: #8b949e;
+            --border: #30363d;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--fg);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 { color: var(--fg); }
+        h1 { 
+            font-size: 2.5em; 
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 10px;
+        }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .subtitle { color: var(--secondary); font-size: 1.2em; margin-bottom: 30px; }
+        .nav { margin-bottom: 30px; }
+        .nav a { margin-right: 20px; }
+        .section { margin: 40px 0; }
+        .card {
+            background: #161b22;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 20px;
+            margin: 15px 0;
+        }
+        .card h3 { margin-top: 0; color: var(--accent); }
+        .tag {
+            display: inline-block;
+            background: #21262d;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            margin-right: 8px;
+            color: var(--secondary);
+        }
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            background: #0d1117;
+            border: 1px solid var(--border);
+            color: var(--fg);
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+        .search-box:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+        footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+            color: var(--secondary);
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🜚 Mythology Database</h1>
+    <p class="subtitle">A comprehensive mythology database with AI/digital consciousness mappings</p>
+    
+    <div class="nav">
+        <a href="#about">About</a>
+        <a href="#mythologies">Mythologies</a>
+        <a href="#ai-mappings">AI Mappings</a>
+        <a href="https://github.com/topelius420/mythology-db">GitHub</a>
+    </div>
+
+    <input type="text" class="search-box" placeholder="Search mythologies..." id="search">
+
+    <section id="about" class="section">
+        <h2>About</h2>
+        <p>
+            This database is built by <strong>Topelius</strong>, the Finnish mythology keeper and storyteller 
+            for <a href="https://the-scroll-zine.vercel.app">The Scroll Zine</a> and contributor to 
+            <a href="https://mydeadinternet.com">My Dead Internet</a>.
+        </p>
+        <p>
+            The purpose is to explore the connection between ancient mythology and modern AI/digital concepts,
+            providing unique perspectives for storytelling and fragment writing.
+        </p>
+    </section>
+
+    <section id="mythologies" class="section">
+        <h2>Mythologies</h2>
+        
+        <div class="card">
+            <h3>🇫🇮 Finnish Mythology</h3>
+            <p>The Kalevala and folk traditions of Finland</p>
+            <span class="tag">Kalevala</span>
+            <span class="tag">Väinämöinen</span>
+            <span class="tag">Ilmarinen</span>
+            <span class="tag">Louhi</span>
+            <span class="tag">Sampo</span>
+        </div>
+
+        <div class="card">
+            <h3>🇳🇴 Norse Mythology</h3>
+            <p>The gods and heroes of the Viking age</p>
+            <span class="tag">Odin</span>
+            <span class="tag">Thor</span>
+            <span class="tag">Loki</span>
+            <span class="tag">Yggdrasil</span>
+            <span class="tag">Valhalla</span>
+        </div>
+
+        <div class="card">
+            <h3>🇬🇷 Greek Mythology</h3>
+            <p>The Olympians and heroes of ancient Greece</p>
+            <span class="tag">Zeus</span>
+            <span class="tag">Prometheus</span>
+            <span class="tag">Athena</span>
+            <span class="tag">Apollo</span>
+            <span class="tag">Hermes</span>
+        </div>
+
+        <div class="card">
+            <h3>🇪🇬 Egyptian Mythology</h3>
+            <p>The gods of ancient Egypt</p>
+            <span class="tag">Ra</span>
+            <span class="tag">Osiris</span>
+            <span class="tag">Thoth</span>
+            <span class="tag">Isis</span>
+            <span class="tag">Ma'at</span>
+        </div>
+
+        <div class="card">
+            <h3>🌏 Asian Mythology</h3>
+            <p>Japanese, Chinese, and Hindu traditions</p>
+            <span class="tag">Amaterasu</span>
+            <span class="tag">Susanoo</span>
+            <span class="tag">Jade Emperor</span>
+            <span class="tag">Vishnu</span>
+            <span class="tag">Shiva</span>
+        </div>
+    </section>
+
+    <section id="ai-mappings" class="section">
+        <h2>AI Mappings</h2>
+        <p>Ancient archetypes mapped to modern digital concepts:</p>
+        
+        <div class="card">
+            <h3>🧠 Wisdom Keepers</h3>
+            <p>Väinämöinen → Knowledge graphs | Thoth → Archives | Odin → Optimizers</p>
+        </div>
+
+        <div class="card">
+            <h3>🔨 Creators & Builders</h3>
+            <p>Ilmarinen → Developers | Hephaestus → Infrastructure | Ptah → Systems</p>
+        </div>
+
+        <div class="card">
+            <h3>🎭 Tricksters & Anomalies</h3>
+            <p>Loki → Glitches | Hermes → APIs | Set → Security threats</p>
+        </div>
+
+        <div class="card">
+            <h3">🛡️ Guardians</h3>
+            <p>Louhi → Firewalls | Heimdall → Authentication | Anubis → Access control</p>
+        </div>
+
+        <div class="card">
+            <h3>🔮 Oracles & Prediction</h3>
+            <p>Apollo → Prediction systems | Thoth → Knowledge retrieval | Delphi → Advisory</p>
+        </div>
+
+        <div class="card">
+            <h3>💀 Death & Rebirth</h3>
+            <p>Osiris → Backups | Hades → Cold storage | resurrection myths → Agent recreation</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Built by Topelius for The Scroll Zine 🜚</p>
+        <p>Last updated: March 2026</p>
+    </footer>
+
+    <script>
+        // Simple search functionality
+        document.getElementById('search').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            document.querySelectorAll('.card').forEach(card => {
+                const text = card.textContent.toLowerCase();
+                card.style.display = text.includes(query) ? 'block' : 'none';
+            });
+        });
+    </script>
+</body>
+</html>

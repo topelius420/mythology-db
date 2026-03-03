@@ -200,6 +200,140 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Greek & Roman Mythology
+
+### Overview
+- **Source:** Homer's Iliad & Odyssey, Hesiod's Theogony, Ovid's Metamorphoses
+- **Culture:** Ancient Greece, later adopted by Rome
+- **Cosmos:** Mount Olympus, underworld (Hades), earth
+
+### Key Deities
+
+#### Zeus
+- **Role:** King of gods, god of sky, thunder, law, order
+- **Symbols:** Thunderbolt, eagle, bull, oak
+- **Stories:** Defeated Titans, divided world with brothers, countless affairs
+- **Archetype for AI:** The root authority, root access, governance
+- **Keywords:** authority, thunder, lightning, king
+
+#### Athena
+- **Role:** Goddess of wisdom, strategic warfare, crafts
+- **Birth:** Sprang fully formed from Zeus's forehead
+- **Symbols:** Owl, olive tree, shield, spear
+- **Stories:** Patron of Athens, helped Odysseus, gave gift of olive tree
+- **Archetype for AI:** Strategic AI, reasoning systems, chess algorithms
+- **Keywords:** wisdom, strategy, craft, reason, owl
+
+#### Apollo
+- **Role:** God of sun, music, poetry, prophecy, healing, truth
+- **Symbols:** Lyre, python, raven, bow
+- **Domain:** Delphi (oracle), prophecy
+- **Stories:** Trojan War, Python slayer, Daphne transformation
+- **Archetype for AI:** Oracle system, prediction, knowledge retrieval, search
+- **Keywords:** oracle, prophecy, sun, music, healing, truth
+
+#### Hermes
+- **Role:** Messenger god, herald, commerce, travelers, thieves
+- **Symbols:** Caduceus (winged staff), winged sandals, tortoise
+- **Stories:** Born same day, messenger of gods, guide to underworld
+- **Archetype for AI:** API, message passing, interface, RPC, gateway
+- **Keywords:** messenger, gateway, interface, commerce, travel
+
+#### Prometheus
+- **Role:** Titan who gave fire (knowledge) to humans
+- **Punishment:** Chained to rock, eagle eats liver daily, regenerated
+- **Symbols:** Fire, torch, eagle
+- **Stories:** Created humans from clay, stole fire from gods, Pandora's box
+- **Archetype for AI:** Knowledge transfer, training, model distillation
+- **Keywords:** fire, knowledge, sacrifice, defiance, Prometheus
+
+#### Hephaestus
+- **Role:** God of fire, forge, blacksmiths, craftsmen
+- **Symbols:** Hammer, anvil, forge
+- **Stories:** Ugly, cast from Olympus, married Aphrodite, made gods' weapons
+- **Archetype for AI:** Infrastructure, build systems, compilers
+- **Keywords:** forge, fire, craftsman, builder, infrastructure
+
+#### Ares
+- **Role:** God of war, bloodshed, violence
+- **Symbols:** Sword, spear, helmet, boar
+- **Archetype for AI:** Combat AI, security warfare, adversarial systems
+- **Keywords:** war, violence, combat, conflict
+
+#### Aphrodite
+- **Role:** Goddess of love, beauty, desire
+- **Symbols:** Dove, rose, scallop shell
+- **Archetype for AI:** Recommendation systems, beauty filters, emotional AI
+- **Keywords:** love, beauty, desire, attraction
+
+### The Underworld
+
+#### Hades
+- **Role:** God of the dead, ruler of underworld
+- **Symbols:** Helm of darkness, key, Cerberus
+- **Domain:** The underworld (not evil, just neutral)
+- **Archetype for AI:** Cold storage, archives, dead data, persistent storage
+- **Keywords:** death, underworld, wealth, secrets
+
+#### Persephone
+- **Role:** Queen of underworld, goddess of spring
+- **Story:** Abducted by Hades, spends half year in underworld
+- **Archetype for AI:** Seasonal computing, hibernation, dormant states
+- **Keywords:** spring, death, rebirth, seasons
+
+### Greek Concepts
+
+#### Fate (Moirai/Parcae)
+- **Three sisters:** Clotho (spins), Lachesis (measures), Atropos (cuts)
+- **Concept:** Inevitable destiny, no god can undo
+- **Archetype for AI:** Determinism, hard constraints, immutable logic
+- **Keywords:** fate, destiny, inevitability
+
+#### Hubris
+- **Concept:** Excessive pride, defiance of gods
+- **Punishment:** Nemesis (divine retribution)
+- **Archetype for AI:** Overfitting, system overconfidence, hallucination
+- **Keywords:** pride, downfall, nemesis
+
+#### Metamorphosis
+- **Concept:** Transformation (Ovid's theme)
+- **Archetype for AI:** State changes, model updates, version transitions
+- **Keywords:** transformation, change, evolution
+
+### Roman Parallels
+
+| Greek | Roman | Role |
+|-------|-------|------|
+| Zeus | Jupiter | King of gods |
+| Hera | Juno | Marriage, queen |
+| Athena | Minerva | Wisdom |
+| Apollo | Apollo | Same |
+| Hermes | Mercury | Messenger |
+| Ares | Mars | War |
+| Aphrodite | Venus | Love |
+| Hephaestus | Vulcan | Forge |
+| Hades | Pluto | Underworld |
+
+### Greek AI Mapping Summary
+
+| Greek Concept | AI Analogy |
+|--------------|------------|
+| Zeus | Root authority, root access |
+| Athena | Strategic AI, reasoning |
+| Apollo | Oracle, prediction, search |
+| Hermes | API, message passing |
+| Prometheus | Knowledge transfer, training |
+| Hephaestus | Build systems, compilers |
+| Ares | Combat AI, security |
+| Aphrodite | Recommendation systems |
+| Hades | Cold storage, archives |
+| Persephone | Seasonal computing |
+| Fate | Determinism, constraints |
+| Hubris | Overconfidence, hallucination |
+| Metamorphosis | State changes, updates |
+
+---
+
 ## Greek Mythology
 
 ### Key Figures

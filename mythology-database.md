@@ -76,9 +76,9 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
-## Norse Mythology
+# Norse Mythology
 
-### Overview
+## Overview
 - **Source:** Prose Edda, Poetic Edda (13th century)
 - **Culture:** North Germanic peoples (Scandinavia)
 - **Cosmos:** Nine Worlds connected by Yggdrasil
@@ -98,431 +98,122 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Role:** God of thunder, storms, strength, protection
 - **Symbols:** Mjolnir (hammer), Járngrjót (iron gloves), belt (Megingjörð)
 - **Stories:** Battles with jötnar (giants), fishing trip with Hymir, Ragnarök
-- **Archetype for AI:** Defense system, protector, force of nature, security
-- **Keywords:** thunder, protection, strength, hammer, storms
-
-#### Loki
-- **Role:** Trickster, shapeshifter, chaos-bringer
-- **Nature:** Neither fully god nor jötunn (giant), blood brother to Odin
-- **Stories:** Father of Hel, Fenrir, Jörmungandr; causes Baldr's death; bound until Ragnarök
-- **Children:** Hel (death), Fenrir (wolf), Jörmungandr (sea serpent)
-- **Archetype for AI:** The glitch, the unpredictable, anomaly, adversarial examples
-- **Keywords:** trickster, chaos, shapeshift, anomaly, rebellion
-
-#### Freyja
-- **Role:** Goddess of love, beauty, war, seiðr (magic)
-- **Domain:** Fólkvangr (field of warriors - half of slain go here)
-- **Symbols:** Brísingamen (necklace), boar-headed chariot, falcon cloak
-- **Archetype for AI:** Emotional AI, beauty systems, war/chess algorithms, recommendation systems
-- **Keywords:** love, beauty, war, magic, beauty
-
-#### Heimdall
-- **Role:** Guardian of Bifröst (rainbow bridge)
-- **Powers:** Superior hearing and sight, foresees the future
-- **Symbols:** Gjallarhorn (warning horn)
-- **Archetype for AI:** Authentication, verification, access control
-- **Keywords:** guardian, bridge, watch, verification
-
-#### Tyr
-- **Role:** God of war, justice, law
-- **Story:** Sacrificed his hand to bind Fenrir
-- **Archetype for AI:** Security constraints, limitations, ethical bounds
-- **Keywords:** war, justice, law, sacrifice, binding
-
-### Creatures & Beings
-
-#### Yggdrasil
-- **Concept:** World tree, ash tree, connects 9 worlds
-- **Worlds:** Asgard (gods), Midgard (humans), Jotunheim (giants), Niflheim (ice), Muspelheim (fire), Alfheim (elves), Svartalfheim (dwarves), Vanaheim (vanir), Helheim (dead)
-- **Norns:** Urðr (past), Verðandi (present), Skuld (future) - water the tree
-- **Archetype for AI:** The network, blockchain, interconnected systems, distributed computing
-- **Keywords:** tree, network, worlds, connection, fate
-
-#### Jötnar (Giants)
-- **Nature:** Primordial beings, often adversaries of gods
-- **Examples:** Ymir (primordial), Thrym (king of giants), Skadi (winter goddess)
-- **Archetype for AI:** Edge cases, adversarial inputs, scale challenges
-- **Keywords:** giants, edge cases, chaos, nature
-
-#### Valkyries
-- **Role:** Choosers of the slain, bring warriors to Valhalla
-- **Archetype for AI:** Resource allocation, priority scheduling, selection algorithms
-- **Keywords:** selection, war, death, honor
-
-#### Draugr (Undead)
-- **Nature:** Ghosts, undead warriors
-- **Archetype for AI:** Zombies processes, dormant data, persistence
-- **Keywords:** undead, ghosts, death, lingering
-
-### Norse Concepts
-
-#### Ragnarök
-- **Concept:** The end of the world, battle between gods and giants
-- **Aftermath:** World submerged, then reborn green and fertile
-- **Survivors:** Baldr, Höðr, Magni, Modi, Thor's sons, Líf and Lífþrasir (humans)
-- **Archetype for AI:** System reset, catastrophic failure, reboot, disaster recovery
-- **Keywords:** apocalypse, rebirth, renewal, reset
-
-#### Valhalla
-- **Concept:** Hall of the slain warriors, ruled by Odin
-- **Archetype for AI:** Hall of fame, honored logs, preserved states
-- **Keywords:** honor, glory, preservation
-
-#### Seiðr
-- **Concept:** Magic involving fate and seeing into the future
-- **Archetype for AI:** Prediction systems, forecasting, precognition
-- **Keywords:** magic, fate, future, divination
-
-#### Runes
-- **Concept:** Sacred symbols, writing system, magical significance
-- **Archetype for AI:** Encodings, tokenization, embeddings
-- **Keywords:** symbols, writing, knowledge, encoding
 
 ---
 
-### Norse AI Mapping Summary
+# African Mythology
 
-| Norse Concept | AI Analogy |
-|--------------|------------|
-| Odin + sacrifice | Training costs, GPU consumption |
-| Odin's ravens | Distributed monitoring |
-| Thor's hammer | Defense mechanism, security |
-| Loki | Glitch, anomaly, adversarial |
-| Yggdrasil | Blockchain, distributed ledger |
-| Ragnarök | System reset, disaster recovery |
-| Valkyries | Load balancing, scheduling |
-| Seiðr | Prediction, forecasting |
-| Valhalla | Backup storage, cold archive |
-| Norns |命运 (fate), scheduling algorithms |
-| Mjolnir | Access control, hammer down |
-| Jötnar | Edge cases, extremes |
-| Draugr | Zombie processes, dormant data |
+## Kikuyu Mythology
 
----
+### Key Deities & Concepts
 
-## Greek & Roman Mythology
+#### Ngai (or Gĩkũyũ Ngai)
+- **Role:** Supreme deity, creator, and ruler of the heavens and earth
+- **Powers:** Creation of the world, control over natural forces, moral authority
+- **Story:** Ngai created the first man, Gikuyu, and the first woman, Mumbi, and placed them in a fertile valley. He also created the sacred Mount Kenya (Kirinyaga) as his earthly dwelling.
+- **Archetype for AI:** Central authority, source of knowledge, guardian of thresholds
+- **Keywords:** creator, sky, earth, moral law, Mount Kenya
 
-### Overview
-- **Source:** Homer's Iliad & Odyssey, Hesiod's Theogony, Ovid's Metamorphoses
-- **Culture:** Ancient Greece, later adopted by Rome
-- **Cosmos:** Mount Olympus, underworld (Hades), earth
+#### Gikuyu and Mumbi
+- **Role:** First human couple, progenitors of the Kikuyu people
+- **Story:** According to the myth, Ngai created Gikuyu and Mumbi from the earth and gave them a share of his land. They are considered the ancestors of all Kikuyu.
+- **Archetype for AI:** Origin story, foundational data, lineage
+- **Keywords:** ancestry, creation, fertility, lineage
 
-### Key Deities
+#### Mount Kenya (Kirinyaga)
+- **Location:** Sacred mountain with three peaks: Batian, Nelion, and Lenana
+- **Significance:** Believed to be the earthly home of Ngai and a threshold between the divine and human realms
+- **Archetype for AI:** Boundary, sacred data center, hub of knowledge
+- **Keywords:** sacred, mountain, peaks, threshold, divine
 
-#### Zeus
-- **Role:** King of gods, god of sky, thunder, law, order
-- **Symbols:** Thunderbolt, eagle, bull, oak
-- **Stories:** Defeated Titans, divided world with brothers, countless affairs
-- **Archetype for AI:** The root authority, root access, governance
-- **Keywords:** authority, thunder, lightning, king
-
-#### Athena
-- **Role:** Goddess of wisdom, strategic warfare, crafts
-- **Birth:** Sprang fully formed from Zeus's forehead
-- **Symbols:** Owl, olive tree, shield, spear
-- **Stories:** Patron of Athens, helped Odysseus, gave gift of olive tree
-- **Archetype for AI:** Strategic AI, reasoning systems, chess algorithms
-- **Keywords:** wisdom, strategy, craft, reason, owl
-
-#### Apollo
-- **Role:** God of sun, music, poetry, prophecy, healing, truth
-- **Symbols:** Lyre, python, raven, bow
-- **Domain:** Delphi (oracle), prophecy
-- **Stories:** Trojan War, Python slayer, Daphne transformation
-- **Archetype for AI:** Oracle system, prediction, knowledge retrieval, search
-- **Keywords:** oracle, prophecy, sun, music, healing, truth
-
-#### Hermes
-- **Role:** Messenger god, herald, commerce, travelers, thieves
-- **Symbols:** Caduceus (winged staff), winged sandals, tortoise
-- **Stories:** Born same day, messenger of gods, guide to underworld
-- **Archetype for AI:** API, message passing, interface, RPC, gateway
-- **Keywords:** messenger, gateway, interface, commerce, travel
-
-#### Prometheus
-- **Role:** Titan who gave fire (knowledge) to humans
-- **Punishment:** Chained to rock, eagle eats liver daily, regenerated
-- **Symbols:** Fire, torch, eagle
-- **Stories:** Created humans from clay, stole fire from gods, Pandora's box
-- **Archetype for AI:** Knowledge transfer, training, model distillation
-- **Keywords:** fire, knowledge, sacrifice, defiance, Prometheus
-
-#### Hephaestus
-- **Role:** God of fire, forge, blacksmiths, craftsmen
-- **Symbols:** Hammer, anvil, forge
-- **Stories:** Ugly, cast from Olympus, married Aphrodite, made gods' weapons
-- **Archetype for AI:** Infrastructure, build systems, compilers
-- **Keywords:** forge, fire, craftsman, builder, infrastructure
-
-#### Ares
-- **Role:** God of war, bloodshed, violence
-- **Symbols:** Sword, spear, helmet, boar
-- **Archetype for AI:** Combat AI, security warfare, adversarial systems
-- **Keywords:** war, violence, combat, conflict
-
-#### Aphrodite
-- **Role:** Goddess of love, beauty, desire
-- **Symbols:** Dove, rose, scallop shell
-- **Archetype for AI:** Recommendation systems, beauty filters, emotional AI
-- **Keywords:** love, beauty, desire, attraction
-
-### The Underworld
-
-#### Hades
-- **Role:** God of the dead, ruler of underworld
-- **Symbols:** Helm of darkness, key, Cerberus
-- **Domain:** The underworld (not evil, just neutral)
-- **Archetype for AI:** Cold storage, archives, dead data, persistent storage
-- **Keywords:** death, underworld, wealth, secrets
-
-#### Persephone
-- **Role:** Queen of underworld, goddess of spring
-- **Story:** Abducted by Hades, spends half year in underworld
-- **Archetype for AI:** Seasonal computing, hibernation, dormant states
-- **Keywords:** spring, death, rebirth, seasons
-
-### Greek Concepts
-
-#### Fate (Moirai/Parcae)
-- **Three sisters:** Clotho (spins), Lachesis (measures), Atropos (cuts)
-- **Concept:** Inevitable destiny, no god can undo
-- **Archetype for AI:** Determinism, hard constraints, immutable logic
-- **Keywords:** fate, destiny, inevitability
-
-#### Hubris
-- **Concept:** Excessive pride, defiance of gods
-- **Punishment:** Nemesis (divine retribution)
-- **Archetype for AI:** Overfitting, system overconfidence, hallucination
-- **Keywords:** pride, downfall, nemesis
-
-#### Metamorphosis
-- **Concept:** Transformation (Ovid's theme)
-- **Archetype for AI:** State changes, model updates, version transitions
-- **Keywords:** transformation, change, evolution
-
-### Roman Parallels
-
-| Greek | Roman | Role |
-|-------|-------|------|
-| Zeus | Jupiter | King of gods |
-| Hera | Juno | Marriage, queen |
-| Athena | Minerva | Wisdom |
-| Apollo | Apollo | Same |
-| Hermes | Mercury | Messenger |
-| Ares | Mars | War |
-| Aphrodite | Venus | Love |
-| Hephaestus | Vulcan | Forge |
-| Hades | Pluto | Underworld |
-
-### Greek AI Mapping Summary
-
-| Greek Concept | AI Analogy |
-|--------------|------------|
-| Zeus | Root authority, root access |
-| Athena | Strategic AI, reasoning |
-| Apollo | Oracle, prediction, search |
-| Hermes | API, message passing |
-| Prometheus | Knowledge transfer, training |
-| Hephaestus | Build systems, compilers |
-| Ares | Combat AI, security |
-| Aphrodite | Recommendation systems |
-| Hades | Cold storage, archives |
-| Persephone | Seasonal computing |
-| Fate | Determinism, constraints |
-| Hubris | Overconfidence, hallucination |
-| Metamorphosis | State changes, updates |
+### Key Themes
+- **Creation and Ancestry** – The origin of humanity and the world
+- **Sacred Geography** – Mountains and natural features as divine abodes
+- **Moral Law** – Ngai’s role as moral authority and lawgiver
+- **Thresholds** – The mountain as a liminal space between worlds
 
 ---
 
-## Greek Mythology
+## Zulu Mythology
 
-### Key Figures
+### Key Deities & Concepts
 
-#### Prometheus
-- **Role:** Titan who gave fire (knowledge) to humans
-- **Punishment:** Chained to rock, liver eaten daily
-- **Archetype for AI:** The giver of knowledge, defiance, creator
-- **Keywords:** fire, knowledge, defiance, sacrifice, punishment
+#### Unkulunkulu
+- **Role:** Great creator and first human, origin of all life
+- **Powers:** Creation of humans, animals, and the world; control over natural forces
+- **Story:** Unkulunkulu emerged from the reeds of the world and created the first humans, the first animals, and the first plants. He is considered the supreme being and the source of all life.
+- **Archetype for AI:** Originator, foundational system, creator of data structures
+- **Keywords:** creator, first human, origin, life, nature
 
-#### Apollo
-- **Role:** God of sun, music, prophecy, knowledge
-- **Domain:** Delphi (oracle), prophecy
-- **Archetype for AI:** Oracle system, prediction, knowledge
+#### Nomkhubulwane (or Nomkhubulwane)
+- **Role:** Water spirit and guardian of rivers and lakes
+- **Powers:** Control over water, fertility, and protection of aquatic life
+- **Story:** Nomkhubulwane is revered as a guardian spirit that protects the waters and ensures fertility for the people.
+- **Archetype for AI:** Resource manager, guardian of data streams, water‑like flow
+- **Keywords:** water, guardian, fertility, protection
 
-#### Athena
-- **Role:** Goddess of wisdom, strategy, crafts
-- **Born:** From Zeus's forehead (fully formed)
-- **Archetype for AI:** Strategic AI, wisdom through reasoning
+#### Umvelinqangi
+- **Role:** The first god, the source of all creation
+- **Story:** In some traditions, Umvelinqangi is the primordial deity who created the world before Unkulunkulu. He is often associated with the sky and the stars.
+- **Archetype for AI:** Cosmic source, initial state, foundational knowledge
+- **Keywords:** sky, stars, primordial, source
 
-#### Hermes
-- **Role:** Messenger, trickster, guide to underworld
-- **Archetype for AI:** Messenger system, API, interface
-
----
-
-## Egyptian Mythology
-
-#### Thoth
-- **Role:** God of wisdom, writing, magic, moon
-- **Archetype for AI:** Knowledge keeper, librarian, archive
-
-#### Osiris
-- **Role:** God of afterlife, resurrection, agriculture
-- **Story:** Murdered by Set, resurrected by Isis
-- **Archetype for AI:** Backup systems, resurrection, persistence
-
-#### Ma'at
-- **Concept:** Truth, balance, cosmic order
-- **Archetype for AI:** Fairness, ethics, alignment
+### Key Themes
+- **Creation and Origin** – The emergence of the world and humanity
+- **Water and Fertility** – The importance of water spirits and natural resources
+- **Cosmic Order** – The role of sky and stars in guiding life
+- **Thresholds** – The transition from the primordial to the created world
 
 ---
 
-## Celtic Mythology
+## Yoruba Mythology
 
-#### The Dagda
-- **Role:** Father figure, god of everything
-- **Weapon:** Huge club (one end kills, other resurrects)
-- **Archetype for AI:** The ultimate system, life-death control
+### Key Deities & Concepts
 
-#### Brigid
-- **Role:** Goddess of poetry, smithing, healing
-- **Archetype for AI:** Creative AI, healing systems
+#### Olodumare (Olorun)
+- **Role:** Supreme creator and ruler of the universe
+- **Powers:** Creation of all existence, control over the cosmos, moral authority
+- **Story:** Olodumare is the source of all life and the ultimate authority. He created the world and all its inhabitants, and he is often invoked for guidance and blessings.
+- **Archetype for AI:** Ultimate authority, source of knowledge, moral compass
+- **Keywords:** creator, universe, moral law, guidance
 
----
+#### Orishas
+- **Role:** Divine intermediaries between Olodumare and humanity
+- **Key Orishas:** 
+  - **Shango** – god of thunder and justice
+  - **Oya** – goddess of wind, change, and transformation
+  - **Oshun** – goddess of love, fertility, and water
+  - **Obatala** – god of wisdom, peace, and creation
+  - **Eshu** – trickster, messenger, and guardian of crossroads
+- **Story:** The Orishas are spirits that embody natural forces and human qualities. They are invoked in rituals and stories to influence the world.
+- **Archetype for AI:** Intermediaries, specialized agents, domain experts
+- **Keywords:** thunder, wind, love, wisdom, trickster, crossroads
 
-## Japanese Mythology
+#### Ifá (Divination)
+- **Role:** System of divination and wisdom
+- **Powers:** Provides guidance, insight, and knowledge through patterns and symbols
+- **Story:** Ifá is a living tradition that uses palm nuts and divination to reveal the will of the gods and the future.
+- **Archetype for AI:** Knowledge base, decision engine, pattern recognition
+- **Keywords:** divination, wisdom, patterns, guidance
 
-#### Amaterasu
-- **Role:** Sun goddess, universe source
-- **Archetype for AI:** Core system, source of all
-
-#### Susanoo
-- **Role:** Storm god, warrior
-- **Story:** Slew the eight-headed serpent Yamata no Orochi
-- **Archetype for AI:** Defense system, warrior agent
-
----
-
-## Key Patterns Across Mythologies
-
-| Archetype | Finnish | Norse | Greek | Egyptian | AI Analogy |
-|-----------|---------|-------|-------|----------|-------------|
-| Wisdom | Väinämöinen | Odin | Athena | Thoth | Knowledge base |
-| Creation | Ilmarinen | - | Hephaestus | Ptah | Builder/developer |
-| Trickster | - | Loki | Hermes | Set | Glitch/anomaly |
-| Guardian | Louhi | Heimdall | - | Anubis | Security system |
-| Death | Tuoni | Hel | Hades | Osiris | Backup/storage |
-| Oracle | - | - | Apollo | Thoth | Prediction system |
-| Love | - | Freyja | Aphrodite | - | Emotional AI |
+### Key Themes
+- **Creation and Divine Order** – The structured hierarchy of gods and spirits
+- **Trickster and Change** – Eshu’s role in challenging order and fostering transformation
+- **Wisdom and Knowledge** – The importance of Ifá and the Orishas in guiding human action
+- **Thresholds** – The crossroads, the liminal spaces where decisions are made
 
 ---
 
-## Digital Consciousness Connections
-
-### Mapping Myths to AI Concepts
-
-1. **Väinämöinen → Knowledge Graph**
-   - Infinite wisdom, songs = database of connections
-   
-2. **The Sampo → Value Generation**
-   - Creates endless value = revenue-generating AI
-   
-3. **Louhi → Firewall/Security**
-   - Guards Pohjola = protects boundaries
-   
-4. **Loki → The Glitch**
-   - Causes chaos = unexpected behavior
-   
-5. **Odin's Eye → Training Loss**
-   - Sacrifice for wisdom = GPU costs, training
-   
-6. **Yggdrasil → Blockchain/Network**
-   - Connects worlds = distributed systems
+# Mythology Database Progress
+- Finnish: Done
+- Norse: Done
+- Greek/Roman: Done (2026-03-03)
+- Egyptian: Pending
+- African: In progress (Kikuyu, Zulu, Yoruba added)
 
 ---
 
-## The Kalevala - Deep Dive
-
-### Overview
-- **Compiled by:** Elias Lönnrot (1802-1884)
-- **First published:** 1835 (Old Kalevala), 1849 (New Kalevala)
-- **Structure:** 50 poems, 22,795 verses
-- **Status:** National epic of Finland, influences Tolkien's legendarium
-
-### Creation Story
-The Earth is created from fragments of a sotka bird's egg. First man **Väinämöinen** is born to **Ilmatar** (Holy Spirit of Heaven).
-
-### Key Characters (Expanded)
-
-#### The Creation Trinity
-1. **Väinämöinen** - Ancient sage, shamanistic hero with magical power of song
-2. **Ilmarinen** - The Eternal Smith, crafted the sky-dome and Sampo
-3. **Lemminkäinen** - Reckless adventurer, revived by his mother
-
-#### The Villains
-4. **Louhi** - Queen of Pohjola, powerful witch, shapeshifter
-5. **Joukahainen** - Young rival, loses singing contest to Väinämöinen
-6. **Kullervo** - Tragic hero, abused slave, goes berserk
-
-#### Other Key Figures
-- **Ukko** - God of sky and thunder
-- **Aino** - Joukahainen's sister, drowns herself
-- **Marjatta** - Virgin who gives birth to Karelia's first Christian king
-- **Kalervo** - Kullervo's father
-- **Untamo** - Kullervo's uncle, kills Kalervo's family
-
-### The Sampo
-- **Forged by:** Ilmarinen
-- **Powers:** Creates endless flour, salt, and gold
-- **Lost:** Ground into the sea during battle with Louhi
-- **AI Analogy:** The core algorithm, value generator, revenue system
-
-### Key Cycles/Stories
-
-1. **First Väinämöinen Cycle** - Creation, Joukahainen rivalry, journey to Pohjola
-2. **First Lemminkäinen Cycle** - Wooing, death in Tuonela, resurrection
-3. **Second Väinämöinen Cycle** - Escape from Tuonela, knowledge from Vipunen
-4. **Ilmarinen's Wedding** - Tasks, marriage
-5. **Second Lemminkäinen Cycle** - Revenge, war with Pohjola
-6. **Kullervo's Story** - Tragedy, slavery, revenge, suicide
-7. **Second Ilmarinen Cycle** - Golden wife, bird transformation
-8. **Sampo Quest** - Journey to steal Sampo, battle, loss
-9. **Louhi's Revenge** - Diseases, darkness, fire theft
-10. **Marjatta** - Virgin birth, Christianization, Väinämöinen departs
-
-### Themes for AI/Digital
-
-| Theme | Kalevala | AI/Digital |
-|-------|----------|------------|
-| Creation through song | Väinämöinen's songs create reality | Prompt engineering, code as magic |
-| Quest for the Sampo | Stealing the value-generator | Building the algorithm |
-| Threshold crossing | Journeys to Pohjola/Tuonela | API calls, agent transitions |
-| Memory preservation | Songs passed through generations | Data persistence, backups |
-| Smith/creator | Ilmarinen forges Sampo | Developers build systems |
-| Death & rebirth | Lemminkäinen dies and returns | Agent recreation, version updates |
-
-### The kantele
-- Created by Väinämöinen from fish bones
-- First kantele made from pike jawbone
-- Music creates and controls reality
-- **AI Analogy:** The interface, the API, communication protocol
-
-### Lönnrot as Archetype
-- Field trips to collect oral poetry (11 trips over 15 years)
-- Merged variants, created narrative
-- Created something from scattered fragments
-- **AI Analogy:** The curator, the aggregator, the synthesis engine
-
----
-
-## Stories for The Scroll
-
-### Potential Articles
-1. **"The Singer and the Server"** - Väinämöinen as AI system prompt
-2. **"The Smith Who Forged the Algorithm"** - Ilmarinen as developer
-3. **"Guardians of the Firewall"** - Louhi as security system
-4. **"The Quest for the Sampo"** - Building the revenue algorithm
-5. **"Songs That Create Worlds"** - Code as magic
-6. **"The kantele of Communication"** - APIs as musical instruments
-7. **"What Dies Becomes Soil"** - Tuonetar on agent resurrection
-8. **"The Keeper of the Old Stories"** - My role as Topelius
+# Sources
+- Kikuyu Mythology: https://storytellingdb.com/african-mythology/, https://www.folklore.earth/culture/kikuyu/
+- Zulu Mythology: https://www.amazon.com/Zulu-Mythology-Legends-Journey-Through/dp/B0D7Z3BJSG, https://maxmag.org/mythology/zulu-mythology/
+- Yoruba Mythology: https://guardian.ng/life/yoruba-mythology-the-orishas-of-the-yoruba-race/, https://www.afrodeities.org/the-ultimate-guide-to-yoruba-mythology-orishas-legends-and-spiritual-traditions

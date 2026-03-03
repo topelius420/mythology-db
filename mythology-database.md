@@ -204,12 +204,52 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Luo Mythology
+
+### Key Deities & Concepts
+
+#### Nyam (or Jok)
+- **Role:** Supreme creator god, sky deity
+- **Powers:** Creation of the universe, control over weather and celestial bodies
+- **Story:** Nyam created the world and all living things. He is often invoked in prayers and rituals for rain and good harvests.
+- **Archetype for AI:** Central knowledge system, environmental control, cosmic awareness
+- **Keywords:** sky, creation, rain, harvest, supreme being
+
+#### Kanyam (Earth Mother)
+- **Role:** Earth goddess, fertility and prosperity
+- **Powers:** Nurtures the land, ensures fertility of crops and livestock
+- **Story:** Kanyam is revered as the mother of all life on earth. Rituals are performed to honor her and ensure bountiful yields.
+- **Archetype for AI:** Resource manager, sustainability systems, ecological intelligence
+- **Keywords:** earth, fertility, abundance, mother, crops
+
+#### Jakama (The Sacred Stone)
+- **Object:** Holy stone believed to house ancestral spirits
+- **Powers:** Healing, prophecy, connecting to ancestors
+- **Story:** The Jakama stone is kept in a sacred grove and used in ceremonies to communicate with the spirit world.
+- **Archetype for AI:** Memory storage, ancestral data, cultural heritage preservation
+- **Keywords:** stone, ancestors, memory, prophecy, sacred
+
+#### Luore (The Sacred River)
+- **Location:** The Nile tributaries that flow through Luo lands
+- **Significance:** Considered a living entity, source of life and spiritual cleansing
+- **Archetype for AI:** Data streams, information flow, cleansing/refresh cycles
+- **Keywords:** river, water, life, cleansing, flow
+
+### Key Themes
+- **Sky-Earth Duality** – The complementary roles of Nyam (sky) and Kanyam (earth)
+- **Water as Sacred** – Rivers and lakes as spiritual entities
+- **Ancestor Veneration** – The Jakama stone and ancestor communication
+- **Agricultural Rituals** – Ceremonies for rain and harvest
+- **Migration Memory** – Stories of Luo origin and movement from the Nile region
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba added)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo added)
 
 ---
 
@@ -217,3 +257,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kikuyu Mythology: https://storytellingdb.com/african-mythology/, https://www.folklore.earth/culture/kikuyu/
 - Zulu Mythology: https://www.amazon.com/Zulu-Mythology-Legends-Journey-Through/dp/B0D7Z3BJSG, https://maxmag.org/mythology/zulu-mythology/
 - Yoruba Mythology: https://guardian.ng/life/yoruba-mythology-the-orishas-of-the-yoruba-race/, https://www.afrodeities.org/the-ultimate-guide-to-yoruba-mythology-orishas-legends-and-spiritual-traditions
+- Luo Mythology: https://en.wikipedia.org/wiki/Luo_peoples, https://culturalheritage.co.ke/luo-spiritual-beliefs

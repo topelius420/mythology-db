@@ -414,7 +414,7 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo added)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu - 9 tribes)
 
 ---
 

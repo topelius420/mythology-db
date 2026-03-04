@@ -244,6 +244,39 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Kisii (Gusii) Mythology
+
+### Key Deities & Concepts
+
+#### Moraa Wa Ng'iti
+- **Role:** Magical warrior spirit, protector of the Kisii people
+- **Powers:** Invincibility in war, shape-shifting, supernatural protection
+- **Story:** Moraa Wa Ng'iti was a legendary warrior who protected the Kisii from enemies. Stories tell of his magical abilities that made Kisii warriors nearly impossible to defeat.
+- **Archetype for AI:** Protective firewall, adversarial defense system, security guardian
+- **Keywords:** warrior, protection, magic, invincibility, defense
+
+#### Nyamesi
+- **Role:** Supreme creator god of the Gusii
+- **Powers:** Creation of land, people, and livestock
+- **Story:** Nyamesi is believed to have created the Kisii highlands and gave them their identity. The name "Gusii" derives from this deity's blessing.
+- **Archetype for AI:** Origin system, foundational data generator, creation algorithm
+- **Keywords:** creator, land, highlands, blessing, origin
+
+#### Ancestor Spirits (Abatwa)
+- **Role:** Guardians of moral order and cultural traditions
+- **Powers:** Guidance, protection, enforcement of taboos
+- **Story:** The Kisii believe ancestors watch over the living and intervene when moral laws are broken. Rituals maintain this connection.
+- **Archetype for AI:** Compliance monitoring, ethical oversight, ancestral data integrity
+- **Keywords:** ancestors, morals, taboos, protection, cultural preservation
+
+### Key Themes
+- **Warrior Protectors** – Moraa Wa Ng'iti as supernatural defense
+- **Sacred Highlands** – The Kisii highlands as divinely blessed land
+- **Ancestral Oversight** – Continuous connection between living and dead
+- **Resistance & Resilience** – Historical defense against colonial forces
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
@@ -258,3 +291,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Zulu Mythology: https://www.amazon.com/Zulu-Mythology-Legends-Journey-Through/dp/B0D7Z3BJSG, https://maxmag.org/mythology/zulu-mythology/
 - Yoruba Mythology: https://guardian.ng/life/yoruba-mythology-the-orishas-of-the-yoruba-race/, https://www.afrodeities.org/the-ultimate-guide-to-yoruba-mythology-orishas-legends-and-spiritual-traditions
 - Luo Mythology: https://en.wikipedia.org/wiki/Luo_peoples, https://culturalheritage.co.ke/luo-spiritual-beliefs
+- Kisii (Gusii) Mythology: https://www.hadithi.co/african-gods-the-gusii-tribe-of-kenya/, https://en.wikipedia.org/wiki/Gusii_people

@@ -310,6 +310,39 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Kalenjin Mythology
+
+### Key Deities & Concepts
+
+#### Asis
+- **Role:** Supreme god, associated with the sun
+- **Powers:** Creation, life sustainment, divine order
+- **Story:** Asis is the supreme deity, often depicted as the sun itself. He represents the source of life and moral order. Myths emphasize humility, bravery, and devotion.
+- **Archetype for AI:** Solar power systems, source of energy, life-giving algorithms
+- **Keywords:** sun, creation, life, divine order, sacrifice
+
+#### Nandi
+- **Role:** Mother goddess, earth and fertility
+- **Powers:** Fertility, protection, agricultural abundance
+- **Story:** Nandi is revered as the mother goddess who protects the land and people. She is closely tied to the highlands and cattle.
+- **Archetype for AI:** Resource management, fertility simulations, agricultural AI
+- **Keywords:** earth, fertility, mother, protection, highlands
+
+#### Chebet
+- **Role:** Rain god
+- **Powers:** Weather control, agricultural prosperity
+- **Story:** Chebet brings rain for crops and sustains the ecosystem. Prayers to Chebet ensure good harvests.
+- **Archetype for AI:** Weather prediction systems, climate modeling, environmental monitoring
+- **Keywords:** rain, weather, agriculture, prosperity, climate
+
+### Key Themes
+- **Solar Divinity** – Asis as life-giving sun god
+- **Highland Sacredness** – The Rift Valley as divine landscape
+- **Oral Praise Songs** – Preservation through songs and rituals
+- **Cattle & Wealth** – Cattle as spiritual and economic status
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
@@ -326,3 +359,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Luo Mythology: https://en.wikipedia.org/wiki/Luo_peoples, https://culturalheritage.co.ke/luo-spiritual-beliefs
 - Kisii (Gusii) Mythology: https://www.hadithi.co/african-gods-the-gusii-tribe-of-kenya/, https://en.wikipedia.org/wiki/Gusii_people
 - Kamba Mythology: https://www.folklore.earth/culture/kamba/, http://www.bluegecko.org/kenya/tribes/kamba/beliefs.htm
+- Kalenjin Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/

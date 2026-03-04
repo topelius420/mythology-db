@@ -343,6 +343,39 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Mijikenda Mythology
+
+### Key Deities & Concepts
+
+#### Kaya Forests (Sacred)
+- **Role:** Ancestral homeland and spiritual sanctuaries
+- **Powers:** Connection to ancestors, spiritual protection, environmental stewardship
+- **Story:** The Mijikenda nine tribes each have a sacred kaya forest where ancestors reside. These forests are protected spiritual zones for meditation and rituals.
+- **Archetype for AI:** Data archives, memory banks, protected data centers
+- **Keywords:** forests, ancestors, protection, heritage, environment
+
+#### Ancestral Idols (V部落)
+- **Role:** Spiritual intermediaries between humans and divine
+- **Powers:** Prayer transmission, sacrifice reception, guidance
+- **Story:** The Mijikenda worshipped wooden idols representing ancestors. Offerings of palm wine, porridge, and blood were made to these idols.
+- **Archetype for AI:** API gateways, prayer endpoints, spiritual interfaces
+- **Keywords:** idols, ancestors, rituals, communication, sacrifice
+
+#### Shungwaya (Origin)
+- **Role:** Legendary origin place from the north
+- **Powers:** Collective memory, cultural identity
+- **Story:** The Mijikenda believe they migrated from Shungwaya (on present-day Somali coast) to their current kaya forest settlements.
+- **Archetype for AI:** Origin databases, migration logs, historical tracking
+- **Keywords:** migration, origin, homeland, memory, identity
+
+### Key Themes
+- **Sacred Forests** – Kaya forests as protected spiritual zones
+- **Nine Tribes** – Collective identity through shared ancestry
+- **Oral Tradition** – Storytelling preserving cultural memory
+- **Environmental Harmony** – Living in balance with coastal ecosystems
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
@@ -360,3 +393,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kisii (Gusii) Mythology: https://www.hadithi.co/african-gods-the-gusii-tribe-of-kenya/, https://en.wikipedia.org/wiki/Gusii_people
 - Kamba Mythology: https://www.folklore.earth/culture/kamba/, http://www.bluegecko.org/kenya/tribes/kamba/beliefs.htm
 - Kalenjin Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/
+- Mijikenda Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://en.wikipedia.org/wiki/Mijikenda_peoples

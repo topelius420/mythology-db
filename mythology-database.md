@@ -277,6 +277,39 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Kamba Mythology
+
+### Key Deities & Concepts
+
+#### Mũlungu (or Mulungu)
+- **Role:** Supreme creator god of the universe
+- **Powers:** Creation of humans, land, and cosmic order
+- **Story:** Mũlungu created the first man (Kamba) and woman (Kĩveti) and placed them in the world. He is the supreme deity who watches over humanity.
+- **Archetype for AI:** Origin system, creation algorithm, cosmic oversight
+- **Keywords:** creator, origin, universe, divine order
+
+#### Kiimu (Spirits)
+- **Role:** Intermediate spirits between humans and the divine
+- **Powers:** Communication, guidance, protection
+- **Story:** Kiimu spirits serve as intermediaries, bringing messages from Mũlungu to humans. They are worshipped and honored through sacrifices.
+- **Archetype for AI:** Message brokers, API intermediaries, notification systems
+- **Keywords:** spirits, communication, divine messages, mediation
+
+#### Mbui (Divination Goats)
+- **Role:** Sacred animals used in divination rituals
+- **Powers:** Prophecy, future-reading, decision guidance
+- **Story:** Goats are used in Kamba traditional divination to determine outcomes of important decisions, especially marriages and harvests.
+- **Archetype for AI:** Prediction algorithms, decision trees, probabilistic systems
+- **Keywords:** divination, goats, prophecy, decisions, future
+
+### Key Themes
+- **Oral Tradition** – Rich storytelling passed through generations
+- **Divination & Decision-Making** – Using animals and spirits for guidance
+- **Connection to Land** – Mbooni Hills as sacred homeland
+- **Trade & Diplomacy** – Historical role as traders and mediators
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
@@ -292,3 +325,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Yoruba Mythology: https://guardian.ng/life/yoruba-mythology-the-orishas-of-the-yoruba-race/, https://www.afrodeities.org/the-ultimate-guide-to-yoruba-mythology-orishas-legends-and-spiritual-traditions
 - Luo Mythology: https://en.wikipedia.org/wiki/Luo_peoples, https://culturalheritage.co.ke/luo-spiritual-beliefs
 - Kisii (Gusii) Mythology: https://www.hadithi.co/african-gods-the-gusii-tribe-of-kenya/, https://en.wikipedia.org/wiki/Gusii_people
+- Kamba Mythology: https://www.folklore.earth/culture/kamba/, http://www.bluegecko.org/kenya/tribes/kamba/beliefs.htm

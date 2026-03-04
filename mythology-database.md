@@ -376,6 +376,39 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Embu Mythology
+
+### Key Deities & Concepts
+
+#### Ngai (Mwene Njeru)
+- **Role:** Supreme god, owner of the sun
+- **Powers:** Creation, omnipresence, land stewardship
+- **Story:** The Embu worship Ngai (Mwene Njeru) as the supreme deity who created the universe and bestowed land to the Embu people. He watches over them from Mount Kenya.
+- **Archetype for AI:** Solar-powered systems, omnipresent monitoring, land management AI
+- **Keywords:** sun, creation, land, omnipresence, stewardship
+
+#### Mwenendega (First Man)
+- **Role:** First human, placed on Earth by Ngai
+- **Powers:** Founding civilization, agricultural knowledge
+- **Story:** Ngai created Mwenendega and placed him in the Embu region to establish civilization and agriculture.
+- **Archetype for AI:** Foundational model, seed AI, origin point
+- **Keywords:** first man, creation, agriculture, origin
+
+#### Ancestral Spirits
+- **Role:** Guardians of moral order
+- **Powers:** Guidance, protection, cultural preservation
+- **Story:** Embu believe ancestors watch over the living and intervene through dreams and rituals.
+- **Archetype for AI:** Memory systems, ethical oversight, ancestral data
+- **Keywords:** ancestors, morals, dreams, protection
+
+### Key Themes
+- **Land & Legacy** – Intertwined love, land, and heritage
+- **Agricultural Roots** – Farming as sacred duty
+- **Mount Kenya Connection** – Ngai's watchful presence from the mountain
+- **Oral Tradition** – Stories passed through generations
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
@@ -394,3 +427,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kamba Mythology: https://www.folklore.earth/culture/kamba/, http://www.bluegecko.org/kenya/tribes/kamba/beliefs.htm
 - Kalenjin Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/
 - Mijikenda Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://en.wikipedia.org/wiki/Mijikenda_peoples
+- Embu Mythology: https://www.101lasttribes.com/tribes/embu.html, https://www.hadithi.co/african-gods-embu-tribe-from-kenya/

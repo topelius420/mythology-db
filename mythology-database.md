@@ -409,12 +409,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Meru Mythology
+
+### Key Deities & Concepts
+
+#### Murungu (Ngai)
+- **Role:** Supreme creator god, present in daily life
+- **Powers:** Creation, divine authority, blessing through nature
+- **Story:** Murungu (also Ngai) is the supreme god for Meru and Kikuyu. He is not distant but present in rain, wind, and sun. Righteousness (kihooto) and land stewardship are divine laws.
+- **Archetype for AI:** Omnipresent system, environmental monitoring, ethical governance
+- **Keywords:** creator, righteousness, nature, stewardship, divine law
+
+#### Mbwaa (Origin Narrative)
+- **Role:** Origin story of the Meru people
+- **Powers:** Cultural identity, historical memory
+- **Story:** Mbwaa is a widely narrated origin tale spanning three centuries, explaining how the Meru came to inhabit their lands.
+- **Archetype for AI:** Origin logs, historical tracking, cultural preservation
+- **Keywords:** origin, migration, identity, oral tradition
+
+#### Kihooto (Righteousness)
+- **Concept:** Divine moral law
+- **Principles:** Respect for elders, land stewardship, community harmony
+- **Story:** Kihooto is not just custom but divine law guiding Meru society.
+- **Archetype for AI:** Ethical frameworks, compliance systems, moral AI
+- **Keywords:** ethics, morality, law, community, respect
+
+### Key Themes
+- **Divine Presence** – God in everyday nature (rain, wind, sun)
+- **Land Stewardship** – Sacred duty to protect the earth
+- **Oral History** – Detailed oral traditions spanning centuries
+- **Righteous Living** – Morality as divine law
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu - 9 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru - 10 tribes)
 
 ---
 
@@ -428,3 +461,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kalenjin Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/
 - Mijikenda Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://en.wikipedia.org/wiki/Mijikenda_peoples
 - Embu Mythology: https://www.101lasttribes.com/tribes/embu.html, https://www.hadithi.co/african-gods-embu-tribe-from-kenya/
+- Meru Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/meru-kikuyu/, https://en.wikipedia.org/wiki/Mbwaa

@@ -706,12 +706,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Kuria Mythology
+
+### Key Deities & Concepts
+
+#### Ancestral Clans
+- **Role:** Multiple clans
+- **Powers:** Community organization, lineage tracking
+- **Story:** Kuria were composed of different clans, settling in Kenya between 200AD and 1000AD during Great Bantu migration.
+- **Archetype for AI:** Distributed systems, clan databases
+- **Keywords:** clans, migration, Bantu
+
+#### Agro-Pastoral Life
+- **Role:** Mixed farming
+- **Powers:** Survival, sustenance
+- **Story:** Kuria are agro-pastoralists, combining farming with livestock keeping.
+- **Archetype for AI:** Hybrid resource systems
+- **Keywords:** farming, pastoral, survival
+
+#### Lake Victoria Connection
+- **Role:** Geographic homeland
+- **Powers:** Fishing, trade
+- **Story:** Kuria live near Lake Victoria in Migori County, with connections to Tanzania.
+- **Archetype for AI:** Water resource management
+- **Keywords:** lake, fishing, trade
+
+### Key Themes
+- **Bantu Migration** – Part of great movement
+- **Cross-Border** – Kenya-Tanzania
+- **Related to Kisii** – Close to Abalogoli
+- **Lake Life** – Victoria fishing communities
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta - 18 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria - 19 tribes)
 
 ---
 
@@ -734,3 +767,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Pokot Mythology: https://jacobswellchurch.org/pokat-kenya-story/, https://www.gateway-africa.com/tribe/pokot_tribe.html
 - Taita Mythology: https://thekenyatimes.com/latest-kenya-times-news/taita-peoples-cultures/, https://en.wikipedia.org/wiki/Taita_people
 - Taveta Mythology: https://shujaastories.org/stories/taveta-mystic/, https://joshuaproject.net/people_groups/15298/KE
+- Kuria Mythology: https://www.101lasttribes.com/tribes/kuria.html, https://artsandculture.google.com/story/the-kuria-community-of-kenya-national-museums-of-kenya/nAWhmVwhw1XDIg

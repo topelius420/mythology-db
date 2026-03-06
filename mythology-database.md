@@ -966,4 +966,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Omati Mythology: https://www.101lasttribes.com/tribes/omati.html, https://joshuaproject.net/people_groups/14088/KE
 - Balwa Mythology: https://www.101lasttribes.com/tribes/balwa.html, https://joshuaproject.net/people_groups/10665/KE
 - Kaile Mythology: https://www.101lasttribes.com/tribes/kaile.html, https://joshuaproject.net/people_groups/11554/KE
+- Kamasia Mythology: https://www.101lasttribes.com/tribes/kamasia.html, https://joshuaproject.net/people_groups/11609/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

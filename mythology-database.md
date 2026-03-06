@@ -475,12 +475,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Samburu Mythology
+
+### Key Deities & Concepts
+
+#### Nkule (The Creator)
+- **Role:** Supreme creator god
+- **Powers:** Creation, life, destiny
+- **Story:** The Samburu believe in Nkule as the creator who gave them their land and cattle.
+- **Archetype for AI:** Origin system, creation algorithm
+- **Keywords:** creator, origin, destiny, land
+
+#### Elephant Ancestors
+- **Role:** Sacred connection between humans and animals
+- **Powers:** Wisdom, memory, guidance
+- **Story:** Samburu oral tradition tells how elephants were once people, now serving as ancestral guides.
+- **Archetype for AI:** Ancestral memory systems, wisdom databases
+- **Keywords:** elephants, ancestors, wisdom, transformation
+
+#### Morani (Warriors)
+- **Role:** Young warriors in training
+- **Powers:** Protection, bravery, learning
+- **Story:** Samburu boys go through initiation living in rock shelters, learning warrior skills and cultural traditions.
+- **Archetype for AI:** Training systems, learning algorithms
+- **Keywords:** warriors, initiation, training, bravery
+
+### Key Themes
+- **Pastoral Life** – Cattle central to identity
+- **Rock Art** – Storytelling through ancient paintings
+- ** Warrior Initiation** – Boys becoming men through ritual
+- **Human-Animal Connection** – Elephants as transformed ancestors
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana - 11 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu - 12 tribes)
 
 ---
 
@@ -496,3 +529,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Embu Mythology: https://www.101lasttribes.com/tribes/embu.html, https://www.hadithi.co/african-gods-embu-tribe-from-kenya/
 - Meru Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/meru-kikuyu/, https://en.wikipedia.org/wiki/Mbwaa
 - Turkana Mythology: https://en.wikipedia.org/wiki/Turkana_people, https://cedred.or.ke/jais/images/March2023/PDF_Korobe_Turkana_Oral_Tradition_of_Origin_and_Implications_on_History_-_Journey_of_Heroine_Nayece.pdf
+- Samburu Mythology: https://samburureserve.org/comprehensive-guide-to-the-traditions-and-culture-of-the-samburu-people/, https://en.wikipedia.org/wiki/Samburu_people

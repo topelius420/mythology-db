@@ -968,4 +968,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kaile Mythology: https://www.101lasttribes.com/tribes/kaile.html, https://joshuaproject.net/people_groups/11554/KE
 - Kamasia Mythology: https://www.101lasttribes.com/tribes/kamasia.html, https://joshuaproject.net/people_groups/11609/KE
 - Terik Mythology: https://www.101lasttribes.com/tribes/terik.html, https://joshuaproject.net/people_groups/14382/KE
+- Endama Mythology: https://www.101lasttribes.com/tribes/endama.html, https://joshuaproject.net/people_groups/11194/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

@@ -673,12 +673,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Taveta Mythology
+
+### Key Deities & Concepts
+
+#### Ancestral Clans
+- **Role:** Two main clans
+- **Powers:** Community organization, territorial rights
+- **Story:** Taveta historically had two clans, with legends of mysterious women and borderland origins.
+- **Archetype for AI:** Dual-system architectures, border protocols
+- **Keywords:** clans, borders, lineage
+
+#### Wataita (The People)
+- **Role:** Ethnic identity
+- **Powers:** Cultural preservation
+- **Story:** The Taveta (Wataita) are Bantu-speaking, related to Taita but with Kamba and Maasai elements.
+- **Archetype for AI:** Cultural identity databases
+- **Keywords:** identity, culture, Bantu
+
+#### Borderland Location
+- **Role:** Kenya-Tanzania border
+- **Powers:** Cross-cultural exchange
+- **Story:** Taveta sits at the border of Kenya and Tanzania, creating unique cultural blends.
+- **Archetype for AI:** Bridge protocols, cross-border networks
+- **Keywords:** border, exchange, blend
+
+### Key Themes
+- **Clan Legends** – Mystery women origins
+- **Border Culture** – Kenya-Tanzania intersection
+- **Bantu Roots** – Language connection
+- **Related to Taita** – Close ethnic ties
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita - 17 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta - 18 tribes)
 
 ---
 
@@ -700,3 +733,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Gabra Mythology: https://en.wikipedia.org/wiki/Gabra_people, https://www.culturalsurvival.org/publications/cultural-survival-quarterly/gabra
 - Pokot Mythology: https://jacobswellchurch.org/pokat-kenya-story/, https://www.gateway-africa.com/tribe/pokot_tribe.html
 - Taita Mythology: https://thekenyatimes.com/latest-kenya-times-news/taita-peoples-cultures/, https://en.wikipedia.org/wiki/Taita_people
+- Taveta Mythology: https://shujaastories.org/stories/taveta-mystic/, https://joshuaproject.net/people_groups/15298/KE

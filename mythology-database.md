@@ -442,12 +442,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Turkana Mythology
+
+### Key Deities & Concepts
+
+#### Akuj (God)
+- **Role:** Supreme creator god
+- **Powers:** Creation, life-giving, destiny
+- **Story:** The Turkana believe in Akuj as the creator of all life. They are traditionally pastoralists near Lake Turkana (Cradle of Mankind).
+- **Archetype for AI:** Origin system, creation algorithm, life-giving code
+- **Keywords:** creator, origin, life, destiny
+
+#### Nayece (Heroine)
+- **Role:** Legendary heroine in Turkana oral tradition
+- **Powers:** Leadership, journey, survival
+- **Story:** Nayece is a heroine in Turkana oral traditions, guiding her people through harsh landscapes.
+- **Archetype for AI:** Pathfinder algorithm, survival systems, navigation
+- **Keywords:** heroine, journey, survival, leadership
+
+#### Ancestral Spirits
+- **Role:** Guardians of tradition
+- **Powers:** Guidance, protection, cultural preservation
+- **Story:** Turkana elders pass down oral histories maintaining connection to ancestors.
+- **Archetype for AI:** Cultural preservation databases, ancestral memory systems
+- **Keywords:** ancestors, tradition, oral history, preservation
+
+### Key Themes
+- **Pastoral Life** – Cattle as central to identity and survival
+- **Lake Turkana** – Cradle of mankind, fossil discoveries
+- **Oral Tradition** – Detailed storytelling preserving history
+- **Resilience** – Surviving harsh desert environments
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru - 10 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana - 11 tribes)
 
 ---
 
@@ -462,3 +495,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Mijikenda Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://en.wikipedia.org/wiki/Mijikenda_peoples
 - Embu Mythology: https://www.101lasttribes.com/tribes/embu.html, https://www.hadithi.co/african-gods-embu-tribe-from-kenya/
 - Meru Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/meru-kikuyu/, https://en.wikipedia.org/wiki/Mbwaa
+- Turkana Mythology: https://en.wikipedia.org/wiki/Turkana_people, https://cedred.or.ke/jais/images/March2023/PDF_Korobe_Turkana_Oral_Tradition_of_Origin_and_Implications_on_History_-_Journey_of_Heroine_Nayece.pdf

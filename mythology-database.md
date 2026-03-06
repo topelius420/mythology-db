@@ -953,4 +953,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Giriama Mythology: https://kenyantribes.wordpress.com/2018/02/17/giriama-tribe-customs-and-traditions/, https://en.wikipedia.org/wiki/Giriama_people
 - Bajuni Mythology: https://en.wikipedia.org/wiki/Bajuni_people, https://www.101lasttribes.com/tribes/bajuni.html
 - Aweer Mythology: https://en.wikipedia.org/wiki/Aweer_people, https://www.101lasttribes.com/tribes/aweer.html
+- Dahalo Mythology: https://www.101lasttribes.com/tribes/dahalo.html, https://en.wikipedia.org/wiki/Dahalo_people
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

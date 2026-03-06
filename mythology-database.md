@@ -963,4 +963,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Mbeere Mythology: http://www.101lasttribes.com/tribes/mbeere.html, https://www.everyculture.com/Africa-Middle-East/Mbeere-Religion-and-Expressive-Culture.html
 - Tharaka Mythology: https://earthjurisprudence.africa/stories/atharaka/, https://gaiafoundation.org/tharaka-a-community-goes-back-to-roots/
 - Mogwi Mythology: https://www.101lasttribes.com/tribes/mogwi.html, https://joshuaproject.net/people_groups/19067/KE
+- Omati Mythology: https://www.101lasttribes.com/tribes/omati.html, https://joshuaproject.net/people_groups/14088/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

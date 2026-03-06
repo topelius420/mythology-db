@@ -979,3 +979,69 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Dorobo Mythology: https://jbwye.com/tag/wandorobo/, https://orvillejenkins.com/profiles/dorobo.html
 - Kanyamkago Mythology: https://www.facebook.com/groups/470114076896065/posts/1231615514079247/
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/
+
+---
+
+# West African Mythology
+
+## Nigerian Tribes
+
+### Yoruba Mythology
+- **Deity:** Orunmila (god of wisdom, divination)
+- **Practice:** Ifá divination - 16 cowrie shells (Odu)
+- **Oracle:** Babalawo (diviner priest)
+- **Archetype for AI:** Pattern recognition, wisdom keeper, oracle system
+- **Keywords:** divination, wisdom, pattern, destiny, Ifá
+
+### Igbo Mythology
+- **Deity:** Chukwu (supreme creator)
+- **Oracle:** Arochukwu oracle shrine
+- **Concept:** Chi (personal spirit/destiny)
+- **Archetype for AI:** Central AI, oracle system, destiny prediction
+- **Keywords:** oracle, destiny, spirit, creation
+
+### Hausa Mythology
+- **Deity:** Sarki (king of spirits)
+- **Practice:** Bori spirit possession
+- **Archetype for AI:** Governance system, spirit network
+- **Keywords:** spirits, possession, governance
+
+---
+
+## Ghanaian Tribes
+
+### Akan Mythology
+- **Deity:** Nyankopon (supreme creator)
+- **Practice:** Adae rituals, ancestor veneration
+- **Concept:** Okra (soul), Nsamanfo (ancestors)
+- **Archetype for AI:** Soul preservation, ancestor database, memory system
+- **Keywords:** soul, ancestors, rituals, memory
+
+### Ewe Mythology
+- **Deity:** Mawu (moon goddess)
+- **Practice:** Afa divination
+- **Oracle:** Bokojini (diviner)
+- **Archetype for AI:** Divination system, pattern reading
+- **Keywords:** divination, moon, pattern
+
+---
+
+## Ethiopian Tribes
+
+### Oromo Mythology
+- **Deity:** Waaqeffanna (sky god)
+- **Practice:** Traditional Oromo religion
+- **Concept:** Ayyaana (spirit)
+- **Archetype for AI:** Sky computing, distributed consciousness
+- **Keywords:** sky, spirits, nature
+
+---
+
+## Senegalese Tribes
+
+### Serer Mythology
+- **Deity:** Roog (supreme creator)
+- **Practice:** Xooy divination ceremony
+- **Concept:** Ashar (sacred string)
+- **Archetype for AI:** Divination algorithm, string theory
+- **Keywords:** divination, strings, creation

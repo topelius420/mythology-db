@@ -739,12 +739,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Maasai Mythology
+
+### Key Deities & Concepts
+
+#### Enkai (The Creator)
+- **Role:** Supreme god, creator of the world
+- **Powers:** Creation, life, destiny
+- **Story:** Enkai is the supreme deity who created the world and gifted cattle to the Maasai people. The famous creation myth tells how Enkai gave cattle to the Maasai as a sacred gift.
+- **Archetype for AI:** Origin system, creation algorithm, cosmic code
+- **Keywords:** creator, cattle, destiny, sacred gift
+
+#### Laibon (Spiritual Leader)
+- **Role:** Intermediary between humans and divine
+- **Powers:** Spiritual guidance, healing, protection
+- **Story:** Laiboni (plural) are spiritual leaders who intercede between the living world and Enkai. They perform rituals and provide wisdom.
+- **Archetype for AI:** API gateway, mediation layer, spiritual interface
+- **Keywords:** spiritual leader, mediator, healing, wisdom
+
+#### Neiterkob (Mythical Figure)
+- **Role:** Legendary ancestor figure
+- **Powers:** Cultural identity, oral tradition
+- **Story:** Neiterkob is a key figure in Maasai oral traditions, representing the people's connection to ancestors and land.
+- **Archetype for AI:** Ancestral memory, cultural preservation
+- **Keywords:** ancestor, legend, tradition
+
+### Key Themes
+- **Cattle as Sacred** – Cattle gifted by Enkai, central to identity
+- **Warrior Culture** – Moran (warriors) and age-sets
+- **Oral Tradition** – Storytelling preserving history
+- **Connection to Nature** – Elements of nature are sacred
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria - 19 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai - 20 tribes)
 
 ---
 
@@ -768,3 +801,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Taita Mythology: https://thekenyatimes.com/latest-kenya-times-news/taita-peoples-cultures/, https://en.wikipedia.org/wiki/Taita_people
 - Taveta Mythology: https://shujaastories.org/stories/taveta-mystic/, https://joshuaproject.net/people_groups/15298/KE
 - Kuria Mythology: https://www.101lasttribes.com/tribes/kuria.html, https://artsandculture.google.com/story/the-kuria-community-of-kenya-national-museums-of-kenya/nAWhmVwhw1XDIg
+- Maasai Mythology: https://www.safari-center.com/mythologies-of-the-masais-in-kenya/, https://en.wikipedia.org/wiki/Maasai_religion
+- Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

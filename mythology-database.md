@@ -574,12 +574,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Gabra Mythology
+
+### Key Deities & Concepts
+
+#### Waka (The Creator)
+- **Role:** Supreme creator god
+- **Powers:** Creation, life, destiny
+- **Story:** The Gabra are traditionally monotheistic, worshipping Waka (also Waqqa, Waaqa). They are Cushitic people related to Oromo.
+- **Archetype for AI:** Origin system, creation algorithm
+- **Keywords:** creator, monotheistic, destiny
+
+#### Donga (Warriors)
+- **Role:** Warrior class
+- **Powers:** Protection, bravery
+- **Story:** The Gabra have a warrior class called Donga who protect the community.
+- **Archetype for AI:** Defense systems, security protocols
+- **Keywords:** warriors, protection, bravery
+
+#### Nomadic Life
+- **Role:** Pastoralist identity
+- **Powers:** Survival, adaptability
+- **Story:** Gabra are nomadic pastoralists in Marsabit region, herding cattle across borders.
+- **Archetype for AI:** Adaptive systems, borderless networks
+- **Keywords:** nomadic, pastoral, survival, adaptability
+
+### Key Themes
+- **Cushitic Roots** – Related to Oromo, Borana
+- **Monotheistic** – Worship of Waka
+- **Cross-Border Life** – Marsabit region Kenya/Ethiopia
+- **Warrior Class** – Donga protection
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana - 14 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra - 15 tribes)
 
 ---
 
@@ -598,3 +631,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Samburu Mythology: https://samburureserve.org/comprehensive-guide-to-the-traditions-and-culture-of-the-samburu-people/, https://en.wikipedia.org/wiki/Samburu_people
 - Rendille Mythology: https://prayafrica.org/project/rendille-of-kenya/, http://bluegecko.org/kenya/tribes/rendille/beliefs.htm
 - Borana Mythology: https://prayafrica.org/project/borana-of-kenya/, https://oromianeconomist.com/2015/01/24/oromia-and-kenya-fascinating-world-of-kenyas-borana-oromo-people-africa-oromia/
+- Gabra Mythology: https://en.wikipedia.org/wiki/Gabra_people, https://www.culturalsurvival.org/publications/cultural-survival-quarterly/gabra

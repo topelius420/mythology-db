@@ -973,4 +973,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Dukana Mythology: https://www.101lasttribes.com/tribes/dukana.html, https://joshuaproject.net/people_groups/11074/KE
 - Wumbe Mythology: https://www.101lasttribes.com/tribes/wumbe.html, https://joshuaproject.net/people_groups/14623/KE
 - Kibwezi Mythology: https://www.101lasttribes.com/tribes/kibwezi.html, https://joshuaproject.net/people_groups/11628/KE
+- Kawererani Mythology: https://www.101lasttribes.com/tribes/kawererani.html, https://joshuaproject.net/people_groups/11629/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

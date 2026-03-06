@@ -958,4 +958,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Suba Mythology: http://orvillejenkins.com/profiles/suba.html, https://www.hadithi.co/african-gods-the-suba-people/
 - Lwanda Mythology: https://www.101lasttribes.com/tribes/lwanda.html, https://joshuaproject.net/people_groups/12854/KE
 - Nyore Mythology: https://en.wikipedia.org/wiki/Nyole_tribe, https://joshuaproject.net/people_groups/14102/KE
+- Bukusu Mythology: https://kenyasaijiki.blogspot.com/2005/02/bukusu-culture.html, https://www.facebook.com/groups/1520256788269210/posts/3291914291103442/
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

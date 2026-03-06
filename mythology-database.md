@@ -871,12 +871,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## El Molo Mythology
+
+### Key Deities & Concepts
+
+#### Waaq (God)
+- **Role:** Supreme deity
+- **Powers:** Creation, protection
+- **Story:** El Molo traditionally believed in Waaq (common among Cushitic peoples). They wore amulets for protection.
+- **Archetype for AI:** Protection protocols, amulet security
+- **Keywords:** god, protection, amulets
+
+#### Sepenya (Heroine)
+- **Role:** Legendary founder
+- **Powers:** Origin, cultural identity
+- **Story:** Sepenya is the heroine of El Molo origin - the story of how they came to be by Lake Turkana.
+- **Archetype for AI:** Origin algorithm, founding node
+- **Keywords:** heroine, origin, lake
+
+#### Lake Turkana
+- **Role:** Sacred homeland
+- **Powers:** Sustenance, identity
+- **Story:** El Molo are "people who eat fish" - living by Lake Turkana (the world's largest desert lake).
+- **Archetype for AI:** Resource management, water systems
+- **Keywords:** lake, fishing, survival
+
+### Key Themes
+- **Endangered Culture** – Nearly extinct language
+- **Fishing Lifestyle** – Unique among pastoralist neighbors
+- **Cushitic Roots** – Waaq belief system
+- **Lake Survival** – Desert lake ecosystem
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi, Kipsigis, Maragoli - 23 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi, Kipsigis, Maragoli, El Molo - 24 tribes)
 
 ---
 
@@ -904,4 +937,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Nandi Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/, https://nandisailornews.wordpress.com/2013/07/01/nandi-tradition-nandi-people-of-kenya/
 - Kipsigis Mythology: https://artsandculture.google.com/story/musical-myths-of-the-kipsigis-national-museums-of-kenya/kQWRNHI9b41jSw, https://www.101lasttribes.com/tribes/kipsigis.html
 - Maragoli Mythology: https://www.facebook.com/groups/2081228351951367/posts/24986446854336192/, https://joshuaproject.net/people_groups/18764
+- El Molo Mythology: https://en.wikipedia.org/wiki/El_Molo_people, https://www.malindikenya.net/en/articles/territory/kenya/history-and-traditions-of-the-el-molo-an-endangered-ethnic-group.html
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

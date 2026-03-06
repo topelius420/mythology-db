@@ -951,4 +951,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Jibana Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://malindians.com/information/mijikenda-tribe-of-kenya/jibana-tribe-of-the-mijikenda/
 - Kauma Mythology: https://malindians.com/information/mijikenda-tribe-of-kenya/kauma-tribe-of-the-mijikenda/, https://peoplegroups.org/people_groups/pg014804/
 - Giriama Mythology: https://kenyantribes.wordpress.com/2018/02/17/giriama-tribe-customs-and-traditions/, https://en.wikipedia.org/wiki/Giriama_people
+- Bajuni Mythology: https://en.wikipedia.org/wiki/Bajuni_people, https://www.101lasttribes.com/tribes/bajuni.html
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

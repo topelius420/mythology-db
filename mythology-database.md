@@ -607,12 +607,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Pokot Mythology
+
+### Key Deities & Concepts
+
+#### Tororut (The Creator)
+- **Role:** Supreme creator god
+- **Powers:** Creation, blessings, justice
+- **Story:** The Pokot are monotheistic, surrounding Tororut as the great creator god who resides in the sky and rewards good deeds.
+- **Archetype for AI:** Origin system, justice algorithms, sky computing
+- **Keywords:** creator, sky, justice, blessings
+
+#### Spirit World
+- **Role:** Deities and ancestral spirits
+- **Powers:** Protection, guidance, sorcery
+- **Story:** Pokot believe in sorcery and use protection against ill will. They communicate with deities through prayer and sacrifice.
+- **Archetype for AI:** Security systems, prayer interfaces, spiritual protocols
+- **Keywords:** spirits, sorcery, protection, prayer
+
+#### Harmonic Society
+- **Role:** Community focus
+- **Powers:** Harmony, fulfillment, collective identity
+- **Story:** Pokot religiosity focuses on harmonious relationships among members of society and individual fulfillment.
+- **Archetype for AI:** Social algorithms, community networks, collective intelligence
+- **Keywords:** harmony, community, society, fulfillment
+
+### Key Themes
+- **Monotheistic** – Creator Tororut in the sky
+- **Sorcery & Protection** – Balance between good and evil
+- **Pastoral Life** – Fishing and herding in Kapenguria
+- **Community Harmony** – Collective well-being focus
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra - 15 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot - 16 tribes)
 
 ---
 
@@ -632,3 +665,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Rendille Mythology: https://prayafrica.org/project/rendille-of-kenya/, http://bluegecko.org/kenya/tribes/rendille/beliefs.htm
 - Borana Mythology: https://prayafrica.org/project/borana-of-kenya/, https://oromianeconomist.com/2015/01/24/oromia-and-kenya-fascinating-world-of-kenyas-borana-oromo-people-africa-oromia/
 - Gabra Mythology: https://en.wikipedia.org/wiki/Gabra_people, https://www.culturalsurvival.org/publications/cultural-survival-quarterly/gabra
+- Pokot Mythology: https://jacobswellchurch.org/pokat-kenya-story/, https://www.gateway-africa.com/tribe/pokot_tribe.html

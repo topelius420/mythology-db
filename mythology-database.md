@@ -979,6 +979,7 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Dorobo Mythology: https://jbwye.com/tag/wandorobo/, https://orvillejenkins.com/profiles/dorobo.html
 - Kanyamkago Mythology: https://www.facebook.com/groups/470114076896065/posts/1231615514079247/
 - Isukha Mythology: https://www.101lasttribes.com/tribes/isukha.html, https://joshuaproject.net/people_groups/20204
+- Idakho Mythology: https://en.wikipedia.org/wiki/Idakho, https://joshuaproject.net/people_groups/18896/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/
 
 ---

@@ -508,12 +508,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Rendille Mythology
+
+### Key Deities & Concepts
+
+#### Wakh (The Creator)
+- **Role:** Supreme creator god
+- **Powers:** Omnipresence, creation, life-giving
+- **Story:** The Rendille believe in Wakh as the one God, an omnipresent creator who migrated from Suez Canal and Ethiopia.
+- **Archetype for AI:** Origin system, omnipresent monitoring, creation algorithm
+- **Keywords:** creator, omnipresent, migration, desert
+
+#### Engai (Divine)
+- **Role:** God known to Ariaal (Rendille neighbors)
+- **Powers:** Blessings, protection, fertility
+- **Story:** Engai is the same word used by Samburu and Maasai for the divine - a shared Nilotic-Cushitic concept.
+- **Archetype for AI:** Shared system, cross-tribal database, unified ethics
+- **Keywords:** divine, blessing, shared heritage
+
+#### Camel Symbolism
+- **Role:** Central to survival in harsh desert
+- **Powers:** Transport, sustenance, life
+- **Story:** The camel is the symbol of life for Rendille - used for transport, milk, wool in the remote desert.
+- **Archetype for AI:** Resource optimization, efficiency in harsh conditions
+- **Keywords:** camel, desert, survival, resourcefulness
+
+### Key Themes
+- **Desert Survival** – Living in harsh conditions between Marsabit hills
+- **Cushitic Migration** – Journey from Suez Canal and Ethiopia
+- **Moon Worship** – Prayer to the moon, animal sacrifices
+- **Camel Culture** – Camels as lifeblood
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu - 12 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille - 13 tribes)
 
 ---
 
@@ -530,3 +563,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Meru Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/meru-kikuyu/, https://en.wikipedia.org/wiki/Mbwaa
 - Turkana Mythology: https://en.wikipedia.org/wiki/Turkana_people, https://cedred.or.ke/jais/images/March2023/PDF_Korobe_Turkana_Oral_Tradition_of_Origin_and_Implications_on_History_-_Journey_of_Heroine_Nayece.pdf
 - Samburu Mythology: https://samburureserve.org/comprehensive-guide-to-the-traditions-and-culture-of-the-samburu-people/, https://en.wikipedia.org/wiki/Samburu_people
+- Rendille Mythology: https://prayafrica.org/project/rendille-of-kenya/, http://bluegecko.org/kenya/tribes/rendille/beliefs.htm

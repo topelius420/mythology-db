@@ -640,12 +640,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Taita Mythology
+
+### Key Deities & Concepts
+
+#### Mulungu (The Creator)
+- **Role:** Supreme god
+- **Powers:** Creation, divine authority
+- **Story:** The Taita believe in Mulungu as the supreme god, together with Milimu (ancestral spirits).
+- **Archetype for AI:** Origin system, supreme algorithm
+- **Keywords:** creator, supreme god, spirits
+
+#### Milimu (Ancestral Spirits)
+- **Role:** Ancestral spirits
+- **Powers:** Guidance, protection
+- **Story:** Taita call upon ancestral spirits in times of calamity.
+- **Archetype for AI:** Ancestral databases, spiritual protocols
+- **Keywords:** ancestors, spirits, protection
+
+#### Clan System (Vichuku)
+- **Role:** Social structure
+- **Powers:** Territorial organization
+- **Story:** The Taita traditionally consist of lineages/clans (vichuku), each occupying specific territorial areas in the hills.
+- **Archetype for AI:** Distributed networks, territorial systems
+- **Keywords:** clans, territory, lineage
+
+### Key Themes
+- **Hill Dwellers** – Living in Taita Hills
+- **Clan Territories** – Each clan has own area
+- **Ancestor Veneration** – Calling spirits in times of need
+- **Oral Traditions** – Legends like Mwangeka wa Malowa
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot - 16 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita - 17 tribes)
 
 ---
 
@@ -666,3 +699,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Borana Mythology: https://prayafrica.org/project/borana-of-kenya/, https://oromianeconomist.com/2015/01/24/oromia-and-kenya-fascinating-world-of-kenyas-borana-oromo-people-africa-oromia/
 - Gabra Mythology: https://en.wikipedia.org/wiki/Gabra_people, https://www.culturalsurvival.org/publications/cultural-survival-quarterly/gabra
 - Pokot Mythology: https://jacobswellchurch.org/pokat-kenya-story/, https://www.gateway-africa.com/tribe/pokot_tribe.html
+- Taita Mythology: https://thekenyatimes.com/latest-kenya-times-news/taita-peoples-cultures/, https://en.wikipedia.org/wiki/Taita_people

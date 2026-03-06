@@ -541,12 +541,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Borana Mythology
+
+### Key Deities & Concepts
+
+#### Wak (The Creator)
+- **Role:** Supreme creator god
+- **Powers:** Creation, life, destiny
+- **Story:** The Borana traditionally believed in a single god called Wak. They are Cushitic people related to the Gabbra and Sakuye.
+- **Archetype for AI:** Origin system, creation algorithm
+- **Keywords:** creator, destiny, pastoral life
+
+#### Abba Gada (Council of Elders)
+- **Role:** Democratic governance system
+- **Powers:** Decision-making, conflict resolution, cultural preservation
+- **Story:** The Borana have a sophisticated council system called Abba Gada that governs through consensus.
+- **Archetype for AI:** Consensus algorithms, governance systems
+- **Keywords:** elders, democracy, consensus, governance
+
+#### Pastoral Traditions
+- **Role:** Cattle-centered identity
+- **Powers:** Survival, sustenance, cultural identity
+- **Story:** Borana are nomadic pastoralists herding cattle, sheep, goats in semi-arid lands.
+- **Archetype for AI:** Resource management, optimization
+- **Keywords:** cattle, pastoral, survival, tradition
+
+### Key Themes
+- **Cushitic Heritage** – Related to Gabbra, Sakuye, Rendille
+- **Nomadic Life** – Semi-arid pastoralism
+- **Elder Governance** – Abba Gada democratic system
+- **Shared Divine** – Wak similar to Wakh/Engai
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille - 13 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana - 14 tribes)
 
 ---
 
@@ -564,3 +597,4 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Turkana Mythology: https://en.wikipedia.org/wiki/Turkana_people, https://cedred.or.ke/jais/images/March2023/PDF_Korobe_Turkana_Oral_Tradition_of_Origin_and_Implications_on_History_-_Journey_of_Heroine_Nayece.pdf
 - Samburu Mythology: https://samburureserve.org/comprehensive-guide-to-the-traditions-and-culture-of-the-samburu-people/, https://en.wikipedia.org/wiki/Samburu_people
 - Rendille Mythology: https://prayafrica.org/project/rendille-of-kenya/, http://bluegecko.org/kenya/tribes/rendille/beliefs.htm
+- Borana Mythology: https://prayafrica.org/project/borana-of-kenya/, https://oromianeconomist.com/2015/01/24/oromia-and-kenya-fascinating-world-of-kenyas-borana-oromo-people-africa-oromia/

@@ -971,4 +971,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Endama Mythology: https://www.101lasttribes.com/tribes/endama.html, https://joshuaproject.net/people_groups/11194/KE
 - Ngurunit Mythology: https://www.101lasttribes.com/tribes/ngurunit.html, https://joshuaproject.net/people_groups/14023/KE
 - Dukana Mythology: https://www.101lasttribes.com/tribes/dukana.html, https://joshuaproject.net/people_groups/11074/KE
+- Wumbe Mythology: https://www.101lasttribes.com/tribes/wumbe.html, https://joshuaproject.net/people_groups/14623/KE
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

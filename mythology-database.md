@@ -838,12 +838,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Maragoli Mythology
+
+### Key Deities & Concepts
+
+#### Mulogoli (Forefather)
+- **Role:** Ancestral founder
+- **Powers:** Origin, identity
+- **Story:** Maragoli believe they descend from Mulogoli, who was descended from Kintu - the progenitor of all Luhya.
+- **Archetype for AI:** Origin database, root node
+- **Keywords:** ancestor, origin, lineage
+
+#### Priesthood Tradition
+- **Role:** Spiritual governance
+- **Powers:** Divine guidance
+- **Story:** Maragoli were historically ruled by priests, not kings. They believe descendants of priests hold spiritual authority.
+- **Archetype for AI:** Hierarchical governance, spiritual protocols
+- **Keywords:** priests, spiritual authority, governance
+
+#### Folklore & Tales
+- **Role:** Cultural transmission
+- **Powers:** Wisdom preservation
+- **Story:** Maragoli have rich folktales passed through generations, with deep meaning and aesthetics.
+- **Archetype for AI:** Knowledge preservation, oral-to-digital archives
+- **Keywords:** folklore, tales, storytelling
+
+### Key Themes
+- **Luhya Sub-Group** – Part of Abaluyia
+- **Priestly Lineage** – Ruled by priests, not kings
+- **Kintu Connection** – Origin tied to Luhya progenitor
+- **Folktale Tradition** – Rich oral storytelling
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi, Kipsigis - 22 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi, Kipsigis, Maragoli - 23 tribes)
 
 ---
 
@@ -870,4 +903,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Maasai Mythology: https://www.safari-center.com/mythologies-of-the-masais-in-kenya/, https://en.wikipedia.org/wiki/Maasai_religion
 - Nandi Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/, https://nandisailornews.wordpress.com/2013/07/01/nandi-tradition-nandi-people-of-kenya/
 - Kipsigis Mythology: https://artsandculture.google.com/story/musical-myths-of-the-kipsigis-national-museums-of-kenya/kQWRNHI9b41jSw, https://www.101lasttribes.com/tribes/kipsigis.html
+- Maragoli Mythology: https://www.facebook.com/groups/2081228351951367/posts/24986446854336192/, https://joshuaproject.net/people_groups/18764
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

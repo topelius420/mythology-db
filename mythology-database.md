@@ -805,12 +805,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Kipsigis Mythology
+
+### Key Deities & Concepts
+
+#### Asis (The Supreme God)
+- **Role:** Supreme god (shared with Kalenjin)
+- **Powers:** Creation, life, moral order
+- **Story:** Kipsigis share the belief in Asis, the supreme god associated with the sun and sky.
+- **Archetype for AI:** Solar systems, cosmic algorithms
+- **Keywords:** sun, creation, moral order
+
+#### Storytelling Tradition
+- **Role:** Cultural preservation
+- **Powers:** Oral history, wisdom transfer
+- **Story:** Kipsigis have a strong storytelling tradition, myths told during beer-parties.
+- **Archetype for AI:** Knowledge transfer protocols, oral-to-digital archives
+- **Keywords:** storytelling, oral tradition, wisdom
+
+#### Migration History
+- **Role:** Origin story
+- **Powers:** Cultural identity
+- **Story:** Kipsigis migrated from North (South Sudan) into Kenya in the 19th century, settling in Rift Valley.
+- **Archetype for AI:** Migration logs, origin tracking
+- **Keywords:** migration, origin, settlement
+
+### Key Themes
+- **Kalenjin Sub-Group** – Part of larger Kalenjin family
+- **Beer-Party Stories** – Social storytelling events
+- **Nilotic Heritage** – Language and traditions from Sudan
+- **Rift Valley Settlement** – Modern homeland
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi - 21 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi, Kipsigis - 22 tribes)
 
 ---
 
@@ -836,4 +869,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kuria Mythology: https://www.101lasttribes.com/tribes/kuria.html, https://artsandculture.google.com/story/the-kuria-community-of-kenya-national-museums-of-kenya/nAWhmVwhw1XDIg
 - Maasai Mythology: https://www.safari-center.com/mythologies-of-the-masais-in-kenya/, https://en.wikipedia.org/wiki/Maasai_religion
 - Nandi Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/, https://nandisailornews.wordpress.com/2013/07/01/nandi-tradition-nandi-people-of-kenya/
+- Kipsigis Mythology: https://artsandculture.google.com/story/musical-myths-of-the-kipsigis-national-museums-of-kenya/kQWRNHI9b41jSw, https://www.101lasttribes.com/tribes/kipsigis.html
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

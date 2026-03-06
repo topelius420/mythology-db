@@ -939,4 +939,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Maragoli Mythology: https://www.facebook.com/groups/2081228351951367/posts/24986446854336192/, https://joshuaproject.net/people_groups/18764
 - El Molo Mythology: https://en.wikipedia.org/wiki/El_Molo_people, https://www.malindikenya.net/en/articles/territory/kenya/history-and-traditions-of-the-el-molo-an-endangered-ethnic-group.html
 - Orma Mythology: https://www.hadithi.co/african-gods-the-orma-tribe-of-kenya/, https://en.wikipedia.org/wiki/Orma_(clan)
+- Wata Mythology: https://journals.co.za/doi/pdf/10.10520/AJA02578301_121, https://artsandculture.google.com/story/wayyuu-banoo-the-story-of-the-waata-father-of-hunting-national-museums-of-kenya/uwVBw7pK1GLTLQ
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

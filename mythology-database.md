@@ -1045,3 +1045,28 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Concept:** Ashar (sacred string)
 - **Archetype for AI:** Divination algorithm, string theory
 - **Keywords:** divination, strings, creation
+
+---
+
+## Additional West African Tribes
+
+### Dogon (Mali)
+- **Deity:** Amma (creator god)
+- **Cosmology:** Sirius B star system, Nommo ancestors
+- **Practice:** Ancestor rituals, mask dances
+- **Archetype for AI:** Star mapping, ancestral memory systems, cosmology algorithms
+- **Keywords:** Sirius, stars, ancestors, cosmology
+
+### Vodun (Benin/Togo)
+- **Deity:** Vodun spirits (deguased)
+- **Practice:** Spirit possession, worship
+- **Concept:** Loa (spirits between human and divine)
+- **Archetype for AI:** Possession networks, spirit protocols
+- **Keywords:** spirits, possession, loa
+
+### Akan (Ghana) - Additional
+- **Concept:** Sankofa (return to collect wisdom)
+- **Practice:** Adae ceremony
+- **Archetype for AI:** Memory retrieval, wisdom extraction
+- **Keywords:** wisdom, memory, return
+

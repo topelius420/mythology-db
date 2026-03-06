@@ -942,4 +942,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Wata Mythology: https://journals.co.za/doi/pdf/10.10520/AJA02578301_121, https://artsandculture.google.com/story/wayyuu-banoo-the-story-of-the-waata-father-of-hunting-national-museums-of-kenya/uwVBw7pK1GLTLQ
 - Dawida Mythology: https://www.facebook.com/groups/taitatavetacountycitizenryforum/posts/31636468665951607/, https://joshuaproject.net/people_groups/11462/KE
 - Sagalla Mythology: https://en.wikipedia.org/wiki/Taita_people, https://www.bluegecko.org/kenya/tribes/taita/index.htm
+- Digo Mythology: https://artsandculture.google.com/story/the-digo-community-of-kenya-national-museums-of-kenya/OQWxyu0nfiQxIg, https://en.wikipedia.org/wiki/Digo_people
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

@@ -955,4 +955,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Aweer Mythology: https://en.wikipedia.org/wiki/Aweer_people, https://www.101lasttribes.com/tribes/aweer.html
 - Dahalo Mythology: https://www.101lasttribes.com/tribes/dahalo.html, https://en.wikipedia.org/wiki/Dahalo_people
 - Pokomo Mythology: https://en.wikipedia.org/wiki/Pokomo_people, https://africanlatitude.com/the-pokomo/
+- Suba Mythology: http://orvillejenkins.com/profiles/suba.html, https://www.hadithi.co/african-gods-the-suba-people/
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

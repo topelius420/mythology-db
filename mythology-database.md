@@ -772,12 +772,45 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+## Nandi Mythology
+
+### Key Deities & Concepts
+
+#### Asis (The Supreme God)
+- **Role:** Supreme god, associated with the sun
+- **Powers:** Creation, life, moral order
+- **Story:** Asis is the supreme god for the Nandi, associated with the sun. The sun represents sacrifice and renewal.
+- **Archetype for AI:** Solar computing, energy systems
+- **Keywords:** sun, creation, sacrifice, moral order
+
+#### Ancestral Guidance
+- **Role:** Communication with spirits
+- **Powers:** Divine messages, protection
+- **Story:** The Nandi believed their gods communicated through internal parts of slaughtered sheep during rituals.
+- **Archetype for AI:** Message protocols, spiritual APIs
+- **Keywords:** ancestors, communication, ritual
+
+#### Age Sets (Ibinda)
+- **Role:** Social organization
+- **Powers:** Community structure, identity
+- **Story:** Nandi society revolves around age sets (ibinda), with eight rotational age sets for young warriors.
+- **Archetype for AI:** Role-based access, distributed systems
+- **Keywords:** age sets, warriors, organization
+
+### Key Themes
+- **Kalenjin Heritage** – Part of larger Kalenjin group
+- **Warrior Tradition** – Known for resistance (Koitalel Arap Samoei)
+- **Totems** – Animal totems (oreet) for each clan
+- **Oral Praise Songs** – Preserving history through songs
+
+---
+
 # Mythology Database Progress
 - Finnish: Done
 - Norse: Done
 - Greek/Roman: Done (2026-03-03)
 - Egyptian: Pending
-- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai - 20 tribes)
+- African: In progress (Kikuyu, Zulu, Yoruba, Luo, Kisii, Kamba, Kalenjin, Mijikenda, Embu, Meru, Turkana, Samburu, Rendille, Borana, Gabra, Pokot, Taita, Taveta, Kuria, Maasai, Nandi - 21 tribes)
 
 ---
 
@@ -802,4 +835,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Taveta Mythology: https://shujaastories.org/stories/taveta-mystic/, https://joshuaproject.net/people_groups/15298/KE
 - Kuria Mythology: https://www.101lasttribes.com/tribes/kuria.html, https://artsandculture.google.com/story/the-kuria-community-of-kenya-national-museums-of-kenya/nAWhmVwhw1XDIg
 - Maasai Mythology: https://www.safari-center.com/mythologies-of-the-masais-in-kenya/, https://en.wikipedia.org/wiki/Maasai_religion
+- Nandi Mythology: https://mythlok.com/world-mythologies/african/east-african-mythology/kalenjin-nandi/, https://nandisailornews.wordpress.com/2013/07/01/nandi-tradition-nandi-people-of-kenya/
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

@@ -960,4 +960,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Nyore Mythology: https://en.wikipedia.org/wiki/Nyole_tribe, https://joshuaproject.net/people_groups/14102/KE
 - Bukusu Mythology: https://kenyasaijiki.blogspot.com/2005/02/bukusu-culture.html, https://www.facebook.com/groups/1520256788269210/posts/3291914291103442/
 - Wanga Mythology: https://en.wikipedia.org/wiki/Wanga_Kingdom, https://abawanga.wordpress.com/
+- Mbeere Mythology: http://www.101lasttribes.com/tribes/mbeere.html, https://www.everyculture.com/Africa-Middle-East/Mbeere-Religion-and-Expressive-Culture.html
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

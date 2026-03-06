@@ -948,4 +948,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Ribe Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://peoplegroups.org/people_groups/pg014849/
 - Duruma Mythology: https://peoplegroups.org/people_groups/pg014781/, http://orvillejenkins.com/profiles/duruma.html
 - Rabai Mythology: https://peoplegroups.org/people_groups/pg014846/, https://en.wikipedia.org/wiki/Rabai
+- Jibana Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://malindians.com/information/mijikenda-tribe-of-kenya/jibana-tribe-of-the-mijikenda/
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

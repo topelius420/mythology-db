@@ -946,4 +946,5 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Chonyi Mythology: https://www.101lasttribes.com/tribes/chonyi.html, https://joshuaproject.net/people_groups/print/11367/KE
 - Kambe Mythology: https://malindians.com/information/mijikenda-tribe-of-kenya/kambe-tribe-of-the-mijikenda/, https://peoplegroups.org/people_groups/pg014802/
 - Ribe Mythology: https://kenyanhistory.com/mijikenda-myth-memory-and-the-search-for-origins/, https://peoplegroups.org/people_groups/pg014849/
+- Duruma Mythology: https://peoplegroups.org/people_groups/pg014781/, http://orvillejenkins.com/profiles/duruma.html
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/

@@ -1104,3 +1104,18 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Archetype for AI:** Spirit protocols, possession networks
 - **Keywords:** spirits, possession, ancestors
 
+
+---
+
+## Amazonian Tribes (South America)
+
+### Yanomami Mythology (Brazil/Venezuela)
+- **Creator:** Omama (Omame)
+- **Key Myths:** Creation story, fish-people from water world
+- **Theme:** Human-animal transformations, forest ecology
+- **Reference:** https://www.godchecker.com/south-american-mythology/OMAME/
+
+### Kayapo Mythology (Brazil)
+- **Key Themes:** Giant Anaconda, transformations between humans/animals/plants
+- **Belief:** Kinship between humans, plants, fish, and animals
+- **Reference:** https://www.folklore.earth/culture/kayapo/

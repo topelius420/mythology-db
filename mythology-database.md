@@ -1185,7 +1185,8 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ## Arctic & Scandinavian Peoples
 
 ### Sami (Finland/Sweden/Norway/Russia)
-- **Region:** Sápmi (Lapland), Arctic Scandinavia
+- **Region:** Sápmi (Lapland), Arctic Scandinavia + Russia
+- **Countries:** Finland, Sweden, Norway, Russia
 - **Shaman:** Noaidi (shaman who communicates with spirits)
 - **Belief:** Animism - all natural objects have souls
 - **Practices:** Drumming, spirit journey, seiðr (magic)
@@ -1238,3 +1239,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Belief:** Islam, spirit possession cults, djinn
 - **Myths:** Zimwi, Shetani, spirit worlds
 - **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/SwahiliMythology
+
+### Somali (Kenya)
+- **Language:** Cushitic
+- **Location:** Northeastern Kenya
+- **Pre-Islam:** Waaq (monotheistic belief in supreme god)
+- **Myths:** Giants, ancestral spirits
+- **Reference:** https://en.wikipedia.org/wiki/Somali_mythology
+
+### Marakwet (Kenya)
+- **Language:** Nilotic (Kalenjin subgroup)
+- **Location:** Rift Valley
+- **Belief:** Ancestor spirits, witchcraft
+- **Reference:** https://en.wikipedia.org/wiki/Kalenjin_mythology

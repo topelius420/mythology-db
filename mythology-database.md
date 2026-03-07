@@ -1384,3 +1384,18 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Type:** Estonian poetry collection
 - **Connection:** Similar Finnish collection; both cultures share folk traditions
 - **Reference:** https://en.wikipedia.org/wiki/Kanteletar
+
+---
+
+## Hungarian Mythology
+
+### Origins
+- **Language:** Finno-Ugric (Ugric branch)
+- **Origin:** Migrations from Ural region to Hungary in 9th century
+- **Note:** Distant cousins of Finns, Estonians!
+
+### Pre-Christian Beliefs
+- **Shaman:** Táltos (similar to Sami noaidi!)
+- **Practice:** Weather magic, spirit communication
+- **Influence:** Also Turkic influences due to migration through steppes
+- **Reference:** https://en.wikipedia.org/wiki/Hungarian_mythology

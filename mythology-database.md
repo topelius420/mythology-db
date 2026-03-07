@@ -1145,3 +1145,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Deities:** Inti (sun), Viracocha (creator), Puma
 - **Theme:** Divine kingship, sun worship, golden rod
 - **Reference:** https://en.wikipedia.org/wiki/Inca_mythology
+
+### Machiguenga (Peru)
+- **Language:** Arawakan
+- **Location:** Western Peruvian Amazon
+- **Lifestyle:** Semi-nomadic horticulturalists, hunters
+- **Theme:** Forest stewardship, ancient culture
+- **Reference:** https://en.wikipedia.org/wiki/Matsigenka_people
+
+### Kogi (Colombia)
+- **Location:** Sierra Nevada de Santa Marta
+- **Belief:** Sierra is "heart of the world," Great Mother
+- **Practice:** Mamos (priests), meditation, ritual offerings
+- **Theme:** Nature as living being, caretakers of Earth
+- **Reference:** https://en.wikipedia.org/wiki/Kogi_people

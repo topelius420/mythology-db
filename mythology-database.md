@@ -1132,3 +1132,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Key Tribes:** Yawalapiti, Kamayurá, Kuikuro, Wauja, Kayapo
 - **Theme:** Ecological and social balance, peace through trade/intermarriage
 - **Reference:** https://en.wikipedia.org/wiki/Xingu_peoples
+
+### Shipibo-Conibo (Peru)
+- **Location:** Ucayali River, Amazon rainforest
+- **Mythology:** Highly knowledgeable of plant medicines, shamanic traditions
+- **Theme:** Connection to natural world, spiritual practices
+- **Reference:** https://en.wikipedia.org/wiki/Shipibo-Conibo
+
+### Inca (Peru)
+- **Creator:** Viracocha (Kon-Tiki)
+- **Key Myths:** Creation from Lake Titicaca, Manco Capac & Mama Ocllo
+- **Deities:** Inti (sun), Viracocha (creator), Puma
+- **Theme:** Divine kingship, sun worship, golden rod
+- **Reference:** https://en.wikipedia.org/wiki/Inca_mythology

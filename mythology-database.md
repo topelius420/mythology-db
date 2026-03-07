@@ -1159,3 +1159,11 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Practice:** Mamos (priests), meditation, ritual offerings
 - **Theme:** Nature as living being, caretakers of Earth
 - **Reference:** https://en.wikipedia.org/wiki/Kogi_people
+
+### Wayuu (Colombia/Venezuela)
+- **Language:** Arawak
+- **Location:** La Guajira peninsula
+- **Deity:** Maleiwa (creator)
+- **Belief:** Spirits of dead (pülasü) are sacred
+- **Theme:** People of sun, sand, wind
+- **Reference:** https://wayuutaya.org/the-wayuu

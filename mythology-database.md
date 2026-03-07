@@ -1167,3 +1167,9 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Belief:** Spirits of dead (pülasü) are sacred
 - **Theme:** People of sun, sand, wind
 - **Reference:** https://wayuutaya.org/the-wayuu
+
+### Ticuna (Brazil/Colombia/Peru)
+- **Population:** ~40,000 (most numerous in Brazilian Amazon)
+- **Location:** Amazon rainforest near borders of Peru, Brazil, Colombia
+- **Theme:** Fishing, hunting, Amazonian ecology
+- **Reference:** https://en.wikipedia.org/wiki/Ticuna

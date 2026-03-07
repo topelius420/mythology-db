@@ -1179,3 +1179,15 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Spirits:** Pombero, Kurupi, Pytajovái
 - **Theme:** "Land without evil," dream of paradise
 - **Reference:** https://en.wikipedia.org/wiki/Guarani_mythology
+
+---
+
+## Arctic & Scandinavian Peoples
+
+### Sami (Finland/Sweden/Norway/Russia)
+- **Region:** Sápmi (Lapland), Arctic Scandinavia
+- **Shaman:** Noaidi (shaman who communicates with spirits)
+- **Belief:** Animism - all natural objects have souls
+- **Practices:** Drumming, spirit journey, seiðr (magic)
+- **Connection:** Adjacent to Finnish territory, shared northern ecology
+- **Reference:** https://www.beneathnorthernlights.com/sami-shamanism-a-short-summary/

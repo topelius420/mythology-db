@@ -1201,8 +1201,9 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Language:** Finno-Ugric
 - **Status:** Minority, declining population
 - **Region:** Mari El republic, central Russia
-- **Belief:** Pagan, sky god (Kugu)
-- **Theme:** Forest worship, shamanic traditions
+- **Deity:** Kugu (sky god), Oš (moon), Tur (thunder)
+- **Belief:** Forest worship, shamanic traditions, pagan
+- **Theme:** Nature spirits, forest beings
 - **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
 
 ### Udmurt (Russia)
@@ -1306,13 +1307,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Erzya (Russia)
 - **Language:** Mordvinic (Finno-Ugric)
 - **Region:** Mordovia, central Russia
-- **Belief:** Supreme god, sun/moon/water worship, blended with Orthodox Christianity
-- **Reference:** https://joshuaproject.net/people_groups/print/13809/RS
+- **Deities:** Chipaz (Sun God), Nishke (creator), Ange Patiai (mother of gods)
+- **Belief:** Three-tier world (upper, middle, lower), sun/moon/water worship
+- **Myth:** Gods hatched from an egg
+- **Reference:** https://en.wikipedia.org/wiki/Erzyan_native_religion
 
 ### Moksha (Russia)
 - **Language:** Mordvinic (Finno-Ugric)
 - **Region:** Mordovia, central Russia
-- **Belief:** Traditional pagan beliefs + Christianity
+- **Deity:** Viarde Skai (Supreme God)
+- **Belief:** Traditional pagan + Orthodox Christianity
+- **Myth:** World created in several stages
 - **Reference:** https://en.wikipedia.org/wiki/Mokshas
 
 ### Komi-Zyryan (Russia)

@@ -1301,7 +1301,8 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Nganasan (Russia)
 - **Language:** Samoyedic
 - **Region:** Taymyr Peninsula, far north Siberia
-- **Belief:** Strong shamanic traditions
+- **Belief:** Strong shamanic traditions, one-eyed/one-armed spirit helpers
+- **Animals:** Reindeer sacred, wolf禁忌 (taboo)
 - **Reference:** https://en.wikipedia.org/wiki/Nganasan_people
 
 ### Erzya (Russia)
@@ -1399,3 +1400,42 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Practice:** Weather magic, spirit communication
 - **Influence:** Also Turkic influences due to migration through steppes
 - **Reference:** https://en.wikipedia.org/wiki/Hungarian_mythology
+
+---
+
+## Hawaiian & Polynesian Mythology
+
+### Hawaiian Creation
+- **Parents:** Wākea (sky father) + Papa (earth mother)
+- **First islands:** Born from their union
+- **Deities:** Lono (rain, healing), Pele (volcanoes)
+- **Priests:** Kahuna (shamans/priests)
+- **Reference:** https://www.thecollector.com/polynesian-creation-myths/
+
+### Pele (Hawaii)
+- **Domain:** Volcanoes, fire
+- **Story:** Created the Hawaiian islands
+- **Reference:** https://shakatribeshop.com/pages/polynesian-myths-and-legends-stories-from-the-south-pacific
+
+### Lono (Hawaii)
+- **Domain:** Rain, agriculture, healing
+- **Associated with:** Makua (ancestor)
+- **Reference:** https://punarising.com/hawaiian-creationism-fact-fiction-or-legend/
+
+### Maori (New Zealand)
+- **Creation:** Ranginui (Sky Father) + Papatuanuku (Earth Mother)
+- **Children:** Separated the parents to create light
+- **Deities:** Tane Mahuta (forests/birds), Maui (trickster/fisher)
+- **Myth:** Maui fished up North Island from sea
+- **Reference:** https://www.ancient-origins.net/human-origins-folklore/creation-myth-maori-new-zealand-00305
+
+### Samoan (Samoa)
+- **Origin:** Manu'a was original creation location
+- **Story:** Sky originally flat on earth, propped up to create space
+- **Creation:** Humans formed from vegetation → worms → completed by Togaloa
+- **Reference:** https://samoanmythology.org/ts-the_creation/
+
+### Tongan (Tonga)
+- **Myth:** Similar to Hawaiian - period of darkness before light
+- **Belief:** Gods created islands and humans
+- **Reference:** https://www.thecollector.com/polynesian-creation-myths/

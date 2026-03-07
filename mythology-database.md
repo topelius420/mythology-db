@@ -981,6 +981,8 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Isukha Mythology: https://www.101lasttribes.com/tribes/isukha.html, https://joshuaproject.net/people_groups/20204
 - Idakho Mythology: https://en.wikipedia.org/wiki/Idakho, https://joshuaproject.net/people_groups/18896/KE
 - Taveta Mythology: https://www.101lasttribes.com/tribes/taveta.html, https://joshuaproject.net/people_groups/15298/KE
+- Kisongo Mythology: https://en.wikipedia.org/wiki/Kisongo (Maasai sub-tribe)
+- Purko Mythology: https://www.bluegecko.org/kenya/tribes/maasai/ (Maasai sub-tribe)
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/
 
 ---

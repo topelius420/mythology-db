@@ -1361,3 +1361,26 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **History:** Immigrated in 17th century from Finland
 - **Status:** Historical minority, many assimilated
 - **Reference:** https://en.wikipedia.org/wiki/Ingrian_Finns
+
+---
+
+## Estonian Mythology
+
+### Kalevipoeg
+- **Type:** National epic poem (19th century)
+- **Author:** Friedrich Reinhold Kreutzwald
+- **Hero:** Kalevipoeg ("Kalev's son")
+- **Parent:** Kalev and Linda
+- **Connection:** Similar to Finnish Kalevala!
+- **Reference:** https://en.wikipedia.org/wiki/Kalevipoeg
+
+### Characters (parallel to Finnish)
+- **Vanemuine** → Väinämöinen (sage/musician)
+- **Ilmarine** → Ilmarinen (smith)
+- **Kalev** → Kaleva (giant father)
+- **Linda** → (mother figure)
+
+### Kanteletar
+- **Type:** Estonian poetry collection
+- **Connection:** Similar Finnish collection; both cultures share folk traditions
+- **Reference:** https://en.wikipedia.org/wiki/Kanteletar

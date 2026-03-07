@@ -1191,3 +1191,35 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Practices:** Drumming, spirit journey, seiðr (magic)
 - **Connection:** Adjacent to Finnish territory, shared northern ecology
 - **Reference:** https://www.beneathnorthernlights.com/sami-shamanism-a-short-summary/
+
+---
+
+## Finno-Ugric Peoples (Russia)
+
+### Mari (Russia)
+- **Language:** Finno-Ugric
+- **Region:** Mari El republic, central Russia
+- **Belief:** Pagan, sky god (Kugu)
+- **Theme:** Forest worship, shamanic traditions
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Udmurt (Russia)
+- **Language:** Finno-Ugric (Permian branch)
+- **Region:** Udmurtia, central Russia
+- **Belief:** Animism, ancestor spirits
+- **Theme:** Forest spirits, medieval traditions
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Mordvin (Russia)
+- **Language:** Finno-Ugric (Mordvinic)
+- **Groups:** Erzya, Moksha
+- **Region:** Mordovia, central Russia
+- **Belief:** Pagan, deity worship
+- **Reference:** https://fennougria.ee/en/peoples/mordvins/
+
+### Komi (Russia)
+- **Language:** Finno-Ugric (Permian)
+- **Region:** Komi republic, northeastern Russia
+- **Belief:** Animism, shamanism
+- **Theme:** Forest, Permian culture
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion

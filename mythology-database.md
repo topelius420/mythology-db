@@ -1125,3 +1125,10 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Key Myths:** Traditional myths influence worldview
 - **Theme:** Forest living, shamanic practices
 - **Reference:** https://www.folklore.earth/culture/ashaninka/
+
+### Xingu Peoples (Brazil)
+- **Description:** 15 tribes living near Xingu River
+- **Belief:** Similar rituals, ceremonies, belief systems across tribes
+- **Key Tribes:** Yawalapiti, Kamayurá, Kuikuro, Wauja, Kayapo
+- **Theme:** Ecological and social balance, peace through trade/intermarriage
+- **Reference:** https://en.wikipedia.org/wiki/Xingu_peoples

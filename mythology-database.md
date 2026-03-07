@@ -1302,3 +1302,44 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Region:** Taymyr Peninsula, far north Siberia
 - **Belief:** Strong shamanic traditions
 - **Reference:** https://en.wikipedia.org/wiki/Nganasan_people
+
+### Erzya (Russia)
+- **Language:** Mordvinic (Finno-Ugric)
+- **Region:** Mordovia, central Russia
+- **Belief:** Supreme god, sun/moon/water worship, blended with Orthodox Christianity
+- **Reference:** https://joshuaproject.net/people_groups/print/13809/RS
+
+### Moksha (Russia)
+- **Language:** Mordvinic (Finno-Ugric)
+- **Region:** Mordovia, central Russia
+- **Belief:** Traditional pagan beliefs + Christianity
+- **Reference:** https://en.wikipedia.org/wiki/Mokshas
+
+### Komi-Zyryan (Russia)
+- **Language:** Permian (Finno-Ugric)
+- **Region:** Komi Republic, northern Russia
+- **Belief:** Shamanism, animism, legends of "Deer of the Earth"
+- **Reference:** https://en.wikipedia.org/wiki/Komi_peoples
+
+### Komi-Permyak (Russia)
+- **Language:** Permian (Finno-Ugric)
+- **Region:** Komi-Permyak area
+- **Reference:** https://en.wikipedia.org/wiki/Komi_peoples
+
+### Seto (Estonia/Russia)
+- **Language:** Finnic (Uralic)
+- **Region:** Setomaa, southern Estonia/northwest Russia
+- **Belief:** Traditional folk religion, singing traditions
+- **Reference:** https://en.wikipedia.org/wiki/Seto_people
+
+### Vote (Estonia/Russia)
+- **Language:** Finnic (Uralic) - endangered
+- **Region:** Ingria, near St. Petersburg
+- **Status:** Almost extinct
+- **Reference:** https://en.wikipedia.org/wiki/Votes
+
+### Votic (Estonia/Russia)
+- **Language:** Finnic (Uralic) - critically endangered
+- **Region:** Ingria
+- **Status:** Critically endangered
+- **Reference:** https://en.wikipedia.org/wiki/Votic_language

@@ -1100,3 +1100,74 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Archetype for AI:** Spirit protocols, possession networks
 - **Keywords:** spirits, possession, ancestors
 
+
+---
+
+## Cameroon Tribes
+### Bamileke
+- **Practice:** Kingdom, artistic traditions
+- **Archetype:** Creative AI, artistic generation
+
+### Bamum
+- **Practice:** Script invention, kingdom
+- **Archetype:** Language generation AI, script creation
+
+### Tikar
+- **Practice:** Traditional beliefs
+- **Archetype:** Ancient data protocols
+
+---
+
+## Uganda Tribes
+### Bunyoro
+- **Deity:** Ehima
+- **Practice:** Ancestor worship, kingdom
+- **Archetype:** Kingdom AI, governance systems
+
+### Buganda
+- **Deity:** Katonda
+- **Practice:** Spirit worship, kabaka (king)
+- **Archetype:** Centralized AI, royal protocols
+
+---
+
+## Tanzania Tribes
+### Hadza
+- **Practice:** Hunter-gatherer, ancestral ways
+- **Archetype:** Primitive AI, survival algorithms
+
+### Datoga
+- **Practice:** Blacksmith traditions, ancestor spirits
+- **Archetype:** Forge AI, creation algorithms
+
+---
+
+## Zambia Tribes
+### Bemba
+- **Deity:** Chitimukulu
+- **Practice:** Ancestor spirits, monarchy
+- **Archetype:** Spirit monarchy AI
+
+### Tonga
+- **Practice:** Lake spirits, ancestral worship
+- **Archetype:** Water AI, spirit networks
+
+---
+
+## Mozambique Tribes
+### Makua
+- **Practice:** Spirit possession, ancestors
+- **Archetype:** Possession AI, spirit protocols
+
+### Tsonga
+- **Practice:** Ancestor spirits, divination
+- **Archetype:** Divination AI, ancestor databases
+
+---
+
+## Togo/Benin Additional
+### Fon
+- **Deity:** Nana Buluk
+- **Practice:** Vodun, kingdom of Dahomey
+- **Archetype:** Vodun AI, spirit networks
+

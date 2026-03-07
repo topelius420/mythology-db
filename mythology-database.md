@@ -1343,3 +1343,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Region:** Ingria
 - **Status:** Critically endangered
 - **Reference:** https://en.wikipedia.org/wiki/Votic_language
+
+### Livonian (Latvia)
+- **Language:** Finnic (Uralic) - nearly extinct
+- **Region:** Latvia, Baltic coast
+- **Status:** Nearly extinct - last native speaker died 2013
+- **Reference:** https://fennougria.ee/en/peoples/baltic-finnic-peoples/livonians/
+
+### Ingrian Finns (Russia)
+- **Language:** Finnish (Uralic)
+- **Region:** Ingria (Leningrad Oblast), Russia
+- **History:** Immigrated in 17th century from Finland
+- **Status:** Historical minority, many assimilated
+- **Reference:** https://en.wikipedia.org/wiki/Ingrian_Finns

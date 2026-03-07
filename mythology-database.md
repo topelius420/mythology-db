@@ -986,6 +986,7 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Kamba Cua Mythology: https://qazini.com/the-kamba-cua-kenya-s-colourful-legacy-in-south-america (Kamba diaspora in Paraguay)
 - Dassanech Mythology: https://www.101lasttribes.com/tribes/dassanech.html (also in Kenya/Omo Valley)
 - Mbeere Mythology: https://en.wikipedia.org/wiki/Mbeere_people (related to Embu/Kikuyu)
+- Tharaka Mythology: https://artsandculture.google.com/asset/kibuuka-the-thunderous-legend-tharaka-community-shujaa-stories/awHsjIS_dTS4SA (Tharaka people, Meru subgroup)
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/
 
 ---

@@ -1173,3 +1173,9 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Location:** Amazon rainforest near borders of Peru, Brazil, Colombia
 - **Theme:** Fishing, hunting, Amazonian ecology
 - **Reference:** https://en.wikipedia.org/wiki/Ticuna
+
+### Guarani (Paraguay/Brazil/Argentina)
+- **Deities:** Tupã (creator), Angatupyry (good), Tau (evil)
+- **Spirits:** Pombero, Kurupi, Pytajovái
+- **Theme:** "Land without evil," dream of paradise
+- **Reference:** https://en.wikipedia.org/wiki/Guarani_mythology

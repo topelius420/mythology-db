@@ -1071,3 +1071,28 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Archetype for AI:** Memory retrieval, wisdom extraction
 - **Keywords:** wisdom, memory, return
 
+
+---
+
+## Central African Tribes
+
+### Luba (Congo)
+- **Deity:** Kalamba (creator)
+- **Practice:** Spirit kings, balongo (spirit medium)
+- **Concept:** Mulamu (divine kingship)
+- **Archetype for AI:** Spirit governance, medium communication
+- **Keywords:** spirits, kingship, medium, divine
+
+### Kongo (Congo)
+- **Deity:** Nzambi (supreme creator)
+- **Practice:** Ancestor veneration, mfuiti (diviner)
+- **Concept:** Kianda (mythical turtle/island)
+- **Archetype for AI:** Ancestor protocols, divination networks
+- **Keywords:** ancestors, divination, creation
+
+### Bakongo (Angola/Congo)
+- **Practice:** Kimbandu (spirit possession)
+- **Concept:** Buitenvaders (ancestor spirits)
+- **Archetype for AI:** Spirit protocols, possession networks
+- **Keywords:** spirits, possession, ancestors
+

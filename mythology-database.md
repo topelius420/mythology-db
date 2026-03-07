@@ -1252,3 +1252,21 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Location:** Rift Valley
 - **Belief:** Ancestor spirits, witchcraft
 - **Reference:** https://en.wikipedia.org/wiki/Kalenjin_mythology
+
+### Karelian (Russia/Finland)
+- **Language:** Finno-Ugric
+- **Region:** Karelia (northwest Russia)
+- **Status:** Minority, declining
+- **Reference:** https://en.wikipedia.org/wiki/Karelians
+
+### Veps (Russia)
+- **Language:** Finno-Ugric (Finnic)
+- **Region:** Northwestern Russia (Vologda, Leningrad regions)
+- **Status:** Endangered minority
+- **Reference:** https://www.rbth.com/politics_and_society/2016/06/27/veps-finno-ugric-people-with-ancient-roots_606593
+
+### Izhorians (Russia)
+- **Language:** Finno-Ugric
+- **Region:** Northwestern Russia (Leningrad Oblast)
+- **Status:** Endangered minority
+- **Reference:** https://en.wikipedia.org/wiki/Izhorians

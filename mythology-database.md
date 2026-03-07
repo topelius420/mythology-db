@@ -1224,3 +1224,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Belief:** Animism, shamanism
 - **Theme:** Forest, Permian culture
 - **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Teso (Kenya/Uganda)
+- **Language:** Nilotic
+- **Location:** Western Kenya
+- **Population:** ~350,000 in Kenya
+- **Belief:** Previously believed in Akuj (supreme god), animism
+- **Reference:** https://en.wikipedia.org/wiki/Teso_people
+
+### Swahili (Kenya/Tanzania)
+- **Location:** Coast Province
+- **Language:** Bantu + Arabic influence
+- **Belief:** Islam, spirit possession cults, djinn
+- **Myths:** Zimwi, Shetani, spirit worlds
+- **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/SwahiliMythology

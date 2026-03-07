@@ -1270,3 +1270,35 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Region:** Northwestern Russia (Leningrad Oblast)
 - **Status:** Endangered minority
 - **Reference:** https://en.wikipedia.org/wiki/Izhorians
+
+### Khanty (Russia)
+- **Language:** Ob-Ugric (Finno-Ugric branch)
+- **Region:** Western Siberia, Khanty-Mansia
+- **Belief:** Shamanism, bear feast traditions
+- **Status:** Indigenous minority
+- **Reference:** https://en.wikipedia.org/wiki/Khanty_people
+
+### Mansi (Russia)
+- **Language:** Ob-Ugric (Finno-Ugric branch)
+- **Region:** Western Siberia, Khanty-Mansia
+- **Belief:** Shamanism, nature spirits
+- **Status:** Indigenous minority
+- **Reference:** https://en.wikipedia.org/wiki/Mansi_people
+
+### Nenets (Russia)
+- **Language:** Samoyedic (Uralic family)
+- **Region:** Northern Siberia, Arctic
+- **Belief:** Shamanism, animism
+- **Reference:** https://en.wikipedia.org/wiki/Nenets_people
+
+### Selkup (Russia)
+- **Language:** Samoyedic
+- **Region:** Central Siberia
+- **Belief:** Shamanism
+- **Reference:** https://en.wikipedia.org/wiki/Selkup_people
+
+### Nganasan (Russia)
+- **Language:** Samoyedic
+- **Region:** Taymyr Peninsula, far north Siberia
+- **Belief:** Strong shamanic traditions
+- **Reference:** https://en.wikipedia.org/wiki/Nganasan_people

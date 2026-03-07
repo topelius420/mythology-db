@@ -1119,3 +1119,9 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Key Themes:** Giant Anaconda, transformations between humans/animals/plants
 - **Belief:** Kinship between humans, plants, fish, and animals
 - **Reference:** https://www.folklore.earth/culture/kayapo/
+
+### Ashaninka Mythology (Peru)
+- **Population:** ~97,000 (largest in Peruvian Amazon)
+- **Key Myths:** Traditional myths influence worldview
+- **Theme:** Forest living, shamanic practices
+- **Reference:** https://www.folklore.earth/culture/ashaninka/

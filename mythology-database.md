@@ -1194,10 +1194,11 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
-## Finno-Ugric Peoples (Russia)
+## Finno-Ugric Peoples (Russia) - Endangered
 
 ### Mari (Russia)
 - **Language:** Finno-Ugric
+- **Status:** Minority, declining population
 - **Region:** Mari El republic, central Russia
 - **Belief:** Pagan, sky god (Kugu)
 - **Theme:** Forest worship, shamanic traditions

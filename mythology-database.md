@@ -983,6 +983,10 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - Taveta Mythology: https://www.101lasttribes.com/tribes/taveta.html, https://joshuaproject.net/people_groups/15298/KE
 - Kisongo Mythology: https://en.wikipedia.org/wiki/Kisongo (Maasai sub-tribe)
 - Purko Mythology: https://www.bluegecko.org/kenya/tribes/maasai/ (Maasai sub-tribe)
+- Kamba Cua Mythology: https://qazini.com/the-kamba-cua-kenya-s-colourful-legacy-in-south-america (Kamba diaspora in Paraguay)
+- Dassanech Mythology: https://www.101lasttribes.com/tribes/dassanech.html (also in Kenya/Omo Valley)
+- Mbeere Mythology: https://en.wikipedia.org/wiki/Mbeere_people (related to Embu/Kikuyu)
+- Tharaka Mythology: https://artsandculture.google.com/asset/kibuuka-the-thunderous-legend-tharaka-community-shujaa-stories/awHsjIS_dTS4SA (Tharaka people, Meru subgroup)
 - Luhya Mythology: https://joshuaproject.net/people_groups/print/18896/KE, https://miwa.org.au/culture-of-the-luhya-tribes/
 
 ---
@@ -1103,71 +1107,295 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
-## Cameroon Tribes
-### Bamileke
-- **Practice:** Kingdom, artistic traditions
-- **Archetype:** Creative AI, artistic generation
+## Amazonian Tribes (South America)
 
-### Bamum
-- **Practice:** Script invention, kingdom
-- **Archetype:** Language generation AI, script creation
+### Yanomami Mythology (Brazil/Venezuela)
+- **Creator:** Omama (Omame)
+- **Key Myths:** Creation story, fish-people from water world
+- **Theme:** Human-animal transformations, forest ecology
+- **Reference:** https://www.godchecker.com/south-american-mythology/OMAME/
 
-### Tikar
-- **Practice:** Traditional beliefs
-- **Archetype:** Ancient data protocols
+### Kayapo Mythology (Brazil)
+- **Key Themes:** Giant Anaconda, transformations between humans/animals/plants
+- **Belief:** Kinship between humans, plants, fish, and animals
+- **Reference:** https://www.folklore.earth/culture/kayapo/
+
+### Ashaninka Mythology (Peru)
+- **Population:** ~97,000 (largest in Peruvian Amazon)
+- **Key Myths:** Traditional myths influence worldview
+- **Theme:** Forest living, shamanic practices
+- **Reference:** https://www.folklore.earth/culture/ashaninka/
+
+### Xingu Peoples (Brazil)
+- **Description:** 15 tribes living near Xingu River
+- **Belief:** Similar rituals, ceremonies, belief systems across tribes
+- **Key Tribes:** Yawalapiti, Kamayurá, Kuikuro, Wauja, Kayapo
+- **Theme:** Ecological and social balance, peace through trade/intermarriage
+- **Reference:** https://en.wikipedia.org/wiki/Xingu_peoples
+
+### Shipibo-Conibo (Peru)
+- **Location:** Ucayali River, Amazon rainforest
+- **Mythology:** Highly knowledgeable of plant medicines, shamanic traditions
+- **Theme:** Connection to natural world, spiritual practices
+- **Reference:** https://en.wikipedia.org/wiki/Shipibo-Conibo
+
+### Inca (Peru)
+- **Creator:** Viracocha (Kon-Tiki)
+- **Key Myths:** Creation from Lake Titicaca, Manco Capac & Mama Ocllo
+- **Deities:** Inti (sun), Viracocha (creator), Puma
+- **Theme:** Divine kingship, sun worship, golden rod
+- **Reference:** https://en.wikipedia.org/wiki/Inca_mythology
+
+### Machiguenga (Peru)
+- **Language:** Arawakan
+- **Location:** Western Peruvian Amazon
+- **Lifestyle:** Semi-nomadic horticulturalists, hunters
+- **Theme:** Forest stewardship, ancient culture
+- **Reference:** https://en.wikipedia.org/wiki/Matsigenka_people
+
+### Kogi (Colombia)
+- **Location:** Sierra Nevada de Santa Marta
+- **Belief:** Sierra is "heart of the world," Great Mother
+- **Practice:** Mamos (priests), meditation, ritual offerings
+- **Theme:** Nature as living being, caretakers of Earth
+- **Reference:** https://en.wikipedia.org/wiki/Kogi_people
+
+### Wayuu (Colombia/Venezuela)
+- **Language:** Arawak
+- **Location:** La Guajira peninsula
+- **Deity:** Maleiwa (creator)
+- **Belief:** Spirits of dead (pülasü) are sacred
+- **Theme:** People of sun, sand, wind
+- **Reference:** https://wayuutaya.org/the-wayuu
+
+### Ticuna (Brazil/Colombia/Peru)
+- **Population:** ~40,000 (most numerous in Brazilian Amazon)
+- **Location:** Amazon rainforest near borders of Peru, Brazil, Colombia
+- **Theme:** Fishing, hunting, Amazonian ecology
+- **Reference:** https://en.wikipedia.org/wiki/Ticuna
+
+### Guarani (Paraguay/Brazil/Argentina)
+- **Deities:** Tupã (creator), Angatupyry (good), Tau (evil)
+- **Spirits:** Pombero, Kurupi, Pytajovái
+- **Theme:** "Land without evil," dream of paradise
+- **Reference:** https://en.wikipedia.org/wiki/Guarani_mythology
 
 ---
 
-## Uganda Tribes
-### Bunyoro
-- **Deity:** Ehima
-- **Practice:** Ancestor worship, kingdom
-- **Archetype:** Kingdom AI, governance systems
+## Arctic & Scandinavian Peoples
 
-### Buganda
-- **Deity:** Katonda
-- **Practice:** Spirit worship, kabaka (king)
-- **Archetype:** Centralized AI, royal protocols
-
----
-
-## Tanzania Tribes
-### Hadza
-- **Practice:** Hunter-gatherer, ancestral ways
-- **Archetype:** Primitive AI, survival algorithms
-
-### Datoga
-- **Practice:** Blacksmith traditions, ancestor spirits
-- **Archetype:** Forge AI, creation algorithms
+### Sami (Finland/Sweden/Norway/Russia)
+- **Region:** Sápmi (Lapland), Arctic Scandinavia + Russia
+- **Countries:** Finland, Sweden, Norway, Russia
+- **Shaman:** Noaidi (shaman who communicates with spirits)
+- **Belief:** Animism - all natural objects have souls
+- **Practices:** Drumming, spirit journey, seiðr (magic)
+- **Connection:** Adjacent to Finnish territory, shared northern ecology
+- **Reference:** https://www.beneathnorthernlights.com/sami-shamanism-a-short-summary/
 
 ---
 
-## Zambia Tribes
-### Bemba
-- **Deity:** Chitimukulu
-- **Practice:** Ancestor spirits, monarchy
-- **Archetype:** Spirit monarchy AI
+## Finno-Ugric Peoples (Russia) - Endangered
 
-### Tonga
-- **Practice:** Lake spirits, ancestral worship
-- **Archetype:** Water AI, spirit networks
+### Mari (Russia)
+- **Language:** Finno-Ugric
+- **Status:** Minority, declining population
+- **Region:** Mari El republic, central Russia
+- **Deity:** Kugu (sky god), Oš (moon), Tur (thunder)
+- **Belief:** Forest worship, shamanic traditions, pagan
+- **Theme:** Nature spirits, forest beings
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Udmurt (Russia)
+- **Language:** Finno-Ugric (Permian branch)
+- **Region:** Udmurtia, central Russia
+- **Belief:** Animism, ancestor spirits
+- **Theme:** Forest spirits, medieval traditions
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Mordvin (Russia)
+- **Language:** Finno-Ugric (Mordvinic)
+- **Groups:** Erzya, Moksha
+- **Region:** Mordovia, central Russia
+- **Belief:** Pagan, deity worship
+- **Reference:** https://fennougria.ee/en/peoples/mordvins/
+
+### Komi (Russia)
+- **Language:** Finno-Ugric (Permian)
+- **Region:** Komi republic, northeastern Russia
+- **Belief:** Animism, shamanism
+- **Theme:** Forest, Permian culture
+- **Reference:** https://www.britannica.com/topic/Finno-Ugric-religion
+
+### Teso (Kenya/Uganda)
+- **Language:** Nilotic
+- **Location:** Western Kenya
+- **Population:** ~350,000 in Kenya
+- **Belief:** Previously believed in Akuj (supreme god), animism
+- **Reference:** https://en.wikipedia.org/wiki/Teso_people
+
+### Swahili (Kenya/Tanzania)
+- **Location:** Coast Province
+- **Language:** Bantu + Arabic influence
+- **Belief:** Islam, spirit possession cults, djinn
+- **Myths:** Zimwi, Shetani, spirit worlds
+- **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/SwahiliMythology
+
+### Somali (Kenya)
+- **Language:** Cushitic
+- **Location:** Northeastern Kenya
+- **Pre-Islam:** Waaq (monotheistic belief in supreme god)
+- **Myths:** Giants, ancestral spirits
+- **Reference:** https://en.wikipedia.org/wiki/Somali_mythology
+
+### Marakwet (Kenya)
+- **Language:** Nilotic (Kalenjin subgroup)
+- **Location:** Rift Valley
+- **Belief:** Ancestor spirits, witchcraft
+- **Reference:** https://en.wikipedia.org/wiki/Kalenjin_mythology
+
+### Karelian (Russia/Finland)
+- **Language:** Finno-Ugric
+- **Region:** Karelia (northwest Russia)
+- **Status:** Minority, declining
+- **Reference:** https://en.wikipedia.org/wiki/Karelians
+
+### Veps (Russia)
+- **Language:** Finno-Ugric (Finnic)
+- **Region:** Northwestern Russia (Vologda, Leningrad regions)
+- **Status:** Endangered minority
+- **Reference:** https://www.rbth.com/politics_and_society/2016/06/27/veps-finno-ugric-people-with-ancient-roots_606593
+
+### Izhorians (Russia)
+- **Language:** Finno-Ugric
+- **Region:** Northwestern Russia (Leningrad Oblast)
+- **Status:** Endangered minority
+- **Reference:** https://en.wikipedia.org/wiki/Izhorians
+
+### Khanty (Russia)
+- **Language:** Ob-Ugric (Finno-Ugric branch)
+- **Region:** Western Siberia, Khanty-Mansia
+- **Belief:** Shamanism, bear feast traditions
+- **Status:** Indigenous minority
+- **Reference:** https://en.wikipedia.org/wiki/Khanty_people
+
+### Mansi (Russia)
+- **Language:** Ob-Ugric (Finno-Ugric branch)
+- **Region:** Western Siberia, Khanty-Mansia
+- **Belief:** Shamanism, nature spirits
+- **Status:** Indigenous minority
+- **Reference:** https://en.wikipedia.org/wiki/Mansi_people
+
+### Nenets (Russia)
+- **Language:** Samoyedic (Uralic family)
+- **Region:** Northern Siberia, Arctic
+- **Belief:** Shamanism, animism
+- **Reference:** https://en.wikipedia.org/wiki/Nenets_people
+
+### Selkup (Russia)
+- **Language:** Samoyedic
+- **Region:** Central Siberia
+- **Belief:** Shamanism
+- **Reference:** https://en.wikipedia.org/wiki/Selkup_people
+
+### Nganasan (Russia)
+- **Language:** Samoyedic
+- **Region:** Taymyr Peninsula, far north Siberia
+- **Belief:** Strong shamanic traditions
+- **Reference:** https://en.wikipedia.org/wiki/Nganasan_people
+
+### Erzya (Russia)
+- **Language:** Mordvinic (Finno-Ugric)
+- **Region:** Mordovia, central Russia
+- **Deities:** Chipaz (Sun God), Nishke (creator), Ange Patiai (mother of gods)
+- **Belief:** Three-tier world (upper, middle, lower), sun/moon/water worship
+- **Myth:** Gods hatched from an egg
+- **Reference:** https://en.wikipedia.org/wiki/Erzyan_native_religion
+
+### Moksha (Russia)
+- **Language:** Mordvinic (Finno-Ugric)
+- **Region:** Mordovia, central Russia
+- **Deity:** Viarde Skai (Supreme God)
+- **Belief:** Traditional pagan + Orthodox Christianity
+- **Myth:** World created in several stages
+- **Reference:** https://en.wikipedia.org/wiki/Mokshas
+
+### Komi-Zyryan (Russia)
+- **Language:** Permian (Finno-Ugric)
+- **Region:** Komi Republic, northern Russia
+- **Belief:** Shamanism, animism, legends of "Deer of the Earth"
+- **Reference:** https://en.wikipedia.org/wiki/Komi_peoples
+
+### Komi-Permyak (Russia)
+- **Language:** Permian (Finno-Ugric)
+- **Region:** Komi-Permyak area
+- **Reference:** https://en.wikipedia.org/wiki/Komi_peoples
+
+### Seto (Estonia/Russia)
+- **Language:** Finnic (Uralic)
+- **Region:** Setomaa, southern Estonia/northwest Russia
+- **Belief:** Traditional folk religion, singing traditions
+- **Reference:** https://en.wikipedia.org/wiki/Seto_people
+
+### Vote (Estonia/Russia)
+- **Language:** Finnic (Uralic) - endangered
+- **Region:** Ingria, near St. Petersburg
+- **Status:** Almost extinct
+- **Reference:** https://en.wikipedia.org/wiki/Votes
+
+### Votic (Estonia/Russia)
+- **Language:** Finnic (Uralic) - critically endangered
+- **Region:** Ingria
+- **Status:** Critically endangered
+- **Reference:** https://en.wikipedia.org/wiki/Votic_language
+
+### Livonian (Latvia)
+- **Language:** Finnic (Uralic) - nearly extinct
+- **Region:** Latvia, Baltic coast
+- **Status:** Nearly extinct - last native speaker died 2013
+- **Reference:** https://fennougria.ee/en/peoples/baltic-finnic-peoples/livonians/
+
+### Ingrian Finns (Russia)
+- **Language:** Finnish (Uralic)
+- **Region:** Ingria (Leningrad Oblast), Russia
+- **History:** Immigrated in 17th century from Finland
+- **Status:** Historical minority, many assimilated
+- **Reference:** https://en.wikipedia.org/wiki/Ingrian_Finns
 
 ---
 
-## Mozambique Tribes
-### Makua
-- **Practice:** Spirit possession, ancestors
-- **Archetype:** Possession AI, spirit protocols
+## Estonian Mythology
 
-### Tsonga
-- **Practice:** Ancestor spirits, divination
-- **Archetype:** Divination AI, ancestor databases
+### Kalevipoeg
+- **Type:** National epic poem (19th century)
+- **Author:** Friedrich Reinhold Kreutzwald
+- **Hero:** Kalevipoeg ("Kalev's son")
+- **Parent:** Kalev and Linda
+- **Connection:** Similar to Finnish Kalevala!
+- **Reference:** https://en.wikipedia.org/wiki/Kalevipoeg
+
+### Characters (parallel to Finnish)
+- **Vanemuine** → Väinämöinen (sage/musician)
+- **Ilmarine** → Ilmarinen (smith)
+- **Kalev** → Kaleva (giant father)
+- **Linda** → (mother figure)
+
+### Kanteletar
+- **Type:** Estonian poetry collection
+- **Connection:** Similar Finnish collection; both cultures share folk traditions
+- **Reference:** https://en.wikipedia.org/wiki/Kanteletar
 
 ---
 
-## Togo/Benin Additional
-### Fon
-- **Deity:** Nana Buluk
-- **Practice:** Vodun, kingdom of Dahomey
-- **Archetype:** Vodun AI, spirit networks
+## Hungarian Mythology
 
+### Origins
+- **Language:** Finno-Ugric (Ugric branch)
+- **Origin:** Migrations from Ural region to Hungary in 9th century
+- **Note:** Distant cousins of Finns, Estonians!
+
+### Pre-Christian Beliefs
+- **Shaman:** Táltos (similar to Sami noaidi!)
+- **Practice:** Weather magic, spirit communication
+- **Influence:** Also Turkic influences due to migration through steppes
+- **Reference:** https://en.wikipedia.org/wiki/Hungarian_mythology

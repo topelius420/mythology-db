@@ -2322,3 +2322,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Traditions
 - **Songs:** Dainas (Lithuanian), tautasdziesmas (Latvian)
 - **Note:** Last pagan nations in Europe
+
+---
+
+## Swedish Folklore
+
+### Trolls
+- **Type:** Giant beings
+- **Habitat:** Forests, mountains
+- **Nature:** Often dangerous, magical
+
+### Nacken
+- **Type:** Water spirit
+- **Habitat:** Streams, mills
+- **Nature:** Seductive, musical

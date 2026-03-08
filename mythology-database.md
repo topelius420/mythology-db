@@ -2353,3 +2353,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Trolls
 - **Type:** Big, hairy, ugly
 - **Heads:** Up to 9 heads
+
+---
+
+## Icelandic Folklore
+
+### Huldufolk (Hidden People)
+- **Origin:** From Norse alfar (elves)
+- **Belief:** Still believed in modern Iceland
+- **Nature:** Hidden from humans
+
+### Elves
+- **Origin:** Norse mythology
+- **Belief:** Ancestral spirits tied to fertility

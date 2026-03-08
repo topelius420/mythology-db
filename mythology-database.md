@@ -2141,3 +2141,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### Sina
 - **Legend:** Story of desire and Tigilau
+
+---
+
+## Micronesian
+
+### Make-Make (Rapa Nui)
+- **Domain:** Creation god
+- **Created:** First son from bird + reflection
+- **Created:** First humans from stone
+
+### Overview
+- **Region:** Mariana Islands, Caroline Islands, Marshall Islands
+- **Belief:** Varied island-by-island

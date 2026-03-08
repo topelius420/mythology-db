@@ -1590,3 +1590,44 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Indra:** Thunder, war
 - **Agni:** Fire
 - **Surya:** Sun
+
+---
+
+## Egyptian Mythology
+
+### Heliopolis Creation
+- **Primordial Ocean:** Nun (chaos waters)
+- **First God:** Atum emerged from hill
+- **Created:** Shu (air) + Tefnut (moisture) from bodily fluids
+
+### Memphis Creation
+- **Creator:** Ptah (patron of artisans)
+- **Method:** Created by heart (thought) + tongue (speech)
+- **Concept:** Word has power
+
+### Ogdoad (Eight)
+- **Primordial Deities:** Amun, Heh, Kek, Nun (and their female aspects)
+- **Domain:** Chaos before creation
+
+### Ennead (Nine)
+- **Atum** → Shu + Tefnut → Geb + Nut → Osiris, Isis, Set, Nephthys
+
+---
+
+## Mesopotamian Mythology
+
+### Enuma Elish
+- **Origin:** Babylonian creation epic (1900-1600 BC)
+- **Tiamat:** Primordial sea dragon
+- **Marduk:** Young god who defeated Tiamat
+- **Creation:** Made world from Tiamat's body
+
+### Marduk
+- **Rise:** Became chief god of Babylon
+- **Power:** 50 names/attributes
+- **Festival:** Recited at Akitu (New Year)
+
+### Sumerian Precursors
+- **An:** Sky god
+- **Enlil:** Storm god
+- **Inanna:** Love/war goddess

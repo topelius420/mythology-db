@@ -2280,3 +2280,14 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Peoples:** Xiongnu, Xiongnu, Turkic, Mongol, Hunnic
 - **Symbol:** Circle (eternity)
 - **Pantheon:** 99 deities in Mongolian tradition
+
+---
+
+## Finnish - Additional
+
+### Ukko
+- **Domain:** Sky god, thunder
+- **Name:** Derived from "ukkonen" (thunder)
+- **Powers:** Weather control, rains for agriculture
+- **Weapons:** Fiery sword, silver axe, golden knife
+- **Reference:** https://www.britannica.com/topic/Ukko

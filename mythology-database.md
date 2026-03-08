@@ -2115,3 +2115,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Creation
 - **Myth:** Passed through generations
 - **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/PapuanMythology
+
+---
+
+## Aboriginal Australian - Additional
+
+### Rainbow Serpent
+- **Names:** Ngalyod (Arnhem Land), Wanampi (Pitjantjatjara)
+- **Powers:** Creator, water protector
+- **Age:** 6000-8000 years in rock art
+- **Belief:** Creates mountains, replenishes waterholes
+
+### Tiddalick
+- **Type:** Frog
+- **Story:** Caused flood by drinking all water

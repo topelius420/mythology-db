@@ -1960,3 +1960,14 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Joik
 - **Type:** Traditional Sami chanting
 - **Use:** In shamanic rituals for trance states
+
+---
+
+## Khmer (Cambodia)
+
+### Preah Thong & Neang Neak
+- **Story:** Foundational Khmer creation myth
+- **Preah Thong:** Indian prince
+- **Neang Neak:** Naga (serpent) princess
+- **Union:** Created Khmer kingdom
+- **Reference:** https://mythlok.com/preah-thong-and-neang-neak/

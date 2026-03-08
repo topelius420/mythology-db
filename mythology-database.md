@@ -1775,3 +1775,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Creation
 - **Story:** Created world, humans from clay
 - **Reference:** https://mythus.fandom.com/wiki/Bathala
+
+---
+
+## Indonesian (Java/Bali)
+
+### Sang Hyang Widhi
+- **Names:** Sang Hyang Widhi Wasa, Acintya
+- **Meaning:** "The Divine Order," "The Divine Oneness"
+- **Concept:** Supreme god, unknowable primordial source
+
+### Balinese
+- **Belief:** Universe emerged from primordial source
+- **Reference:** https://en.wikipedia.org/wiki/Balinese_mythology

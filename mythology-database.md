@@ -2440,3 +2440,30 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Heroes:** Alpomish, Kuntugmish
 - **Creatures:** Ajina (goat-headed giant)
 - **Influence:** Pre-Islamic + Islam
+
+---
+
+## Sri Lankan
+
+### Sinhabahu
+- **Legend:** Lion father, princess mother
+- **Origin:** Founded city of Anuradhapura
+
+### Creation
+- **Myth:** Explains island creation
+- **Values:** Moral, spiritual guidance
+
+---
+
+## Malaysian
+
+### Hang Tuah
+- **Legend:** Virtuous hero
+
+### Creatures
+- **Pontianak:** Female vampire spirit
+- **Penanggalan:** Flying head spirit
+- **Sang Kancil:** Mouse deer (trickster)
+
+### Influences
+- **Origins:** Indigenous, Chinese, Indian, Islamic

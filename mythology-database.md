@@ -2336,3 +2336,20 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Type:** Water spirit
 - **Habitat:** Streams, mills
 - **Nature:** Seductive, musical
+
+---
+
+## Norwegian Folklore
+
+### Huldra
+- **Type:** Forest spirit, troll-like
+- **Nature:** Seductive, beautiful from front
+
+### Nokken
+- **Type:** Water spirit
+- **Relation:** Male version of Huldra
+- **Habitat:** Ponds, water
+
+### Trolls
+- **Type:** Big, hairy, ugly
+- **Heads:** Up to 9 heads

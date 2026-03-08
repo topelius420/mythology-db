@@ -1990,3 +1990,84 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Fuath
 - **Type:** Water spirits
 - **Nature:** Malevolent
+
+---
+
+## Irish - Additional
+
+### Banshee
+- **Type:** Fairy spirit
+- **Name:** "Woman of the fairy folk"
+- **Names:** Little Washerwoman, Hag of the Mist
+- **Origin:** Descendant of Tuatha De Danann
+- **Power:** Wailing warns of death
+
+### Sidhe
+- **Meaning:** "Mounds" (sídhe)
+- **Origin:** Later name for Tuatha De Danann
+- **Home:** Burial mounds
+
+---
+
+## Welsh
+
+### Dragon (Y Ddraig Goch)
+- **Type:** Red Dragon
+- **Flag:** Symbol on Welsh flag
+- **Nature:** Fierce but benevolent
+
+### King Arthur
+- **Legend:** British leader, Camelot, Knights of Round Table
+- **Magic:** Excalibur sword
+- **Reference:** Welsh mythology
+
+---
+
+## Anansi (West Africa)
+
+### Trickster Spider
+- **Origin:** Akan people of Ghana
+- **Names:** Kwaku Kweku Ananse
+- **Powers:** Wisdom, wit, trickery, stories
+- **Story:** Bought stories from Nyame (sky god)
+- **Significance:** Brought stories to the world
+- **Reference:** https://en.wikipedia.org/wiki/Anansi
+
+---
+
+## Vodun (Benin/Togo)
+
+### Origin
+- **Peoples:** Fon, Ewe
+- **Location:** Benin, Togo, Ghana
+- **Meaning:** "Spirit"
+
+### Beliefs
+- **Practices:** Spirit possession, animal sacrifice, dance
+- **Gods:** Vast pantheon
+- **Influence:** Voodoo in Americas
+- **Reference:** https://mythlok.com/world-mythologies/african/west-african-mythology/dahomey-vodun-fon-ewe/
+
+---
+
+## Asase Yaa (Akan/Ghana)
+
+### Earth Goddess
+- **Meaning:** "Old woman earth"
+- **Domain:** Fertility, truth, life
+- **Symbol:** Soil
+- **Role:** Mother of humanity
+- **Reference:** https://mythlok.com/asase-yaa/
+
+---
+
+## Ashanti (Ghana)
+
+### Nyame
+- **Domain:** Supreme Being
+- **Meaning:** "The one who knows and sees everything"
+- **Created:** World and Anansi
+
+### Okyeame
+- **Role:** Spokesperson for the king
+- **Duties:** Protocol, eloquence

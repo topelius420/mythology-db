@@ -2410,3 +2410,15 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Hayk
 - **Legend:** Descendant of Noah
 - **Origin:** Armenian people
+
+---
+
+## Georgian
+
+### Cosmology
+- **Structure:** Three vertically stacked worlds
+- **Belief:** Universe is sphere-shaped
+
+### Amiran
+- **Legend:** Promethean figure
+- **Story:** Fire-stealing figure

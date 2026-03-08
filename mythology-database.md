@@ -2306,3 +2306,19 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### Miorita
 - **Ballad:** Famous Romanian folk ballad
+
+---
+
+## Baltic (Lithuania/Latvia/Estonia)
+
+### Perkunas
+- **Domain:** Thunder god
+- **Weapon:** Axe
+- **Power:** Rules Baltic Sea
+
+### Milda
+- **Domain:** Goddess of love, courtship, freedom
+
+### Traditions
+- **Songs:** Dainas (Lithuanian), tautasdziesmas (Latvian)
+- **Note:** Last pagan nations in Europe

@@ -1665,3 +1665,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Orishas
 - **Examples:** Shango (thunder), Yemoja (mother), Eshu (trickster)
 - **Reference:** https://www.gateway-africa.com/stories/Yoruba_Creation_Myth.html
+
+---
+
+## Igbo (Nigeria)
+
+### Chineke
+- **Meaning:** "Chi na Eke" (God + creation)
+- **Concept:** Dual-being god
+
+### Chi
+- **Meaning:** Personal destiny/spirit within each person
+- **Belief:** Everyone has a Chi assigned at birth
+- **Connection:** Tied to Ikenga (personal achievement symbol)
+- **Reference:** https://www.inlandtown.com/the-story-of-creation-according-to-igbo-mythology/

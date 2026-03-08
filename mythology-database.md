@@ -2479,3 +2479,15 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Creation
 - **Myth:** Lost ancient creation story
 - **Creatures:** Mango in stories of Cur and Ekampan
+
+---
+
+## Lao
+
+### Creation
+- **Legend:** Giant vine covered earth
+- **Story:** Vine killed to restore sun
+
+### Spirits
+- **Phi:** Ghosts, spirits
+- **Influence:** Buddhist + animist

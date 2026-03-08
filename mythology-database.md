@@ -2092,3 +2092,26 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Mawu
 - **Domain:** God who created all things
 - **Created:** Earth from clay and water
+
+---
+
+## Dayak (Borneo/Indonesia)
+
+### Overview
+- **Location:** Borneo island
+- **Groups:** Over 200 ethnic groups (Iban, Bidayuh, Kenyah-Kayan)
+- **Beliefs:** Supernatural powers, headhunting traditions
+- **Myth:** Fire came to Kalimantan (Borneo)
+
+---
+
+## Papuan (Papua New Guinea)
+
+### Features
+- **Spirits:** Genius loci (spirits of place)
+- **Belief:** Forests, lakes have spirits
+- **Creatures:** Giant spider god Areop-Enap
+
+### Creation
+- **Myth:** Passed through generations
+- **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/PapuanMythology

@@ -1745,3 +1745,20 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Parent:** Son of Hwanung
 - **Birth:** Bear and Tiger transformation story
 - **Reference:** https://www.britannica.com/topic/Tangun
+
+---
+
+## Vietnamese Mythology
+
+### Lac Long Quan
+- **Domain:** Dragon Lord of the seas
+
+### Au Co
+- **Domain:** Mountain fairy/snow goddess
+- **Union:** Married Lac Long Quan
+- **Result:** 100 eggs hatched into 100 children
+
+### Founding
+- **Story:** Dragon + mountain fairy = first Vietnamese
+- **Dynasty:** Founded Hung Dynasty
+- **Reference:** https://vietpowertravel.com/blog/vietnamese-mythology.html

@@ -2272,6 +2272,260 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+<<<<<<< HEAD
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+
+=======
+## Central Asian (Turco-Mongol)
+
+### Tengri
+- **Meaning:** "Sky," "Heaven," "God"
+- **Domain:** Supreme deity, sky god
+- **Peoples:** Xiongnu, Xiongnu, Turkic, Mongol, Hunnic
+- **Symbol:** Circle (eternity)
+- **Pantheon:** 99 deities in Mongolian tradition
+
+---
+
+## Finnish - Additional
+
+### Ukko
+- **Domain:** Sky god, thunder
+- **Name:** Derived from "ukkonen" (thunder)
+- **Powers:** Weather control, rains for agriculture
+- **Weapons:** Fiery sword, silver axe, golden knife
+- **Reference:** https://www.britannica.com/topic/Ukko
+
+---
+
+## Romanian
+
+### Creation
+- **Myth:** Similar to Slavic/Norse cosmology
+- **Versions:** Christian, animals assisting God
+
+### Baba Dochia
+- **Legend:** Famous Romanian folk tale
+- **Note:** Vampires, werewolves in folklore
+
+### Miorita
+- **Ballad:** Famous Romanian folk ballad
+
+---
+
+## Baltic (Lithuania/Latvia/Estonia)
+
+### Perkunas
+- **Domain:** Thunder god
+- **Weapon:** Axe
+- **Power:** Rules Baltic Sea
+
+### Milda
+- **Domain:** Goddess of love, courtship, freedom
+
+### Traditions
+- **Songs:** Dainas (Lithuanian), tautasdziesmas (Latvian)
+- **Note:** Last pagan nations in Europe
+
+---
+
+## Swedish Folklore
+
+### Trolls
+- **Type:** Giant beings
+- **Habitat:** Forests, mountains
+- **Nature:** Often dangerous, magical
+
+### Nacken
+- **Type:** Water spirit
+- **Habitat:** Streams, mills
+- **Nature:** Seductive, musical
+
+---
+
+## Norwegian Folklore
+
+### Huldra
+- **Type:** Forest spirit, troll-like
+- **Nature:** Seductive, beautiful from front
+
+### Nokken
+- **Type:** Water spirit
+- **Relation:** Male version of Huldra
+- **Habitat:** Ponds, water
+
+### Trolls
+- **Type:** Big, hairy, ugly
+- **Heads:** Up to 9 heads
+
+---
+
+## Icelandic Folklore
+
+### Huldufolk (Hidden People)
+- **Origin:** From Norse alfar (elves)
+- **Belief:** Still believed in modern Iceland
+- **Nature:** Hidden from humans
+
+### Elves
+- **Origin:** Norse mythology
+- **Belief:** Ancestral spirits tied to fertility
+
+---
+
+## Greek - Additional
+
+### Hades
+- **Domain:** God of underworld
+- **Kidnapped:** Persephone
+- **Rule:** Dead, wealth
+
+### Persephone
+- **Domain:** Queen of underworld
+- **Cycle:** 6 months with mother, 6 months with Hades
+- **Explanation:** Seasons
+
+---
+
+## Minoan/Cretan
+
+### Europa
+- **Origin:** Phoenician princess
+- **Abducted:** By Zeus (white bull)
+- **Children:** Minos, Rhadamanthys, Sarpedon
+- **Note:** Named continent Europe!
+
+### Minos
+- **Role:** King of Crete
+- **Origin:** Son of Zeus + Europa
+
+---
+
+## Armenian
+
+### Creation
+- **Ar/Ararich:** Creator, heavenly origin
+- **Cosmos:** Mother, Father, Heaven, Earth
+
+### Aralez
+- **Type:** Dog-like spirits
+- **Habitat:** Mount Ararat
+
+### Hayk
+- **Legend:** Descendant of Noah
+- **Origin:** Armenian people
+
+---
+
+## Georgian
+
+### Cosmology
+- **Structure:** Three vertically stacked worlds
+- **Belief:** Universe is sphere-shaped
+
+### Amiran
+- **Legend:** Promethean figure
+- **Story:** Fire-stealing figure
+
+---
+
+## Kazakh (Central Asia)
+
+### Tengri
+- **Belief:** Worshipped for 5000+ years
+- **Concept:** All-encompassing god, universe personified
+- **Reference:** https://en.wikipedia.org/wiki/Tengrism
+
+---
+
+## Uzbek (Central Asia)
+
+### Folklore
+- **Heroes:** Alpomish, Kuntugmish
+- **Creatures:** Ajina (goat-headed giant)
+- **Influence:** Pre-Islamic + Islam
+
+---
+
+## Sri Lankan
+
+### Sinhabahu
+- **Legend:** Lion father, princess mother
+- **Origin:** Founded city of Anuradhapura
+
+### Creation
+- **Myth:** Explains island creation
+- **Values:** Moral, spiritual guidance
+
+---
+
+## Malaysian
+
+### Hang Tuah
+- **Legend:** Virtuous hero
+
+### Creatures
+- **Pontianak:** Female vampire spirit
+- **Penanggalan:** Flying head spirit
+- **Sang Kancil:** Mouse deer (trickster)
+
+### Influences
+- **Origins:** Indigenous, Chinese, Indian, Islamic
+
+---
+
+## Tamil
+
+### Mythology
+- **Origin:** Dravidian pantheon
+- **Deities:** Village gods, Aiyanar
+
+### Creation
+- **Myth:** Lost ancient creation story
+- **Creatures:** Mango in stories of Cur and Ekampan
+
+---
+
+## Lao
+
+### Creation
+- **Legend:** Giant vine covered earth
+- **Story:** Vine killed to restore sun
+
+### Spirits
+- **Phi:** Ghosts, spirits
+- **Influence:** Buddhist + animist
+>>>>>>> 0c6bcc30952186aa1e7cc68ed64b6b349abe7090
+
+---
+
 ## Additional African Tribes (Hourly Batch)
 
 ### Angola

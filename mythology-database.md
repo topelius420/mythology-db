@@ -1947,3 +1947,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Domain:** Goddess of darkness, destruction, death
 - **Origin:** Created from Durga's rage
 - **Festival:** Celebration in Bengal
+
+---
+
+## Sami - Additional
+
+### Noaidi
+- **Role:** Shaman
+- **Practice:** Used drums to achieve trance
+- **Purpose:** Healing, divination, communication with gods
+
+### Joik
+- **Type:** Traditional Sami chanting
+- **Use:** In shamanic rituals for trance states

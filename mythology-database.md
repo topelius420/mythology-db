@@ -1679,3 +1679,22 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Belief:** Everyone has a Chi assigned at birth
 - **Connection:** Tied to Ikenga (personal achievement symbol)
 - **Reference:** https://www.inlandtown.com/the-story-of-creation-according-to-igbo-mythology/
+
+---
+
+## Dogon (Mali)
+
+### Amma
+- **Domain:** Creator god
+- **Creation:** Built Earth from clay
+
+### Nommo
+- **Nature:** Ancestral spirits/deities
+- **Form:** Amphibious, hermaphroditic
+- **Created:** 8 assistants (4 pairs of twins)
+- **Astronomy:** Known for Sirius B knowledge!
+
+### Significance
+- **Mystery:** Precise astronomical knowledge
+- **Legend:** Taught by extraterrestrials from Sirius
+- **Reference:** https://www.gateway-africa.com/stories/Dogon_Creation_Myth.html

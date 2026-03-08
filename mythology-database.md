@@ -2154,3 +2154,19 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Overview
 - **Region:** Mariana Islands, Caroline Islands, Marshall Islands
 - **Belief:** Varied island-by-island
+
+---
+
+## Filipino - Additional
+
+### Visayan
+- **Bakunawa:** Moon-eating dragon (eclipse explanation)
+- **Story:** Eats moon, scared away by noise
+
+### Kapampangan
+- **Created:** Land from war of gods
+- **Deity:** Mangechay
+
+### Ilokano
+- **Creator:** Giant Anglao
+- **Guardians:** Giant dog Lobo (underworld)

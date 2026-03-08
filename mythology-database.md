@@ -1971,3 +1971,22 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Neang Neak:** Naga (serpent) princess
 - **Union:** Created Khmer kingdom
 - **Reference:** https://mythlok.com/preah-thong-and-neang-neak/
+
+---
+
+## Scottish Celtic
+
+### Kelpie
+- **Type:** Water spirit, shape-shifting
+- **Form:** Often black horse
+- **Habitat:** Lochs, rivers
+- **Nature:** Dangerous, lures victims
+
+### Selkie
+- **Type:** Shape-shifting seal people
+- **Ability:** Shed skin to become human
+- **Nature:** Kind, helpful
+
+### Fuath
+- **Type:** Water spirits
+- **Nature:** Malevolent

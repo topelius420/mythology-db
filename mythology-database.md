@@ -1439,3 +1439,32 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Myth:** Similar to Hawaiian - period of darkness before light
 - **Belief:** Gods created islands and humans
 - **Reference:** https://www.thecollector.com/polynesian-creation-myths/
+
+---
+
+## Ainu (Japan)
+- **Region:** Hokkaido, Sakhalin, Kuril Islands
+- **Language:** Language isolate (not related to Japanese)
+- **Key Ceremony:** Iyomante (bear sending/sacrifice)
+- **Belief:** Bear is Kamuy (god/spirit)
+- **Practice:** Sacred bond with bears, soul-sending ceremony
+- **Note:** Indigenous people of Japan, separate from ethnic Japanese
+- **Reference:** https://www.oceanicartsociety.org.au/the-ainu-bear-sending-ceremony/
+
+---
+
+## Australian Aboriginal Mythology
+
+### Dreamtime (The Dreaming)
+- **Concept:** Mythological period when the world was created
+- **Beings:** Eternal mythic beings who shaped the land
+- **Belief:** All life force connected - humans, animals, plants part of nature
+- **Key Feature:** Totemism, ongoing connection to "Country"
+- **Terms:** Dreamtime, Alcheringa, Jukurrpa (different language groups)
+- **Reference:** https://www.britannica.com/topic/the-Dreaming-Australian-Aboriginal-mythology
+
+### Rainbow Serpent
+- **Deity:** Powerful creator being
+- **Myth:** Created rivers, mountains, valleys
+- **Presence:** Across many Aboriginal groups
+- **Reference:** https://japingkaaboriginalart.com/aboriginal-dreamtime-stories/

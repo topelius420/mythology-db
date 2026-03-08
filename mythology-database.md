@@ -2269,3 +2269,14 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Wolof**: Ancestor spirits
 - **Mandinka**: Ancient kingdom spirits
 
+
+---
+
+## Central Asian (Turco-Mongol)
+
+### Tengri
+- **Meaning:** "Sky," "Heaven," "God"
+- **Domain:** Supreme deity, sky god
+- **Peoples:** Xiongnu, Xiongnu, Turkic, Mongol, Hunnic
+- **Symbol:** Circle (eternity)
+- **Pantheon:** 99 deities in Mongolian tradition

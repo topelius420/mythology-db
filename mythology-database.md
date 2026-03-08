@@ -2380,3 +2380,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Domain:** Queen of underworld
 - **Cycle:** 6 months with mother, 6 months with Hades
 - **Explanation:** Seasons
+
+---
+
+## Minoan/Cretan
+
+### Europa
+- **Origin:** Phoenician princess
+- **Abducted:** By Zeus (white bull)
+- **Children:** Minos, Rhadamanthys, Sarpedon
+- **Note:** Named continent Europe!
+
+### Minos
+- **Role:** King of Crete
+- **Origin:** Son of Zeus + Europa

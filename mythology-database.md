@@ -1727,3 +1727,21 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Thai Spirit Beliefs
 - **Practice:** Coexists with Buddhism
 - **Reference:** https://en.wikipedia.org/wiki/Phra_Phrom
+
+---
+
+## Korean Mythology
+
+### Hwanin
+- **Domain:** Supreme deity, creator
+- **Son:** Hwanung
+
+### Hwanung
+- **Story:** Asked to descend to Earth
+- **Location:** Mt. Baekdu
+
+### Dangun
+- **Role:** Founder of Gojoseon (2333 BC)
+- **Parent:** Son of Hwanung
+- **Birth:** Bear and Tiger transformation story
+- **Reference:** https://www.britannica.com/topic/Tangun

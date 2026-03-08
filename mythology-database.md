@@ -2394,3 +2394,19 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Minos
 - **Role:** King of Crete
 - **Origin:** Son of Zeus + Europa
+
+---
+
+## Armenian
+
+### Creation
+- **Ar/Ararich:** Creator, heavenly origin
+- **Cosmos:** Mother, Father, Heaven, Earth
+
+### Aralez
+- **Type:** Dog-like spirits
+- **Habitat:** Mount Ararat
+
+### Hayk
+- **Legend:** Descendant of Noah
+- **Origin:** Armenian people

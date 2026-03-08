@@ -2422,3 +2422,21 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Amiran
 - **Legend:** Promethean figure
 - **Story:** Fire-stealing figure
+
+---
+
+## Kazakh (Central Asia)
+
+### Tengri
+- **Belief:** Worshipped for 5000+ years
+- **Concept:** All-encompassing god, universe personified
+- **Reference:** https://en.wikipedia.org/wiki/Tengrism
+
+---
+
+## Uzbek (Central Asia)
+
+### Folklore
+- **Heroes:** Alpomish, Kuntugmish
+- **Creatures:** Ajina (goat-headed giant)
+- **Influence:** Pre-Islamic + Islam

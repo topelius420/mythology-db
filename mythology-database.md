@@ -1631,3 +1631,20 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **An:** Sky god
 - **Enlil:** Storm god
 - **Inanna:** Love/war goddess
+
+---
+
+## Persian/Zoroastrian Mythology
+
+### Ahura Mazda
+- **Domain:** Light, truth, creation
+- **Opponent:** Angra Mainyu (Ahriman)
+
+### Angra Mainyu
+- **Domain:** Darkness, destruction, evil
+- **Conflict:** Eternal battle with Ahura Mazda
+
+### Dualism
+- **Concept:** World as battlefield between good and evil
+- **Influence:** Later influenced Abrahamic religions
+- **Reference:** https://parsikhabar.net/religion/ahura-mazda-and-angra-mainyu-in-zoroastrianisms-creation-mythology/24856/

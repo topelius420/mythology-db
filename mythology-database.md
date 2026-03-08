@@ -1468,3 +1468,35 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Myth:** Created rivers, mountains, valleys
 - **Presence:** Across many Aboriginal groups
 - **Reference:** https://japingkaaboriginalart.com/aboriginal-dreamtime-stories/
+
+---
+
+## Native American Mythology
+
+### Cherokee
+- **Creation:** Earth created from mud brought by tiny animal diving to sea bottom
+- **Belief:** Similar to Ojibwe
+- **Reference:** https://study.com/academy/lesson/native-american-creation-myths.html
+
+### Ojibwe (Chippewa)
+- **Creation:** Earth diver - animal dove and brought mud from bottom of sea
+- **Reference:** https://study.com/academy/lesson/native-american-creation-myths.html
+
+### Iroquois
+- **Creation:** Sky Woman fell from sky world, animals caught her
+- **Myth:** Great Buzzard created land/mountains by flapping wings
+- **Reference:** https://www.rfmwilliams.com/three-native-american-creation-myths/
+
+### Aztec (Mexico)
+- **Creation:** Five Suns - five eras of the world
+- **Belief:** Gods sacrificed themselves to create each sun
+- **Current:** Fifth Sun - requires blood sacrifice
+- **Deity:** Ometeotl (dual god), Quetzalcoatl, Tezcatlipoca
+- **Reference:** https://omnika.org/myths/aztec-five-suns
+
+### Mayan (Mesoamerica)
+- **Sacred Text:** Popol Vuh
+- **Creation:** Hero Twins (Hunahpu and Xbalanque)
+- **Myth:** Defeated gods of Xibalba (underworld)
+- **Story:** Father killed in underworld, twins avenged him
+- **Reference:** https://en.wikipedia.org/wiki/Maya_Hero_Twins

@@ -2129,3 +2129,15 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Tiddalick
 - **Type:** Frog
 - **Story:** Caused flood by drinking all water
+
+---
+
+## Samoan - Additional
+
+### Tagaloa
+- **Domain:** Supreme creator god
+- **Created:** Islands, sun, moon, heavens
+- **Sent:** His son Fue (peopling vine)
+
+### Sina
+- **Legend:** Story of desire and Tigilau

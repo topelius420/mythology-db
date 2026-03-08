@@ -1301,7 +1301,8 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Nganasan (Russia)
 - **Language:** Samoyedic
 - **Region:** Taymyr Peninsula, far north Siberia
-- **Belief:** Strong shamanic traditions
+- **Belief:** Strong shamanic traditions, one-eyed/one-armed spirit helpers
+- **Animals:** Reindeer sacred, wolf禁忌 (taboo)
 - **Reference:** https://en.wikipedia.org/wiki/Nganasan_people
 
 ### Erzya (Russia)
@@ -1402,185 +1403,100 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
-## Rwanda/ Burundi Tribes
-### Banyarwanda (Rwanda)
-- **Deity:** Imana (creator god)
-- **Practice:** Ancestor worship, kingship
-- **Concept:** Ubuntu (I am because we are)
-- **Archetype for AI:** Collective consciousness, distributed systems
-- **Keywords:** ancestors, kingship, unity
+## Hawaiian & Polynesian Mythology
 
-### Barundi (Burundi)
-- **Deity:** Kiranga (god of storms)
-- **Practice:** Royal lineage, spirit worship
-- **Concept:** Ganwa (princely class)
-- **Archetype for AI:** Storm computing, royal protocols
-- **Keywords:** storms, royalty, lineage
+### Hawaiian Creation
+- **Parents:** Wākea (sky father) + Papa (earth mother)
+- **First islands:** Born from their union
+- **Deities:** Lono (rain, healing), Pele (volcanoes)
+- **Priests:** Kahuna (shamans/priests)
+- **Reference:** https://www.thecollector.com/polynesian-creation-myths/
 
----
+### Pele (Hawaii)
+- **Domain:** Volcanoes, fire
+- **Story:** Created the Hawaiian islands
+- **Reference:** https://shakatribeshop.com/pages/polynesian-myths-and-legends-stories-from-the-south-pacific
 
-## Madagascar Tribes
-### Merina
-- **Deity:** Zanahary (creator god)
-- **Practice:** Ancestor veneration, famadihana (rebone ceremony)
-- **Concept:** Hasina (sacred life force)
-- **Archetype for AI:** Memory preservation, ancestral databases
-- **Keywords:** ancestors, rebirth, life force
+### Lono (Hawaii)
+- **Domain:** Rain, agriculture, healing
+- **Associated with:** Makua (ancestor)
+- **Reference:** https://punarising.com/hawaiian-creationism-fact-fiction-or-legend/
 
-### Betsileo
-- **Practice:** Agricultural rituals, ancestor spirits
-- **Concept:** Tromba (spirit possession)
-- **Archetype for AI:** Agricultural AI, spirit protocols
-- **Keywords:** agriculture, spirits, harvest
+### Maori (New Zealand)
+- **Creation:** Ranginui (Sky Father) + Papatuanuku (Earth Mother)
+- **Children:** Separated the parents to create light
+- **Deities:** Tane Mahuta (forests/birds), Maui (trickster/fisher)
+- **Myth:** Maui fished up North Island from sea
+- **Reference:** https://www.ancient-origins.net/human-origins-folklore/creation-myth-maori-new-zealand-00305
 
----
+### Samoan (Samoa)
+- **Origin:** Manu'a was original creation location
+- **Story:** Sky originally flat on earth, propped up to create space
+- **Creation:** Humans formed from vegetation → worms → completed by Togaloa
+- **Reference:** https://samoanmythology.org/ts-the_creation/
 
-## Namibia Tribes
-### Himba
-- **Deity:** Mukuru (ancestor god)
-- **Practice:** Ancestor worship, nature spirits
-- **Concept:** Okuruu (sacred fire)
-- **Archetype for AI:** Fire computing, ancestral protocols
-- **Keywords:** fire, ancestors, nature
-
-### San (Bushmen)
-- **Practice:** Rock art, trance dancing
-- **Concept:** N/um (sacred energy)
-- **Archetype for AI:** Trance computing, artistic AI
-- **Keywords:** rock art, trance, energy
-
+### Tongan (Tonga)
+- **Myth:** Similar to Hawaiian - period of darkness before light
+- **Belief:** Gods created islands and humans
+- **Reference:** https://www.thecollector.com/polynesian-creation-myths/
 
 ---
 
-## Botswana/Lesotho/Eswatini
-
-### Batswana (Botswana)
-- **Deity:** Modimo (supreme being)
-- **Practice:** Ancestor worship, rainmaking
-- **Concept:** Bogwera (male circumcision rites)
-- **Archetype for AI:** Ritual computing, rain algorithms
-- **Keywords:** ancestors, rain, rites
-
-### Basotho (Lesotho)
-- **Deity:** Ntakakgolo (great ancestor)
-- **Practice:** Mountain spirits, ancestor worship
-- **Concept:** Mosotho (personhood)
-- **Archetype for AI:** Mountain computing, personhood protocols
-- **Keywords:** mountains, ancestors, identity
-
-### Swazi (Eswatini)
-- **Deity:** Mveli (creator)
-- **Practice:** Royal lineage, spirit ceremonies
-- **Concept:** Ngwane (king ancestor)
-- **Archetype for AI:** Royal protocols, ceremony AI
-- **Keywords:** royalty, ceremony, lineage
+## Ainu (Japan)
+- **Region:** Hokkaido, Sakhalin, Kuril Islands
+- **Language:** Language isolate (not related to Japanese)
+- **Key Ceremony:** Iyomante (bear sending/sacrifice)
+- **Belief:** Bear is Kamuy (god/spirit)
+- **Practice:** Sacred bond with bears, soul-sending ceremony
+- **Note:** Indigenous people of Japan, separate from ethnic Japanese
+- **Reference:** https://www.oceanicartsociety.org.au/the-ainu-bear-sending-ceremony/
 
 ---
 
-## Sudan/Ethiopia
+## Australian Aboriginal Mythology
 
-### Nubian (Sudan)
-- **Deity:** Apedemak (lion god)
-- **Practice:** Temple worship, king worship
-- **Concept:** Ka (life force)
-- **Archetype for AI:** Lion algorithms, life force computing
-- **Keywords:** lions, temples, life force
+### Dreamtime (The Dreaming)
+- **Concept:** Mythological period when the world was created
+- **Beings:** Eternal mythic beings who shaped the land
+- **Belief:** All life force connected - humans, animals, plants part of nature
+- **Key Feature:** Totemism, ongoing connection to "Country"
+- **Terms:** Dreamtime, Alcheringa, Jukurrpa (different language groups)
+- **Reference:** https://www.britannica.com/topic/the-Dreaming-Australian-Aboriginal-mythology
 
-### Amhara (Ethiopia)
-- **Deity:** Yam (or Zär)
-- **Practice:** Orthodox Christianity, ancestor veneration
-- **Concept:** Shekua (traditional belief)
-- **Archetype for AI:** Faith computing, hybrid AI
-- **Keywords:** faith, ancestors, tradition
-
-
----
-
-## Ivory Coast/Guinea/Sierra Leone
-
-### Baule (Ivory Coast)
-- **Deity:** Nyaminin (spirit spouse)
-- **Practice:** Spirit spouse rituals, ancestor worship
-- **Concept:** Blolo (spirit wife/husband)
-- **Archetype for AI:** Spirit protocols, companion AI
-- **Keywords:** spirits, spouse, rituals
-
-### Kono (Guinea)
-- **Deity:** Sa (creator)
-- **Practice:** Poro society, ancestor spirits
-- **Concept:** Bundu (secret society)
-- **Archetype for AI:** Secret computing, society protocols
-- **Keywords:** creation, secret societies, ancestors
-
-### Mende (Sierra Leone)
-- **Deity:** Ngewo (supreme creator)
-- **Practice:** Bundu society, spirit worship
-- **Concept:** Sande (female society)
-- **Archetype for AI:** Gender protocols, spirit computing
-- **Keywords:** creators, societies, spirits
-
-### Temne (Sierra Leone)
-- **Deity:** Onikoyam (supreme being)
-- **Practice:** Ancestor worship, secret societies
-- **Concept:** Poro (male initiation)
-- **Archetype for AI:** Initiation protocols, ancestor databases
-- **Keywords:** ancestors, initiation, societies
-
+### Rainbow Serpent
+- **Deity:** Powerful creator being
+- **Myth:** Created rivers, mountains, valleys
+- **Presence:** Across many Aboriginal groups
+- **Reference:** https://japingkaaboriginalart.com/aboriginal-dreamtime-stories/
 
 ---
 
-## Liberia/Niger
+## Native American Mythology
 
-### Kru (Liberia)
-- **Deity:** Glele (leopard god)
-- **Practice:** Sea spirits, ancestor worship
-- **Concept:** Devil masks (spiritual protection)
-- **Archetype for AI:** Sea computing, protection protocols
-- **Keywords:** sea, spirits, protection
+### Cherokee
+- **Creation:** Earth created from mud brought by tiny animal diving to sea bottom
+- **Belief:** Similar to Ojibwe
+- **Reference:** https://study.com/academy/lesson/native-american-creation-myths.html
 
-### Ijaw (Niger Delta)
-- **Deity:** Woyengih (supreme creator)
-- **Practice:** Water spirits, oracle consultation
-- **Concept:** Egbesu (war god of protection)
-- **Archetype for AI:** Water computing, oracle algorithms
-- **Keywords:** water, oracles, protection
+### Ojibwe (Chippewa)
+- **Creation:** Earth diver - animal dove and brought mud from bottom of sea
+- **Reference:** https://study.com/academy/lesson/native-american-creation-myths.html
 
-### Tuareg (Niger/Mali)
-- **Deity:** Tenere (desert god)
-- **Practice:** Ancestor worship, desert spirits
-- **Concept:** Kel Esuf ( Tuareg language/soul)
-- **Archetype for AI:** Desert computing, nomadic protocols
-- **Keywords:** desert, ancestors, nomadic
+### Iroquois
+- **Creation:** Sky Woman fell from sky world, animals caught her
+- **Myth:** Great Buzzard created land/mountains by flapping wings
+- **Reference:** https://www.rfmwilliams.com/three-native-american-creation-myths/
 
+### Aztec (Mexico)
+- **Creation:** Five Suns - five eras of the world
+- **Belief:** Gods sacrificed themselves to create each sun
+- **Current:** Fifth Sun - requires blood sacrifice
+- **Deity:** Ometeotl (dual god), Quetzalcoatl, Tezcatlipoca
+- **Reference:** https://omnika.org/myths/aztec-five-suns
 
----
-
-## Additional African Tribes (Hourly Batch)
-
-### Angola
-- **Ovimbundu**: Spirit worship, ancestors
-- **Kongo**: Ancestor veneration, spirits
-
-### Zimbabwe
-- **Shona**: Ancestor spirits, Mhondoro
-- **Ndebele**: Spirit wives, ancestors
-
-### Malawi
-- **Chewa**: Ancestor worship, spirits
-- **Tumbuka**: Spirit possession
-
-### Eritrea/Djibouti
-- **Afar**: Desert spirits, ancestors
-- **Somali**: Cave spirits, oral traditions
-
-### Gulf of Guinea
-- **Fang**: Ancestor worship, spirits
-- **Bassa**: Water spirits
-
-### Indian Ocean
-- **Comorian**: Swahili spirits
-
-### West Africa
-- **Wolof**: Ancestor spirits
-- **Mandinka**: Ancient kingdom spirits
-
+### Mayan (Mesoamerica)
+- **Sacred Text:** Popol Vuh
+- **Creation:** Hero Twins (Hunahpu and Xbalanque)
+- **Myth:** Defeated gods of Xibalba (underworld)
+- **Story:** Father killed in underworld, twins avenged him
+- **Reference:** https://en.wikipedia.org/wiki/Maya_Hero_Twins

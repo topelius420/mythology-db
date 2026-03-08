@@ -1922,3 +1922,28 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Legend:** Founder of Hausa people
 - **Origin:** Came from Baghdad (east)
 - **Queen:** Magajiya Daurama
+
+---
+
+## Oromo (Ethiopia)
+
+### Waaq
+- **Domain:** Supreme god, creator
+- **Meaning:** "Waaqa Gurracha" (Black God)
+- **Created:** Heavens, Earth, first human
+- **Belief:** Monotheistic before Abrahamic religions
+- **Reference:** https://www.godchecker.com/african-mythology/WAAQ/
+
+---
+
+## Bengali (India)
+
+### Durga
+- **Domain:** Principal form of Devi/Shakti
+- **Festival:** Durga Puja
+- **Story:** Slayed demon Mahishasura
+
+### Kali
+- **Domain:** Goddess of darkness, destruction, death
+- **Origin:** Created from Durga's rage
+- **Festival:** Celebration in Bengal

@@ -1500,3 +1500,93 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Myth:** Defeated gods of Xibalba (underworld)
 - **Story:** Father killed in underworld, twins avenged him
 - **Reference:** https://en.wikipedia.org/wiki/Maya_Hero_Twins
+
+---
+
+## Celtic Mythology (Irish)
+
+### Tuatha Dé Danann
+- **Meaning:** "Gods/Folk of the Goddess Danu"
+- **Origin:** Arrived in Ireland, burned their ships
+- **Later:** Went underground, live in sídhe (hollow hills)
+- **Connection:** Became fairies of Irish folklore
+- **Reference:** https://irishmyths.com/2023/11/15/tuatha-de-danann/
+
+### Celtic Deities
+- **Dagda:** Father figure, god of earth
+- **Lugh:** God of many skills
+- **Brigid:** Goddess of fire, poetry, smithing
+- **Aengus:** God of love
+
+---
+
+## Slavic Mythology
+
+### Perun
+- **Domain:** Thunder, sky, war
+- **Battle:** Eternal fight with Veles (underworld)
+- **Weapon:** Golden hammer
+
+### Veles
+- **Domain:** Underworld, earth, cattle
+- **Form:** Serpent/dragon
+- **Conflict:** Steals from Perun, battle for world order
+
+### Rod
+- **Domain:** Creator god, forefather of all Slavic gods
+- **Reference:** https://kafkadeskdotorg.wordpress.com/2020/10/22/what-about-slavic-mythology-rod-and-the-birth-of-a-new-universe/
+
+---
+
+## Chinese Mythology
+
+### Pangu
+- **Creation:** Split open the cosmic egg
+- **Story:** 18,000 years to separate heaven and earth
+- **Death:** Body became rivers, mountains; parasites became humans
+
+### Nuwa
+- **Creation:** Mended sky with five-colored stones
+- **Story:** Cut turtle legs to support sky, slew dragon to stop floods
+- **Humans:** Created from clay (molded figures)
+
+### Fuxi
+- **Legend:** Created with Nuwa, taught humans
+- **Reference:** https://learnchineseup.com/blog/chinese-creation-myths-pangu-nuwa
+
+---
+
+## Japanese Mythology (Shinto)
+
+### Izanagi & Izanami
+- **Creation:** Created Japanese archipelago
+- **Story:** Stirred ocean with spear, drops formed islands
+- **Deities:** Created many kami (gods)
+- **Death:** Izanami died in childbirth, Izanagi went to Yomi
+- **Separation:** Izanagi placed stone to block Yomi
+
+### Amaterasu
+- **Domain:** Sun goddess, universe
+- **Importance:** Ancestor of Japanese emperor
+
+### Tsukuyomi
+- **Domain:** Moon god
+
+---
+
+## Hindu Mythology
+
+### Trimurti (Trinity)
+- **Brahma:** Creator
+- **Vishnu:** Preserver
+- **Shiva (Mahesh):** Destroyer
+
+### Creation Cycle
+- **Belief:** All three participate in creation/destruction
+- **Vishnu:** From whom Brahma emerges
+- **Concept:** Cosmic cycle - creation, preservation, destruction
+
+### Vedic Gods
+- **Indra:** Thunder, war
+- **Agni:** Fire
+- **Surya:** Sun

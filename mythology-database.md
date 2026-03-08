@@ -1503,6 +1503,326 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ---
 
+<<<<<<< HEAD
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+
+=======
+## Celtic Mythology (Irish)
+
+### Tuatha Dé Danann
+- **Meaning:** "Gods/Folk of the Goddess Danu"
+- **Origin:** Arrived in Ireland, burned their ships
+- **Later:** Went underground, live in sídhe (hollow hills)
+- **Connection:** Became fairies of Irish folklore
+- **Reference:** https://irishmyths.com/2023/11/15/tuatha-de-danann/
+
+### Celtic Deities
+- **Dagda:** Father figure, god of earth
+- **Lugh:** God of many skills
+- **Brigid:** Goddess of fire, poetry, smithing
+- **Aengus:** God of love
+
+---
+
+## Slavic Mythology
+
+### Perun
+- **Domain:** Thunder, sky, war
+- **Battle:** Eternal fight with Veles (underworld)
+- **Weapon:** Golden hammer
+
+### Veles
+- **Domain:** Underworld, earth, cattle
+- **Form:** Serpent/dragon
+- **Conflict:** Steals from Perun, battle for world order
+
+### Rod
+- **Domain:** Creator god, forefather of all Slavic gods
+- **Reference:** https://kafkadeskdotorg.wordpress.com/2020/10/22/what-about-slavic-mythology-rod-and-the-birth-of-a-new-universe/
+
+---
+
+## Chinese Mythology
+
+### Pangu
+- **Creation:** Split open the cosmic egg
+- **Story:** 18,000 years to separate heaven and earth
+- **Death:** Body became rivers, mountains; parasites became humans
+
+### Nuwa
+- **Creation:** Mended sky with five-colored stones
+- **Story:** Cut turtle legs to support sky, slew dragon to stop floods
+- **Humans:** Created from clay (molded figures)
+
+### Fuxi
+- **Legend:** Created with Nuwa, taught humans
+- **Reference:** https://learnchineseup.com/blog/chinese-creation-myths-pangu-nuwa
+
+---
+
+## Japanese Mythology (Shinto)
+
+### Izanagi & Izanami
+- **Creation:** Created Japanese archipelago
+- **Story:** Stirred ocean with spear, drops formed islands
+- **Deities:** Created many kami (gods)
+- **Death:** Izanami died in childbirth, Izanagi went to Yomi
+- **Separation:** Izanagi placed stone to block Yomi
+
+### Amaterasu
+- **Domain:** Sun goddess, universe
+- **Importance:** Ancestor of Japanese emperor
+
+### Tsukuyomi
+- **Domain:** Moon god
+
+---
+
+## Hindu Mythology
+
+### Trimurti (Trinity)
+- **Brahma:** Creator
+- **Vishnu:** Preserver
+- **Shiva (Mahesh):** Destroyer
+
+### Creation Cycle
+- **Belief:** All three participate in creation/destruction
+- **Vishnu:** From whom Brahma emerges
+- **Concept:** Cosmic cycle - creation, preservation, destruction
+
+### Vedic Gods
+- **Indra:** Thunder, war
+- **Agni:** Fire
+- **Surya:** Sun
+
+---
+
+## Egyptian Mythology
+
+### Heliopolis Creation
+- **Primordial Ocean:** Nun (chaos waters)
+- **First God:** Atum emerged from hill
+- **Created:** Shu (air) + Tefnut (moisture) from bodily fluids
+
+### Memphis Creation
+- **Creator:** Ptah (patron of artisans)
+- **Method:** Created by heart (thought) + tongue (speech)
+- **Concept:** Word has power
+
+### Ogdoad (Eight)
+- **Primordial Deities:** Amun, Heh, Kek, Nun (and their female aspects)
+- **Domain:** Chaos before creation
+
+### Ennead (Nine)
+- **Atum** → Shu + Tefnut → Geb + Nut → Osiris, Isis, Set, Nephthys
+
+---
+
+## Mesopotamian Mythology
+
+### Enuma Elish
+- **Origin:** Babylonian creation epic (1900-1600 BC)
+- **Tiamat:** Primordial sea dragon
+- **Marduk:** Young god who defeated Tiamat
+- **Creation:** Made world from Tiamat's body
+
+### Marduk
+- **Rise:** Became chief god of Babylon
+- **Power:** 50 names/attributes
+- **Festival:** Recited at Akitu (New Year)
+
+### Sumerian Precursors
+- **An:** Sky god
+- **Enlil:** Storm god
+- **Inanna:** Love/war goddess
+
+---
+
+## Persian/Zoroastrian Mythology
+
+### Ahura Mazda
+- **Domain:** Light, truth, creation
+- **Opponent:** Angra Mainyu (Ahriman)
+
+### Angra Mainyu
+- **Domain:** Darkness, destruction, evil
+- **Conflict:** Eternal battle with Ahura Mazda
+
+### Dualism
+- **Concept:** World as battlefield between good and evil
+- **Influence:** Later influenced Abrahamic religions
+- **Reference:** https://parsikhabar.net/religion/ahura-mazda-and-angra-mainyu-in-zoroastrianisms-creation-mythology/24856/
+
+---
+
+## Yoruba (Nigeria/West Africa)
+
+### Olodumare
+- **Domain:** Supreme God, source of creation
+- **Role:** Commanded creation
+
+### Obatala
+- **Role:** Created land from ocean
+- **Method:** Descended with golden chain, sand, hen
+- **Created:** Earth for living creatures
+
+### Orishas
+- **Examples:** Shango (thunder), Yemoja (mother), Eshu (trickster)
+- **Reference:** https://www.gateway-africa.com/stories/Yoruba_Creation_Myth.html
+
+---
+
+## Igbo (Nigeria)
+
+### Chineke
+- **Meaning:** "Chi na Eke" (God + creation)
+- **Concept:** Dual-being god
+
+### Chi
+- **Meaning:** Personal destiny/spirit within each person
+- **Belief:** Everyone has a Chi assigned at birth
+- **Connection:** Tied to Ikenga (personal achievement symbol)
+- **Reference:** https://www.inlandtown.com/the-story-of-creation-according-to-igbo-mythology/
+
+---
+
+## Dogon (Mali)
+
+### Amma
+- **Domain:** Creator god
+- **Creation:** Built Earth from clay
+
+### Nommo
+- **Nature:** Ancestral spirits/deities
+- **Form:** Amphibious, hermaphroditic
+- **Created:** 8 assistants (4 pairs of twins)
+- **Astronomy:** Known for Sirius B knowledge!
+
+### Significance
+- **Mystery:** Precise astronomical knowledge
+- **Legend:** Taught by extraterrestrials from Sirius
+- **Reference:** https://www.gateway-africa.com/stories/Dogon_Creation_Myth.html
+
+---
+
+## Burmese/Myanmar
+
+### Nats
+- **Meaning:** Spirits/deities
+- **Number:** 37 official spirits
+- **Belief:** Powerful protectors, can bring luck
+- **Origin:** Spirits of those who died tragically
+
+### Practice
+- **Worship:** Still actively practiced
+- **Scope:** All of life - places, people, trees, rocks
+- **Reference:** https://factsanddetails.com/southeast-asia/Myanmar/sub5_5c/entry-3036.html
+
+---
+
+## Thai (Thailand)
+
+### Phra Phrom
+- **Origin:** Thai adaptation of Hindu Brahma
+- **Form:** Four-faced Buddha
+- **Belief:** God of good fortune
+- **Syncretism:** Blends Hindu + Buddhist + animist beliefs
+
+### Thai Spirit Beliefs
+- **Practice:** Coexists with Buddhism
+- **Reference:** https://en.wikipedia.org/wiki/Phra_Phrom
+
+---
+
+## Korean Mythology
+
+### Hwanin
+- **Domain:** Supreme deity, creator
+- **Son:** Hwanung
+
+### Hwanung
+- **Story:** Asked to descend to Earth
+- **Location:** Mt. Baekdu
+
+### Dangun
+- **Role:** Founder of Gojoseon (2333 BC)
+- **Parent:** Son of Hwanung
+- **Birth:** Bear and Tiger transformation story
+- **Reference:** https://www.britannica.com/topic/Tangun
+
+---
+
+## Vietnamese Mythology
+
+### Lac Long Quan
+- **Domain:** Dragon Lord of the seas
+
+### Au Co
+- **Domain:** Mountain fairy/snow goddess
+- **Union:** Married Lac Long Quan
+- **Result:** 100 eggs hatched into 100 children
+
+### Founding
+- **Story:** Dragon + mountain fairy = first Vietnamese
+- **Dynasty:** Founded Hung Dynasty
+- **Reference:** https://vietpowertravel.com/blog/vietnamese-mythology.html
+
+---
+
+## Filipino/Tagalog (Philippines)
+
+### Bathala
+- **Domain:** Supreme being, creator
+- **Names:** Bathala Maykapal, Lumikha
+- **Battle:** Defeated Ulilang Kaluluwa (serpent god)
+
+### Creation
+- **Story:** Created world, humans from clay
+- **Reference:** https://mythus.fandom.com/wiki/Bathala
+
+---
+
+## Indonesian (Java/Bali)
+
+### Sang Hyang Widhi
+- **Names:** Sang Hyang Widhi Wasa, Acintya
+- **Meaning:** "The Divine Order," "The Divine Oneness"
+- **Concept:** Supreme god, unknowable primordial source
+
+### Balinese
+- **Belief:** Universe emerged from primordial source
+- **Reference:** https://en.wikipedia.org/wiki/Balinese_mythology
+>>>>>>> 23e33704e699f5af6df8adea2a21453cb0e9bd6f
+
+---
+
 ## Additional African Tribes (Hourly Batch)
 
 ### Angola

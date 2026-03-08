@@ -1713,3 +1713,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Worship:** Still actively practiced
 - **Scope:** All of life - places, people, trees, rocks
 - **Reference:** https://factsanddetails.com/southeast-asia/Myanmar/sub5_5c/entry-3036.html
+
+---
+
+## Thai (Thailand)
+
+### Phra Phrom
+- **Origin:** Thai adaptation of Hindu Brahma
+- **Form:** Four-faced Buddha
+- **Belief:** God of good fortune
+- **Syncretism:** Blends Hindu + Buddhist + animist beliefs
+
+### Thai Spirit Beliefs
+- **Practice:** Coexists with Buddhism
+- **Reference:** https://en.wikipedia.org/wiki/Phra_Phrom

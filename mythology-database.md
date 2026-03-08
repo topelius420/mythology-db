@@ -1762,3 +1762,16 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Story:** Dragon + mountain fairy = first Vietnamese
 - **Dynasty:** Founded Hung Dynasty
 - **Reference:** https://vietpowertravel.com/blog/vietnamese-mythology.html
+
+---
+
+## Filipino/Tagalog (Philippines)
+
+### Bathala
+- **Domain:** Supreme being, creator
+- **Names:** Bathala Maykapal, Lumikha
+- **Battle:** Defeated Ulilang Kaluluwa (serpent god)
+
+### Creation
+- **Story:** Created world, humans from clay
+- **Reference:** https://mythus.fandom.com/wiki/Bathala

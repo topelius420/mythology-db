@@ -1648,3 +1648,20 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Concept:** World as battlefield between good and evil
 - **Influence:** Later influenced Abrahamic religions
 - **Reference:** https://parsikhabar.net/religion/ahura-mazda-and-angra-mainyu-in-zoroastrianisms-creation-mythology/24856/
+
+---
+
+## Yoruba (Nigeria/West Africa)
+
+### Olodumare
+- **Domain:** Supreme God, source of creation
+- **Role:** Commanded creation
+
+### Obatala
+- **Role:** Created land from ocean
+- **Method:** Descended with golden chain, sand, hen
+- **Created:** Earth for living creatures
+
+### Orishas
+- **Examples:** Shango (thunder), Yemoja (mother), Eshu (trickster)
+- **Reference:** https://www.gateway-africa.com/stories/Yoruba_Creation_Myth.html

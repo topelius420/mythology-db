@@ -1698,3 +1698,18 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Mystery:** Precise astronomical knowledge
 - **Legend:** Taught by extraterrestrials from Sirius
 - **Reference:** https://www.gateway-africa.com/stories/Dogon_Creation_Myth.html
+
+---
+
+## Burmese/Myanmar
+
+### Nats
+- **Meaning:** Spirits/deities
+- **Number:** 37 official spirits
+- **Belief:** Powerful protectors, can bring luck
+- **Origin:** Spirits of those who died tragically
+
+### Practice
+- **Worship:** Still actively practiced
+- **Scope:** All of life - places, people, trees, rocks
+- **Reference:** https://factsanddetails.com/southeast-asia/Myanmar/sub5_5c/entry-3036.html

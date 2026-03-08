@@ -2467,3 +2467,15 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### Influences
 - **Origins:** Indigenous, Chinese, Indian, Islamic
+
+---
+
+## Tamil
+
+### Mythology
+- **Origin:** Dravidian pantheon
+- **Deities:** Village gods, Aiyanar
+
+### Creation
+- **Myth:** Lost ancient creation story
+- **Creatures:** Mango in stories of Cur and Ekampan

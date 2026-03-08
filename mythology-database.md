@@ -1888,3 +1888,37 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **In:** Asgard
 - **Ruled by:** Odin
 - **Entrance:** Warriors who died in battle
+
+---
+
+## Thai - Additional
+
+### Phi Pop
+- **Type:** Malevolent ghost/spirit
+- **Origin:** Thai and Laotian folklore
+- **Description:** Eats human intestines
+- **Power:** Possession
+
+---
+
+## Zulu (South Africa)
+
+### Unkulunkulu
+- **Meaning:** "The Great One," "First Ancestor"
+- **Origin:** Came from reeds
+- **Created:** People, cattle, mountains, streams, animals
+- **Taught:** Hunting, fire-making, farming
+- **Reference:** https://www.gateway-africa.com/stories/Zulu_Creation_Myth.html
+
+---
+
+## Hausa (Nigeria)
+
+### Daurama
+- **Domain:** Supreme deity, creator
+- **Created:** Mountains, rivers
+
+### Bayajidda
+- **Legend:** Founder of Hausa people
+- **Origin:** Came from Baghdad (east)
+- **Queen:** Magajiya Daurama

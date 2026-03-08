@@ -1819,7 +1819,424 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Balinese
 - **Belief:** Universe emerged from primordial source
 - **Reference:** https://en.wikipedia.org/wiki/Balinese_mythology
+<<<<<<< HEAD
 >>>>>>> 23e33704e699f5af6df8adea2a21453cb0e9bd6f
+
+---
+
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+
+=======
+
+---
+
+## Inuit (Arctic)
+
+### Sedna
+- **Domain:** Goddess of the sea, marine animals
+- **Story:** Thrown into ocean by father, became goddess
+- **Creation:** Fingers became seals, whales, fish
+- **Power:** Controls sea animals
+
+---
+
+## Mongolian
+
+### Tengri
+- **Domain:** Eternal Blue Sky, supreme deity
+- **Concept:** Infinite sky, cosmic order
+- **Religion:** Tengrism - shamanistic
+
+### Mongolian Shamanism
+- **Practice:** Spirit journeys, harmony with nature
+- **Belief:** Universe created by Tengri
+
+---
+
+## Tibetan/Bon
+
+### Bon
+- **Meaning:** "Truth"
+- **Origin:** Ancient Tibetan shamanism
+- **Founder:** Tonpa Shenrab
+- **Deities:** Peaceful creators, wrathful protectors
+
+### Tibetan Buddhism
+- **Syncretism:** Blends Bon + Buddhism
+- **Reference:** https://en.wikipedia.org/wiki/Bon
+
+---
+
+## Aztec - Additional
+
+### Five Suns
+- **Current:** Fifth Sun (Nahui Olin) - 4 Movement
+- **Cycle:** Each sun destroyed by cataclysm
+- **End:** Current age to end in earthquake
+- **Reference:** https://en.wikipedia.org/wiki/Five_Suns
+
+---
+
+## Maui (Polynesian)
+- **Type:** Demigod, culture hero, trickster
+- **Powers:** Magical fish hook
+- **Feats:** Fished up islands, slowed sun
+- **Myth:** Created Hawaiian Islands
+- **Pan-Pacific:** Stories span Hawaii to NZ (1000+ years)
+
+---
+
+## Basque (Spain/France)
+
+### Mari
+- **Domain:** Main goddess, earth personified
+- **Home:** Mountain caves
+- **Power:** Controls nature, animals
+- **Note:** One of oldest European mythologies!
+- **Reference:** https://basquemythology.amaroa.com/mythologic-characters/mari
+
+---
+
+## Finnish - Additional
+
+### Tapio
+- **Domain:** Forest god, King of the Forest
+- **Role:** God of hunters and hunting
+- **Wife:** Mielikki (goddess of forests)
+- **Offerings:** Left at "Tapion pöyta" (Table of Tapio)
+
+### Mielikki
+- **Domain:** Goddess of forests and hunt
+- **Family:** Wife of Tapio
+
+---
+
+## Norse - Additional
+
+### Odin
+- **Domain:** Wisdom, war, death, magic, poetry
+- **Sacrifice:** Gave eye for wisdom, hung on Yggdrasil for runes
+
+### Yggdrasil
+- **Meaning:** "Odin's horse" (gallows)
+- **Type:** Cosmic ash tree, center of cosmos
+- **Realms:** Connects 9 worlds
+
+### Valhalla
+- **Meaning:** "Hall of the fallen"
+- **In:** Asgard
+- **Ruled by:** Odin
+- **Entrance:** Warriors who died in battle
+
+---
+
+## Thai - Additional
+
+### Phi Pop
+- **Type:** Malevolent ghost/spirit
+- **Origin:** Thai and Laotian folklore
+- **Description:** Eats human intestines
+- **Power:** Possession
+
+---
+
+## Zulu (South Africa)
+
+### Unkulunkulu
+- **Meaning:** "The Great One," "First Ancestor"
+- **Origin:** Came from reeds
+- **Created:** People, cattle, mountains, streams, animals
+- **Taught:** Hunting, fire-making, farming
+- **Reference:** https://www.gateway-africa.com/stories/Zulu_Creation_Myth.html
+
+---
+
+## Hausa (Nigeria)
+
+### Daurama
+- **Domain:** Supreme deity, creator
+- **Created:** Mountains, rivers
+
+### Bayajidda
+- **Legend:** Founder of Hausa people
+- **Origin:** Came from Baghdad (east)
+- **Queen:** Magajiya Daurama
+
+---
+
+## Oromo (Ethiopia)
+
+### Waaq
+- **Domain:** Supreme god, creator
+- **Meaning:** "Waaqa Gurracha" (Black God)
+- **Created:** Heavens, Earth, first human
+- **Belief:** Monotheistic before Abrahamic religions
+- **Reference:** https://www.godchecker.com/african-mythology/WAAQ/
+
+---
+
+## Bengali (India)
+
+### Durga
+- **Domain:** Principal form of Devi/Shakti
+- **Festival:** Durga Puja
+- **Story:** Slayed demon Mahishasura
+
+### Kali
+- **Domain:** Goddess of darkness, destruction, death
+- **Origin:** Created from Durga's rage
+- **Festival:** Celebration in Bengal
+
+---
+
+## Sami - Additional
+
+### Noaidi
+- **Role:** Shaman
+- **Practice:** Used drums to achieve trance
+- **Purpose:** Healing, divination, communication with gods
+
+### Joik
+- **Type:** Traditional Sami chanting
+- **Use:** In shamanic rituals for trance states
+
+---
+
+## Khmer (Cambodia)
+
+### Preah Thong & Neang Neak
+- **Story:** Foundational Khmer creation myth
+- **Preah Thong:** Indian prince
+- **Neang Neak:** Naga (serpent) princess
+- **Union:** Created Khmer kingdom
+- **Reference:** https://mythlok.com/preah-thong-and-neang-neak/
+
+---
+
+## Scottish Celtic
+
+### Kelpie
+- **Type:** Water spirit, shape-shifting
+- **Form:** Often black horse
+- **Habitat:** Lochs, rivers
+- **Nature:** Dangerous, lures victims
+
+### Selkie
+- **Type:** Shape-shifting seal people
+- **Ability:** Shed skin to become human
+- **Nature:** Kind, helpful
+
+### Fuath
+- **Type:** Water spirits
+- **Nature:** Malevolent
+
+---
+
+## Irish - Additional
+
+### Banshee
+- **Type:** Fairy spirit
+- **Name:** "Woman of the fairy folk"
+- **Names:** Little Washerwoman, Hag of the Mist
+- **Origin:** Descendant of Tuatha De Danann
+- **Power:** Wailing warns of death
+
+### Sidhe
+- **Meaning:** "Mounds" (sídhe)
+- **Origin:** Later name for Tuatha De Danann
+- **Home:** Burial mounds
+
+---
+
+## Welsh
+
+### Dragon (Y Ddraig Goch)
+- **Type:** Red Dragon
+- **Flag:** Symbol on Welsh flag
+- **Nature:** Fierce but benevolent
+
+### King Arthur
+- **Legend:** British leader, Camelot, Knights of Round Table
+- **Magic:** Excalibur sword
+- **Reference:** Welsh mythology
+
+---
+
+## Anansi (West Africa)
+
+### Trickster Spider
+- **Origin:** Akan people of Ghana
+- **Names:** Kwaku Kweku Ananse
+- **Powers:** Wisdom, wit, trickery, stories
+- **Story:** Bought stories from Nyame (sky god)
+- **Significance:** Brought stories to the world
+- **Reference:** https://en.wikipedia.org/wiki/Anansi
+
+---
+
+## Vodun (Benin/Togo)
+
+### Origin
+- **Peoples:** Fon, Ewe
+- **Location:** Benin, Togo, Ghana
+- **Meaning:** "Spirit"
+
+### Beliefs
+- **Practices:** Spirit possession, animal sacrifice, dance
+- **Gods:** Vast pantheon
+- **Influence:** Voodoo in Americas
+- **Reference:** https://mythlok.com/world-mythologies/african/west-african-mythology/dahomey-vodun-fon-ewe/
+
+---
+
+## Asase Yaa (Akan/Ghana)
+
+### Earth Goddess
+- **Meaning:** "Old woman earth"
+- **Domain:** Fertility, truth, life
+- **Symbol:** Soil
+- **Role:** Mother of humanity
+- **Reference:** https://mythlok.com/asase-yaa/
+
+---
+
+## Ashanti (Ghana)
+
+### Nyame
+- **Domain:** Supreme Being
+- **Meaning:** "The one who knows and sees everything"
+- **Created:** World and Anansi
+
+### Okyeame
+- **Role:** Spokesperson for the king
+- **Duties:** Protocol, eloquence
+
+---
+
+## Fante (Ghana)
+
+### Overview
+- **Location:** Coastal Central/Western Ghana
+- **Group:** Akan people
+- **History:** Fished, traded, formed Confederacy
+
+---
+
+## Ga (Ghana)
+
+### Creation
+- **Belief:** Supreme Being (Ataa Naa Nyongmo)
+- **Migration:** Led by high priest from origin
+
+### Mawu
+- **Domain:** God who created all things
+- **Created:** Earth from clay and water
+
+---
+
+## Dayak (Borneo/Indonesia)
+
+### Overview
+- **Location:** Borneo island
+- **Groups:** Over 200 ethnic groups (Iban, Bidayuh, Kenyah-Kayan)
+- **Beliefs:** Supernatural powers, headhunting traditions
+- **Myth:** Fire came to Kalimantan (Borneo)
+
+---
+
+## Papuan (Papua New Guinea)
+
+### Features
+- **Spirits:** Genius loci (spirits of place)
+- **Belief:** Forests, lakes have spirits
+- **Creatures:** Giant spider god Areop-Enap
+
+### Creation
+- **Myth:** Passed through generations
+- **Reference:** https://tvtropes.org/pmwiki/pmwiki.php/Myth/PapuanMythology
+
+---
+
+## Aboriginal Australian - Additional
+
+### Rainbow Serpent
+- **Names:** Ngalyod (Arnhem Land), Wanampi (Pitjantjatjara)
+- **Powers:** Creator, water protector
+- **Age:** 6000-8000 years in rock art
+- **Belief:** Creates mountains, replenishes waterholes
+
+### Tiddalick
+- **Type:** Frog
+- **Story:** Caused flood by drinking all water
+
+---
+
+## Samoan - Additional
+
+### Tagaloa
+- **Domain:** Supreme creator god
+- **Created:** Islands, sun, moon, heavens
+- **Sent:** His son Fue (peopling vine)
+
+### Sina
+- **Legend:** Story of desire and Tigilau
+
+---
+
+## Micronesian
+
+### Make-Make (Rapa Nui)
+- **Domain:** Creation god
+- **Created:** First son from bird + reflection
+- **Created:** First humans from stone
+
+### Overview
+- **Region:** Mariana Islands, Caroline Islands, Marshall Islands
+- **Belief:** Varied island-by-island
+
+---
+
+## Filipino - Additional
+
+### Visayan
+- **Bakunawa:** Moon-eating dragon (eclipse explanation)
+- **Story:** Eats moon, scared away by noise
+
+### Kapampangan
+- **Created:** Land from war of gods
+- **Deity:** Mangechay
+
+### Ilokano
+- **Creator:** Giant Anglao
+- **Guardians:** Giant dog Lobo (underworld)
+>>>>>>> 7c5326147a969fec2546656510ae6d56223c67da
 
 ---
 

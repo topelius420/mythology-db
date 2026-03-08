@@ -2071,3 +2071,24 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Okyeame
 - **Role:** Spokesperson for the king
 - **Duties:** Protocol, eloquence
+
+---
+
+## Fante (Ghana)
+
+### Overview
+- **Location:** Coastal Central/Western Ghana
+- **Group:** Akan people
+- **History:** Fished, traded, formed Confederacy
+
+---
+
+## Ga (Ghana)
+
+### Creation
+- **Belief:** Supreme Being (Ataa Naa Nyongmo)
+- **Migration:** Led by high priest from origin
+
+### Mawu
+- **Domain:** God who created all things
+- **Created:** Earth from clay and water

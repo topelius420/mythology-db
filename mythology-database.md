@@ -1788,3 +1788,70 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Balinese
 - **Belief:** Universe emerged from primordial source
 - **Reference:** https://en.wikipedia.org/wiki/Balinese_mythology
+
+---
+
+## Inuit (Arctic)
+
+### Sedna
+- **Domain:** Goddess of the sea, marine animals
+- **Story:** Thrown into ocean by father, became goddess
+- **Creation:** Fingers became seals, whales, fish
+- **Power:** Controls sea animals
+
+---
+
+## Mongolian
+
+### Tengri
+- **Domain:** Eternal Blue Sky, supreme deity
+- **Concept:** Infinite sky, cosmic order
+- **Religion:** Tengrism - shamanistic
+
+### Mongolian Shamanism
+- **Practice:** Spirit journeys, harmony with nature
+- **Belief:** Universe created by Tengri
+
+---
+
+## Tibetan/Bon
+
+### Bon
+- **Meaning:** "Truth"
+- **Origin:** Ancient Tibetan shamanism
+- **Founder:** Tonpa Shenrab
+- **Deities:** Peaceful creators, wrathful protectors
+
+### Tibetan Buddhism
+- **Syncretism:** Blends Bon + Buddhism
+- **Reference:** https://en.wikipedia.org/wiki/Bon
+
+---
+
+## Aztec - Additional
+
+### Five Suns
+- **Current:** Fifth Sun (Nahui Olin) - 4 Movement
+- **Cycle:** Each sun destroyed by cataclysm
+- **End:** Current age to end in earthquake
+- **Reference:** https://en.wikipedia.org/wiki/Five_Suns
+
+---
+
+## Maui (Polynesian)
+- **Type:** Demigod, culture hero, trickster
+- **Powers:** Magical fish hook
+- **Feats:** Fished up islands, slowed sun
+- **Myth:** Created Hawaiian Islands
+- **Pan-Pacific:** Stories span Hawaii to NZ (1000+ years)
+
+---
+
+## Basque (Spain/France)
+
+### Mari
+- **Domain:** Main goddess, earth personified
+- **Home:** Mountain caves
+- **Power:** Controls nature, animals
+- **Note:** One of oldest European mythologies!
+- **Reference:** https://basquemythology.amaroa.com/mythologic-characters/mari

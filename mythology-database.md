@@ -2291,3 +2291,18 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Powers:** Weather control, rains for agriculture
 - **Weapons:** Fiery sword, silver axe, golden knife
 - **Reference:** https://www.britannica.com/topic/Ukko
+
+---
+
+## Romanian
+
+### Creation
+- **Myth:** Similar to Slavic/Norse cosmology
+- **Versions:** Christian, animals assisting God
+
+### Baba Dochia
+- **Legend:** Famous Romanian folk tale
+- **Note:** Vampires, werewolves in folklore
+
+### Miorita
+- **Ballad:** Famous Romanian folk ballad

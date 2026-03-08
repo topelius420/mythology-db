@@ -2366,3 +2366,17 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Elves
 - **Origin:** Norse mythology
 - **Belief:** Ancestral spirits tied to fertility
+
+---
+
+## Greek - Additional
+
+### Hades
+- **Domain:** God of underworld
+- **Kidnapped:** Persephone
+- **Rule:** Dead, wealth
+
+### Persephone
+- **Domain:** Queen of underworld
+- **Cycle:** 6 months with mother, 6 months with Hades
+- **Explanation:** Seasons

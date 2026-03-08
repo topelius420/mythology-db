@@ -1855,3 +1855,36 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Power:** Controls nature, animals
 - **Note:** One of oldest European mythologies!
 - **Reference:** https://basquemythology.amaroa.com/mythologic-characters/mari
+
+---
+
+## Finnish - Additional
+
+### Tapio
+- **Domain:** Forest god, King of the Forest
+- **Role:** God of hunters and hunting
+- **Wife:** Mielikki (goddess of forests)
+- **Offerings:** Left at "Tapion pöyta" (Table of Tapio)
+
+### Mielikki
+- **Domain:** Goddess of forests and hunt
+- **Family:** Wife of Tapio
+
+---
+
+## Norse - Additional
+
+### Odin
+- **Domain:** Wisdom, war, death, magic, poetry
+- **Sacrifice:** Gave eye for wisdom, hung on Yggdrasil for runes
+
+### Yggdrasil
+- **Meaning:** "Odin's horse" (gallows)
+- **Type:** Cosmic ash tree, center of cosmos
+- **Realms:** Connects 9 worlds
+
+### Valhalla
+- **Meaning:** "Hall of the fallen"
+- **In:** Asgard
+- **Ruled by:** Odin
+- **Entrance:** Warriors who died in battle

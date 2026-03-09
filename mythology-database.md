@@ -3219,3 +3219,275 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Kugans
 - **Type:** Lesser spirits
 - **Role:** Direct earthly affairs
+
+---
+
+## Yupik (Alaska)
+
+### Creation
+- **Raven:** Creates sun, stars, moon
+- **Stories:** Give meaning to Bering Strait
+
+### Creatures
+- **Itqiirpak:** Fireball
+- **A-mi'-kuk:** Sea monster
+
+---
+
+## Haida (Pacific Northwest)
+
+### Raven
+- **Role:** Creator + trickster
+- **Story:** Pecked open cockleshell to release first man
+
+### Light
+- **Raven Acquiring Light:** Brought sun, stars, moon to world
+
+---
+
+## Zulu (South Africa)
+
+### Unkulunkulu
+- **Type:** Creator god
+- **Origin:** Came from reeds
+- **Created:** All things, humanity
+
+---
+
+## Xhosa (South Africa)
+
+### Qamata
+- **Type:** Creator god
+- **Note:** Too great to concern with mortal affairs
+
+### Thixo
+- **Type:** Sun god
+- **Relation:** Father of Qamata
+
+---
+
+## Tswana (Botswana)
+
+### Creation
+- **Myths:** Origin of Tswana people
+- **Matsieng:** Cave of creation
+
+### Animals
+- **Role:** Symbols in moral stories
+
+### Ancestors
+- **Belief:** Important in spiritual practice
+
+---
+
+## Malagasy (Madagascar)
+
+### Zanahary
+- **Type:** Supreme creator
+- **Created:** Empty Earth
+
+### Ratovantany
+- **Role:** Created human bodies
+- **Compromise:** Bodies go to underworld, souls to heaven
+
+---
+
+## Ethiopian
+
+### Wak
+- **Type:** Creator god
+- **Action:** Created Earth, humans from coffin
+
+### Oromo
+- **Waaqaa:** God (sky deity)
+- **Water:** Primary substance
+
+### Queen of Sheba
+- **Makeda:** Famous legend
+
+---
+
+## Somali
+
+### Creation
+- **God's Breath:** Life began from divine breath
+- **First Humans:** Received souls
+
+### Nebi Khadar
+- **Type:** Prophet
+- **Role:** Wanders eternally, blesses or curses
+
+---
+
+## Maasai (Kenya/Tanzania)
+
+### Enkai
+- **Type:** Creator god
+- **Nature:** Dual - benevolent and vengeful
+
+### Creation
+- **Humans:** Created by Enkai
+- **Cattle:** Sacred gift from god
+
+---
+
+## Thai
+
+### Phosop (Phaisop)
+- **Type:** Rice goddess
+
+###Myths
+- **Explains:** World, gods, heroes, creatures
+
+###Ghosts
+- **Belief:** Terrifying ghosts in tradition
+
+---
+
+## Vietnamese
+
+### Lạc Long Quân
+- **Type:** Dragon lord
+- **Partner:** Âu Cơ (mountain fairy)
+
+### Creation
+- **First Vietnamese:** Children of dragon + fairy
+- **Hùng Dynasty:** Founded after separation
+
+---
+
+## Khmer (Cambodia)
+
+### Naga
+- **Princess:** Union with human created Khmer
+- **Neang Neak:** Serpent queen, founding figure
+
+### Kambu Swayambhuva
+- **Origin:** Legendary founder
+
+---
+
+## Burmese (Myanmar)
+
+### Nats
+- **Type:** Spirits/gods (37 main)
+- **King Anawrahta:** Recognized 37 Nats
+
+### Worship
+- **Role:** Protectors in Buddhist practice
+- **Shrines:** Across Myanmar
+
+---
+
+## Lao
+
+### Khua Khao Kad
+- **Myth:** Great Gourd from Heaven
+- **Origin:** Where Lao people came from
+
+### Khun Borom
+- **Type:** Creator deity
+- **Role:** Built nation for Lao
+
+---
+
+## Mongolian
+
+### Esege Malan
+- **Type:** Highest god
+- **Partner:** Ehe Ureng Ibi
+
+### Ulgen Tenger
+- **Type:** Sky son
+- **Role:** Creation aspects
+
+---
+
+## Tibetan
+
+### Monkey + Demon
+- **Ancestors:** Union of monkey and Rakshasi
+- **Guidance:** Avalokiteśvara
+
+### Dorje Gyatram
+- **Created:** Clouds, rain, ocean
+
+---
+
+## Kazakh
+
+### Tengri
+- **Type:** Eternal sky god
+- **Belief:** Tengrist system
+
+### Umai
+- **Type:** Earth/mother goddess
+
+### Albasti
+- **Type:** Giant bird creature
+
+---
+
+## Uighur
+
+### Origin
+- **Ancient:** Central China
+- **Turkic:** Related to steppe peoples
+
+### Manichaean
+- **Mythology:** Cosmogonies
+
+---
+
+## Kyrgyz
+
+### Issyk-Kul
+- **Legend:** Submerged ancient city
+
+### Jeti Oguz
+- **Legend:** Rock formation
+
+### Manas
+- **Epic:** Heroic warrior united tribes
+
+### Mother Deer
+- **Origin:** Bugu tribe ancestor
+
+---
+
+## Uzbek
+
+### Creation
+- **Qayumars:** First human
+- **Legend:** Creator gave land last
+
+### Alpamysh
+- **Type:** Heroic figure
+
+### Geography
+- **Land:** Between two rivers (paradise)
+
+---
+
+## Tajik
+
+### Creation
+- **Egg Myth:** Allah divided egg into two
+- **First Humans:** From this division
+
+### Influence
+- **Persian, Turkic, Islamic traditions
+
+---
+
+## Turkmen
+
+### Turkic Shared
+- **Tengrism:** Sky god Tengri
+- **World Tree:** Central symbol
+
+### Wolf Ancestors
+- **Gokturks:** Descended from wolves
+
+### Book of Dede Korkut
+- **Oghuz Turks:** 12 legendary stories

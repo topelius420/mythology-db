@@ -4027,3 +4027,35 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Wolof**: Ancestor spirits
 - **Mandinka**: Ancient kingdom spirits
 
+
+---
+
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+

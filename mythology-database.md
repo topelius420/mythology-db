@@ -11973,6 +11973,7 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### Book of Dede Korkut
 - **Oghuz Turks:** 12 legendary stories
+<<<<<<< HEAD
 >>>>>>> b1501fd316a182be007e6deae1e7666607ce9e55
 
 ---
@@ -12902,6 +12903,186 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Wolof**: Ancestor spirits
 - **Mandinka**: Ancient kingdom spirits
 
+
+---
+
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+
+=======
+
+---
+
+## Afghan
+
+### Influences
+- **Zoroastrian:** Pre-Islamic
+- **Islamic:** Later tradition
+- **Local:** Tribal legends
+
+### Spirits
+- **Jinn:** Arabian influence
+- **Divs:** Evil spirits
+
+---
+
+## Kurdish
+
+### Shamaran
+- **Type:** Creation myth
+- **Significance:** Core Kurdish legend
+
+### Anfar
+- **Type:** Dove
+- **Role:** Sat on white jewel for 40,000 years
+
+---
+
+## Baloch
+
+### Hinglaj Mata
+- **Type:** Fertility goddess
+- **Role:** Patroness of Baloch people
+
+### Zoroastrian
+- **Khorshed:** Sun deity
+- **Meher:** Mercy/contract deity
+
+---
+
+## Pashtun
+
+### Origins
+- **Israelite Theory:** From Lost Tribes
+- **Greek:** Alexander's conquest
+
+### Pre-Islamic
+- **Zoroastrian, Buddhist, Hindu** influences
+
+---
+
+## Yoruba (Nigeria)
+
+### Olódùmárè
+- **Type:** Supreme Being
+
+### Obàtálá
+- **Role:** Created land via gold chain
+- **Items:** Sand, white hen, black cat, palm nut
+
+### Oduduwa
+- **First man:** Descended from sky
+
+---
+
+## Akan (Ghana)
+
+### Nyame
+- **Type:** Supreme creator god
+- **Also:** Nyankopon, Onyankopon
+
+### Anansi
+- **Origin:** Ashanti tradition
+- **Type:** Spider trickster
+
+---
+
+## Serer (Senegal)
+
+### Roog
+- **Type:** Supreme deity
+- **Created:** Universe through thought/word
+
+### Elements
+- **Water, air, earth:** First elements
+
+### Pangool
+- **Type:** Ancestral spirits
+
+---
+
+## Cameroonian
+
+### Jigilé (Matakam)
+- **Type:** Supreme creator
+- **Meaning:** "Up"
+
+### Feyin (Oku)
+- **Type:** High god
+- **Created:** World and humans
+
+### Nzame (Fang)
+- **Type:** Supreme creator
+
+---
+
+## Congolese
+
+### Mbombo (Kuba)
+- **Type:** Creator
+- **Action:** Vomited sun, creatures
+
+### Bumba (Bushongo)
+- **Vomited:** 9 creatures (leopard, eagle, crocodile)
+
+### Kongo
+- **Kalunga:** Land of dead
+- **Nzambi Mpungu:** Supreme deity
+
+---
+
+## Ugandan
+
+### Ruhanga (Nkole/Haya)
+- **Type:** Creator god
+- **Created:** World and humans
+
+### Kintu (Buganda)
+- **Legend:** First man
+
+### Kabezya-Mpungu
+- **Type:** Highest god
+
+---
+
+## Tanzanian
+
+### Shida Matunda (Nyamwezi)
+- **Type:** Creator
+- **Created:** Universe from nothing
+
+### Olofi
+- **Type:** Creator god
+
+### Mwuetsi (Khonvoum)
+- **Type:** Moon god
+>>>>>>> 6cfa9928904d94d43a153d9022478aee4d5de5f3
 
 ---
 

@@ -3491,3 +3491,149 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### Book of Dede Korkut
 - **Oghuz Turks:** 12 legendary stories
+
+---
+
+## Afghan
+
+### Influences
+- **Zoroastrian:** Pre-Islamic
+- **Islamic:** Later tradition
+- **Local:** Tribal legends
+
+### Spirits
+- **Jinn:** Arabian influence
+- **Divs:** Evil spirits
+
+---
+
+## Kurdish
+
+### Shamaran
+- **Type:** Creation myth
+- **Significance:** Core Kurdish legend
+
+### Anfar
+- **Type:** Dove
+- **Role:** Sat on white jewel for 40,000 years
+
+---
+
+## Baloch
+
+### Hinglaj Mata
+- **Type:** Fertility goddess
+- **Role:** Patroness of Baloch people
+
+### Zoroastrian
+- **Khorshed:** Sun deity
+- **Meher:** Mercy/contract deity
+
+---
+
+## Pashtun
+
+### Origins
+- **Israelite Theory:** From Lost Tribes
+- **Greek:** Alexander's conquest
+
+### Pre-Islamic
+- **Zoroastrian, Buddhist, Hindu** influences
+
+---
+
+## Yoruba (Nigeria)
+
+### Olódùmárè
+- **Type:** Supreme Being
+
+### Obàtálá
+- **Role:** Created land via gold chain
+- **Items:** Sand, white hen, black cat, palm nut
+
+### Oduduwa
+- **First man:** Descended from sky
+
+---
+
+## Akan (Ghana)
+
+### Nyame
+- **Type:** Supreme creator god
+- **Also:** Nyankopon, Onyankopon
+
+### Anansi
+- **Origin:** Ashanti tradition
+- **Type:** Spider trickster
+
+---
+
+## Serer (Senegal)
+
+### Roog
+- **Type:** Supreme deity
+- **Created:** Universe through thought/word
+
+### Elements
+- **Water, air, earth:** First elements
+
+### Pangool
+- **Type:** Ancestral spirits
+
+---
+
+## Cameroonian
+
+### Jigilé (Matakam)
+- **Type:** Supreme creator
+- **Meaning:** "Up"
+
+### Feyin (Oku)
+- **Type:** High god
+- **Created:** World and humans
+
+### Nzame (Fang)
+- **Type:** Supreme creator
+
+---
+
+## Congolese
+
+### Mbombo (Kuba)
+- **Type:** Creator
+- **Action:** Vomited sun, creatures
+
+### Bumba (Bushongo)
+- **Vomited:** 9 creatures (leopard, eagle, crocodile)
+
+### Kongo
+- **Kalunga:** Land of dead
+- **Nzambi Mpungu:** Supreme deity
+
+---
+
+## Ugandan
+
+### Ruhanga (Nkole/Haya)
+- **Type:** Creator god
+- **Created:** World and humans
+
+### Kintu (Buganda)
+- **Legend:** First man
+
+### Kabezya-Mpungu
+- **Type:** Highest god
+
+---
+
+## Tanzanian
+
+### Shida Matunda (Nyamwezi)
+- **Type:** Creator
+- **Created:** Universe from nothing
+
+### Olofi
+- **Type:** Creator god
+
+### Mwuetsi (Khonvoum)
+- **Type:** Moon god

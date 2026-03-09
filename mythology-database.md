@@ -2491,3 +2491,21 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Spirits
 - **Phi:** Ghosts, spirits
 - **Influence:** Buddhist + animist
+
+---
+
+## Filipino - Additional Details
+
+### Bathala (Tagalog)
+- **Type:** Supreme creator god
+- **Names:** Bathala Maykapal, Batala
+- **Role:** Ruler of universe, caretaker of nature
+
+### Kapampangan Deities
+- **Aring Sinukuan:** Sun god of war and death
+- **Location:** Mt. Arayat
+
+### Other Deities
+- **Idianale:** Goddess of labor
+- **Dumangan:** God of good harvest
+- **Anitun Tabu:** Goddess of wind and rain

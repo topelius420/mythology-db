@@ -2522,6 +2522,7 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Spirits
 - **Phi:** Ghosts, spirits
 - **Influence:** Buddhist + animist
+<<<<<<< HEAD
 >>>>>>> 0c6bcc30952186aa1e7cc68ed64b6b349abe7090
 
 ---
@@ -10939,6 +10940,1040 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 - **Wolof**: Ancestor spirits
 - **Mandinka**: Ancient kingdom spirits
 
+
+---
+
+## Additional African Tribes (Hourly Batch)
+
+### Angola
+- **Ovimbundu**: Spirit worship, ancestors
+- **Kongo**: Ancestor veneration, spirits
+
+### Zimbabwe
+- **Shona**: Ancestor spirits, Mhondoro
+- **Ndebele**: Spirit wives, ancestors
+
+### Malawi
+- **Chewa**: Ancestor worship, spirits
+- **Tumbuka**: Spirit possession
+
+### Eritrea/Djibouti
+- **Afar**: Desert spirits, ancestors
+- **Somali**: Cave spirits, oral traditions
+
+### Gulf of Guinea
+- **Fang**: Ancestor worship, spirits
+- **Bassa**: Water spirits
+
+### Indian Ocean
+- **Comorian**: Swahili spirits
+
+### West Africa
+- **Wolof**: Ancestor spirits
+- **Mandinka**: Ancient kingdom spirits
+
+=======
+
+---
+
+## Filipino - Additional Details
+
+### Bathala (Tagalog)
+- **Type:** Supreme creator god
+- **Names:** Bathala Maykapal, Batala
+- **Role:** Ruler of universe, caretaker of nature
+
+### Kapampangan Deities
+- **Aring Sinukuan:** Sun god of war and death
+- **Location:** Mt. Arayat
+
+### Other Deities
+- **Idianale:** Goddess of labor
+- **Dumangan:** God of good harvest
+- **Anitun Tabu:** Goddess of wind and rain
+
+---
+
+## Iban Dayak (Borneo)
+
+### Creation Gods
+- **Seremugah:** Made the land
+- **Segundi:** Made the water
+- **Multiple:** Multiple Gods of Creation
+
+### Fire Myth
+- **Story:** "Borneo Prometheus" - how fire came to Kalimantan
+- **Reference:** Pleiades-connected farming knowledge
+
+---
+
+## Balinese (Indonesia)
+
+### Sang Hyang Widhi Wasa
+- **Type:** Supreme god
+- **Meaning:** "The Divine Oneness"
+- **Concept:** Unknowable primordial source
+
+### Deities
+- **Dewi Danu:** Goddess of lake and rivers
+- **Barong & Rangda:** Spirit guardians
+- **Calon Arang:** Witch story
+- **Tanah Lot:** Sea temple legend
+
+### Hindu Influence
+- **Brahma:** Creator
+- **Shiva:** Destroyer
+- **Vishnu:** Protector
+
+---
+
+## Batak (Sumatra)
+
+### Lake Toba Creation
+- **Goddess:** Sideak Parujar escaped from lizard husband
+- **Spread:** Earth on dragon Naga Padoha
+- **Ancestor:** Si Raja Batak - mythological ancestor
+
+### Deities
+- **Ompung:** Omnipotent god
+- **Debata Mulajadi Nabolon:** Supreme creator in upper world
+
+### Culture
+- **Groups:** Toba, Karo, Simelungun, Pakpak, Angkola, Mandailing
+
+---
+
+## Javanese (Indonesia)
+
+### Antaboga
+- **Type:** World serpent
+- **Meaning:** "Food that lasts forever"
+- **Role:** Existed since beginning of time
+
+### Aji Saka
+- **Story:** Legendary first king of Java
+- **Brought:** Civilization to Java
+- **Myth:** First humans from serpent eggs
+
+### Wayang
+- **Origin:** Creation myth for shadow puppets
+- **Spirits:** Betara Guru, Ismaya
+
+---
+
+## Malagasy (Madagascar)
+
+### Zanahary
+- **Type:** Supreme Being
+- **Role:** Created the world (sun/sky)
+
+### Ratovantany
+- **Type:** Earth God
+- **Created:** Crafted clay statues of animals/humans
+
+### Deal
+- **Zanahary:** Claims souls of dead
+- **Ratovantany:** Gets bodies
+
+### Ancestors
+- **Belief:** Strong ancestor worship
+- **Connection:** Links to Pacific Islanders
+
+---
+
+## Andaman Islands
+
+### Biliku
+- **Type:** Creator god
+- **Also:** First human being
+
+### Phertajido
+- **Story:** First man from bamboo hollow
+
+### Puluga
+- **Type:** Creator
+- **Flood:** Sent flood covering the land
+
+### Hanuman
+- **Myth:** Visited while searching for Sita (Ramayana connection)
+
+---
+
+## Nicobar Islands
+
+### Names
+- **Andaman:** Named after Lord Hanuman (Andomon in Sanskrit)
+- **Nicobar:** Derived from "Nakka" (empty land)
+
+### Folklore
+- **Haunted:** Ross Island beliefs
+- **Tunnels:** Underground connections between islands
+
+---
+
+## Aboriginal Australian - Additional
+
+### Rainbow Serpent
+- **Names:** Called by many names across cultures
+- **Origin:** 6000-8000 years old (Arnhem Land rock art)
+- **Role:** Creates rivers, mountains, waterholes
+- **Belief:** Places spirit-children in waterholes
+
+### Dreamtime
+- **Creation:** Serpent emerged from underground
+- **Significance:** All life connected
+
+---
+
+## Buryat (Mongolia/Siberia)
+
+### Creation Myth
+- **Origin:** 11 Buryat tribes descended from man + swan-woman
+- **Transformation:** Swan by day, woman by night
+
+### Shamanism
+- **Practice:** Tibetan Buddhism + animist elements
+- **Largest:** Indigenous group in Siberia
+
+---
+
+## Kyrgyz (Central Asia)
+
+### Tengri
+- **Meaning:** "Sky/Heaven"
+- **Type:** Supreme god, creator
+- **Origin:** Proto-Turkic word for sky
+
+### Tengrism
+- **Belief:** Sky god, shamanistic natural religion
+- **Influence:** Mongol Empire, Turkish peoples
+
+---
+
+## Pashtun (Afghanistan)
+
+### Heroes
+- **Rustam & Sohrab:** Legendary father-son heroes
+- **Yousuf Khan & Sher Bano:** Famous tales
+
+### Origins
+- **Legend:** Descended from Qais (from Hebrew/Cush)
+- **Belief:** Bani Israelite traditions
+
+---
+
+## Persian/Zoroastrian - Additional
+
+### Ahura Mazda
+- **Type:** Supreme creator deity
+- **Meaning:** "Wise Lord"
+- **Created:** Universe and cosmic order
+- **Opponent:** Angra Mainyu (Ahriman)
+
+### Dualism
+- **Good:** Light, truth, order
+- **Evil:** Darkness, chaos, destruction
+
+### Zoroaster
+- **Prophet:** Received revelation at age 30
+- **Founded:** Zoroastrianism
+
+---
+
+## Yazidi (Iraq/Kurdistan)
+
+### Melek Taus
+- **Name:** "Peacock Angel"
+- **Created:** First angel by God
+- **Role:** Created seven heavens, earth, mankind
+
+### Seven Divine Beings
+- **Belief:** Preceded creation of world
+- **Origin:** Divine triad concept
+
+---
+
+## Mandaean (Iraq/Iran)
+
+### Gnosticism
+- **Type:** Only surviving Gnostic sect
+- **Holy Book:** Ginza (Righteous)
+
+### Light World
+- **King:** King of Light
+- **Pure:** No darkness
+
+### Creation
+- **Great Fruit:** Existed before world
+- **First Man:** Adam created from body + spirit
+
+### Belief
+- **Redemption:** Soul's journey to light world
+- **Baptism:** Ritual purification
+
+---
+
+## Mithra (Persian/Roman)
+
+### Origin
+- **Zoroastrian:** Yazata (divine being)
+- **Meaning:** "Contract" or "Covenant"
+
+### Roman Cult
+- **Spread:** Popular in Roman Empire
+- **Born from rock:** Cave temples
+
+### Domain
+- **Light:** God of light
+- **Truth:** Contract keeper
+- **Seasons:** Maintained cosmic order
+
+---
+
+## Armenian - Additional
+
+### Hayk Nahapet
+- **Meaning:** "Hayk the Patriarch"
+- **Role:** Founder of Armenian nation
+- **Defeated:** Bel (Babylonian god)
+
+### Aram
+- **Role:** Gave name to Armenia (Hayk → Hayastan)
+
+### Date
+- **Traditional:** Lived 26th-25th century BCE
+
+---
+
+## Georgian - Additional
+
+### Amirani
+- **Type:** Greatest Georgian hero
+- **Parent:** Son of goddess Dali + mortal hunter
+- **Powers:** Stole fire from gods
+
+### Prometheus Parallel
+- **Chained:** Punished by gods
+- **Origin:** Predates Greek myths
+
+### Versions
+- **Documentation:** 68 versions recorded
+
+---
+
+## Chechen/Ingush (Caucasus)
+
+### Pkharmat
+- **Meaning:** "Creator of nation/language"
+- **Role:** Hero of Vainakh people
+
+### Prometheus Parallel
+- **Fire:** Stole from gods
+- **Punishment:** Chained in mountains
+
+---
+
+## Abkhaz (Caucasus)
+
+### Nart Sagas
+- **Type:** Epic tales
+- **Hero:** Sasrykva born of stone
+- **Significance:** Major Caucasian folklore
+
+### Greek Connection
+- **Myths:** Connected to Greek mythology
+
+---
+
+## Circassian/Adyghe (Caucasus)
+
+### Nart Epic
+- **Type:** Semi-divine heroes
+- **Themes:** Strength, honor, cunning
+
+### Regional
+- **Caucasus:** Shared with Abkhaz
+- **Black Sea:** Regional significance
+
+---
+
+## Sardinian (Italy)
+
+### Nuragic Civilization
+- **Period:** 1500-500 BCE Bronze Age
+- **Mystery:** Origins still unclear
+
+### Creatures
+- **Panas:** Fantastic beings
+- **Mother of Sun:** Beautiful woman appearing in summer
+
+### Torco
+- **Origin:** Son of Neptune
+- **Powers:** Legendary strength
+
+---
+
+## Sicilian (Italy)
+
+### Trinacria
+- **Symbol:** Three-legged symbol
+- **Origin:** Three nymphs created island
+
+### Myths
+- **Persephone:** Abducted by Hades
+- **Scylla & Charybdis:** Sea monsters
+
+### Mount Etna
+- **Vulcan:** God of fire
+- **Cyclops:** Polyphemus
+
+---
+
+## Corsican (France)
+
+### Folklore
+- **Devil:** Many tales of Satan
+- **Creatures:** Moorish head, L'Anghje
+
+### Menhirs
+- **Standing Stones:** Carved with faces
+- **Ancient:** Prehistoric origin
+
+---
+
+## Maltese (Malta)
+
+### Temples
+- **Ggantija:** Prehistoric temples
+- **Giantess:** Built the temples
+
+### Myths
+- **Odyssey:** Appears in Homer
+- **Atlantis:** Proposed as site
+
+### St. Paul
+- **Christianity:** Brought to Malta
+- **Viper:** Famous legend
+
+---
+
+## Karelian (Finland/Russia)
+
+### Source of Kalevala
+- **Gathering:** Elias Lönnrot collected tales in Karelia
+- **Viena:** Most material from Viena Karelia
+
+### Iro's Sons
+- **Väinämöinen:** Central figure, shaman-singer
+- **Ilmarinen:** Smith-hero
+- **Jompainen:** Third brother
+
+### Nature Spirits
+- **Water Mother:** Fertility spirit
+- **Tursas:** Water spirit
+
+---
+
+## Venezuelan Indigenous
+
+### Pemón
+- **Myth:** Creation of Sun and Moon
+- **Mount Roraima:** Created from great flood
+
+### Warao
+- **People:** Orinoco Delta
+- **Belief:** Traditional indigenous
+
+### Barí
+- **Region:** Zulia
+- **Myth:** Creation myths
+
+---
+
+## Colombian
+
+### Yuruparí
+- **Type:** Creation myth
+- **Heritage:** UNESCO recognized
+- **Ritual:** Coming of age ceremony
+
+### Huitoto
+- **Creation:** "The Mother" - air, water, knowledge
+
+### Creatures
+- **Madremonte:** Guardian of earth
+- **Mohán:** Water spirit
+- **La Llorona:** Weeping woman
+
+---
+
+## Ecuadorian
+
+### Shyris
+- **Type:** Ancient warrior people
+- **Region:** Andes
+
+### Guagua Auca
+- **Type:** Demon
+- **Origin:** Soul of unborn child
+
+### La Danta
+- **Role:** Nature protector
+
+---
+
+## Peruvian - Additional
+
+### Viracocha
+- **Type:** Creator god
+- **Origin:** Lake Titicaca
+- **Created:** All things, humans
+- **Departure:** Sailed into Pacific
+
+### Manco Cápac
+- **Role:** Founder of Inca
+- **Origin:** Son of sun god
+
+---
+
+## Bolivian
+
+### Viracocha
+- **Created:** Lightless Earth with giants
+- **Later:** Created sun, moon, stars
+
+### Lake Titicaca
+- **Origin:** Created by Inti (sun god)
+
+### Guaraní
+- **Myth:** Two Twins creation story
+
+---
+
+## Paraguayan
+
+### Guaraní Creation
+- **Creator:** Ñande Ramõi Jusu Papa ("Our Eternal Great Grandfather")
+- **Created:** Other divine beings, Guaraní land
+
+### Tupa
+- **Type:** God of Thunder
+- **Warani:** Warning people
+
+### Mbyá-Guaraní
+- **Anthropologist:** León Cadogan documented
+
+---
+
+## Chilean
+
+### Mapuche
+- **Ngen:** Powerful spirit of air
+- **Cai Cai Vilu:** Serpentine deity
+
+### Chiloé
+- **Creatures:** Caleuche (ghost ship)
+- **Witches:** Male witches tradition
+
+---
+
+## Argentinian
+
+### Tupã
+- **Type:** Supreme god
+- **Origin:** From the sun
+
+### Creatures
+- **Lobizón:** Werewolf (Guaraní)
+- **Pombero:** Forest spirit
+- **Alma Mula:** Soul mule
+
+### Luz Mala
+- **Type:** Evil light
+
+---
+
+## Brazilian
+
+### Tupi-Guarani
+- **Tupã:** Creator of universe (thunder form)
+- **Guaraci:** Sun god (closed eyes = darkness)
+- **Jaci:** Moon goddess
+
+### Folklore
+- **Cuca:** Crocodile-headed witch
+- **Iecuana:** Between Brazil/Venezuela
+
+---
+
+## Uruguayan
+
+### Charrua
+- **Status:** Nearly extinct (exterminated in 1830s)
+- **Belief:** Naming as responsibility
+- **Spirits:** Rivers, winds as interlocutors
+
+### Guarani Influence
+- **Tupã:** Supreme god
+
+---
+
+## Guyanese
+
+### Warao
+- **Name:** "Boat People"
+- **Location:** Orinoco Delta
+- **Myth:** Origin of Pleiades stars
+
+### Creation
+- **Caribs:** First people on earth
+- **Warau:** Came from sky world
+
+---
+
+## Surinamese
+
+### Winti
+- **Type:** Afro-Surinamese religion
+- **Belief:** Unity of all life
+
+### Gods
+- **Oboadee:** Creator
+- **Anansi Kokuroku:** Great spider (trickster)
+
+### Bakru
+- **Type:** Spirit
+- **Form:** Small humanoid, half wood
+
+---
+
+## Puerto Rican (Taino)
+
+### Atabey
+- **Type:** Primordial mother goddess
+- **Created:** Emerged from cosmic waters
+
+### Yucajú
+- **Type:** Son/creator god
+
+### Legend of Diego
+- **Origin:** Spanish colonial era
+
+---
+
+## Cuban
+
+### Taino (Shared)
+- **Atabey:** Mother goddess, water/fertility
+- **Yúcahu:** Creator god
+- **Zemi:** Sacred objects
+
+### Afro-Cuban
+- **Ogun:** Warrior, iron, hunters
+- **Güije:** Mischievous creature
+- **Madre de Aguas:** Water creature
+
+---
+
+## Jamaican
+
+### Anansi
+- **Origin:** West African
+- **Character:** Bredda Anansi (spider trickster)
+
+### Folk Beliefs
+- **Duppy:** Ghost/spirit
+- **Rolling Calf:** Supernatural creature
+
+### Influence
+- **African:** Mixed with local beliefs
+
+---
+
+## Haitian (Vodou)
+
+### Damballah
+- **Type:** Sky serpent, father of loa
+- **Created:** Waters, hills, valleys
+
+### Loa (Lwa)
+- **Gede:** Death and fertility
+- **Ogoun:** Fire, iron, war
+- **Erzulie:** Love, beauty
+
+### Practice
+- **Syncretism:** African + Catholic + Taino
+
+---
+
+## Belizean
+
+### Sisimito
+- **Type:** Hairy cave creatures
+- **Belief:** Still living in caves
+
+### Maya Influence
+- **Ballam:** Guardian spirits
+- **Xibalba:** Underworld
+
+### Creole
+- **Duende:** Forest spirit
+
+---
+
+## Nicaraguan
+
+### Chorotega
+- **Belief:** Cosmic order
+- **Origin:** Creation myths
+
+### Folklore
+- **La Carretanagua:** Folk tale
+- **Nahua:** Cart legend
+
+---
+
+## Costa Rican
+
+### BriBri
+- **System:** Matrilineal clan
+- **Iriria:** Girl Earth (La Niña Tierra)
+
+### Sibú (Sibö)
+- **Type:** Creator god
+- **Created:** Earth and people
+
+### Chorotega
+- **La Mona:** Witch monkey legend
+
+---
+
+## Panamanian
+
+### Embera
+- **Belief:** Waterfalls = ancestor spirits
+
+### Kuna
+- **Molas:** Art form from mythology
+
+### Folklore
+- **Cegua:** Female spirit
+- **El Cadejo:** Supernatural dog
+
+---
+
+## Mayan - Additional
+
+### Popol Vuh
+- **Meaning:** "Book of the Community"
+- **Creators:** Gucumatz + Tepeu
+
+### Hero Twins
+- **Hunahpu & Xbalanque**
+- **Defeated:** Lords of Xibalba (underworld)
+
+### Creation
+- **Corn:** Humans made from white/yellow corn
+- **Fourth:** Current creation
+
+---
+
+## Inuit - Additional
+
+### Sedna
+- **Type:** Sea goddess
+- **Origin:** Thrown into ocean by father
+- **Fingers:** Became seals, whales, fish
+
+### Adlivun
+- **Type:** Underworld
+- **Ruled by:** Sedna
+
+---
+
+## Aleut
+
+### Agugux
+- **Type:** Creator god
+- **Nature:** Incorporeal spirit
+- **Note:** Rarely personified
+
+### Kugans
+- **Type:** Lesser spirits
+- **Role:** Direct earthly affairs
+
+---
+
+## Yupik (Alaska)
+
+### Creation
+- **Raven:** Creates sun, stars, moon
+- **Stories:** Give meaning to Bering Strait
+
+### Creatures
+- **Itqiirpak:** Fireball
+- **A-mi'-kuk:** Sea monster
+
+---
+
+## Haida (Pacific Northwest)
+
+### Raven
+- **Role:** Creator + trickster
+- **Story:** Pecked open cockleshell to release first man
+
+### Light
+- **Raven Acquiring Light:** Brought sun, stars, moon to world
+
+---
+
+## Zulu (South Africa)
+
+### Unkulunkulu
+- **Type:** Creator god
+- **Origin:** Came from reeds
+- **Created:** All things, humanity
+
+---
+
+## Xhosa (South Africa)
+
+### Qamata
+- **Type:** Creator god
+- **Note:** Too great to concern with mortal affairs
+
+### Thixo
+- **Type:** Sun god
+- **Relation:** Father of Qamata
+
+---
+
+## Tswana (Botswana)
+
+### Creation
+- **Myths:** Origin of Tswana people
+- **Matsieng:** Cave of creation
+
+### Animals
+- **Role:** Symbols in moral stories
+
+### Ancestors
+- **Belief:** Important in spiritual practice
+
+---
+
+## Malagasy (Madagascar)
+
+### Zanahary
+- **Type:** Supreme creator
+- **Created:** Empty Earth
+
+### Ratovantany
+- **Role:** Created human bodies
+- **Compromise:** Bodies go to underworld, souls to heaven
+
+---
+
+## Ethiopian
+
+### Wak
+- **Type:** Creator god
+- **Action:** Created Earth, humans from coffin
+
+### Oromo
+- **Waaqaa:** God (sky deity)
+- **Water:** Primary substance
+
+### Queen of Sheba
+- **Makeda:** Famous legend
+
+---
+
+## Somali
+
+### Creation
+- **God's Breath:** Life began from divine breath
+- **First Humans:** Received souls
+
+### Nebi Khadar
+- **Type:** Prophet
+- **Role:** Wanders eternally, blesses or curses
+
+---
+
+## Maasai (Kenya/Tanzania)
+
+### Enkai
+- **Type:** Creator god
+- **Nature:** Dual - benevolent and vengeful
+
+### Creation
+- **Humans:** Created by Enkai
+- **Cattle:** Sacred gift from god
+
+---
+
+## Thai
+
+### Phosop (Phaisop)
+- **Type:** Rice goddess
+
+###Myths
+- **Explains:** World, gods, heroes, creatures
+
+###Ghosts
+- **Belief:** Terrifying ghosts in tradition
+
+---
+
+## Vietnamese
+
+### Lạc Long Quân
+- **Type:** Dragon lord
+- **Partner:** Âu Cơ (mountain fairy)
+
+### Creation
+- **First Vietnamese:** Children of dragon + fairy
+- **Hùng Dynasty:** Founded after separation
+
+---
+
+## Khmer (Cambodia)
+
+### Naga
+- **Princess:** Union with human created Khmer
+- **Neang Neak:** Serpent queen, founding figure
+
+### Kambu Swayambhuva
+- **Origin:** Legendary founder
+
+---
+
+## Burmese (Myanmar)
+
+### Nats
+- **Type:** Spirits/gods (37 main)
+- **King Anawrahta:** Recognized 37 Nats
+
+### Worship
+- **Role:** Protectors in Buddhist practice
+- **Shrines:** Across Myanmar
+
+---
+
+## Lao
+
+### Khua Khao Kad
+- **Myth:** Great Gourd from Heaven
+- **Origin:** Where Lao people came from
+
+### Khun Borom
+- **Type:** Creator deity
+- **Role:** Built nation for Lao
+
+---
+
+## Mongolian
+
+### Esege Malan
+- **Type:** Highest god
+- **Partner:** Ehe Ureng Ibi
+
+### Ulgen Tenger
+- **Type:** Sky son
+- **Role:** Creation aspects
+
+---
+
+## Tibetan
+
+### Monkey + Demon
+- **Ancestors:** Union of monkey and Rakshasi
+- **Guidance:** Avalokiteśvara
+
+### Dorje Gyatram
+- **Created:** Clouds, rain, ocean
+
+---
+
+## Kazakh
+
+### Tengri
+- **Type:** Eternal sky god
+- **Belief:** Tengrist system
+
+### Umai
+- **Type:** Earth/mother goddess
+
+### Albasti
+- **Type:** Giant bird creature
+
+---
+
+## Uighur
+
+### Origin
+- **Ancient:** Central China
+- **Turkic:** Related to steppe peoples
+
+### Manichaean
+- **Mythology:** Cosmogonies
+
+---
+
+## Kyrgyz
+
+### Issyk-Kul
+- **Legend:** Submerged ancient city
+
+### Jeti Oguz
+- **Legend:** Rock formation
+
+### Manas
+- **Epic:** Heroic warrior united tribes
+
+### Mother Deer
+- **Origin:** Bugu tribe ancestor
+
+---
+
+## Uzbek
+
+### Creation
+- **Qayumars:** First human
+- **Legend:** Creator gave land last
+
+### Alpamysh
+- **Type:** Heroic figure
+
+### Geography
+- **Land:** Between two rivers (paradise)
+
+---
+
+## Tajik
+
+### Creation
+- **Egg Myth:** Allah divided egg into two
+- **First Humans:** From this division
+
+### Influence
+- **Persian, Turkic, Islamic traditions
+
+---
+
+## Turkmen
+
+### Turkic Shared
+- **Tengrism:** Sky god Tengri
+- **World Tree:** Central symbol
+
+### Wolf Ancestors
+- **Gokturks:** Descended from wolves
+
+### Book of Dede Korkut
+- **Oghuz Turks:** 12 legendary stories
+>>>>>>> b1501fd316a182be007e6deae1e7666607ce9e55
 
 ---
 

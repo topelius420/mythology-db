@@ -14998,3 +14998,65 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Nyami Nyami
 - **Type:** Zambezi River god
 - **Form:** Snake/fish hybrid
+
+---
+
+## Namibian
+
+### Kalunga
+- **Type:** Supreme creator god
+- **Region:** Northern Namibia
+
+### Haisi Aibeb (Himba)
+- **Type:** Creator/hero
+- **Saved:** World from monster
+
+### Mukuru (Himba)
+- **Created:** Fairy circles
+
+---
+
+## Botswanan
+
+### Matsieng
+- **Legend:** Creation hero
+- **Tsodilo:** "Mountains of the Gods"
+
+### Bumba (Boshongo)
+- **Type:** Creator god
+- **Created:** Sun, then creatures
+
+---
+
+## Zimbabwean (Shona)
+
+### Modimo
+- **Type:** Creator god
+- **Nature:** Distributes good things, also destroyer
+
+### Mwedzi (Moon)
+- **Created:** In deep pool of water
+- **Companions:** Hweva, Venekatsvimborume
+
+---
+
+## Malawian
+
+### Chauta (Chewa)
+- **Type:** Creator god
+- **Lived:** In sky above barren earth
+
+### Chiuta
+- **Type:** Spider god
+- **Descended:** From sky on silk thread
+
+### Namalenga, Mphambe
+- **Type:** Alternative god names
+
+---
+
+## Eritrean
+
+### Folklore
+- **Fairies:** Traditional beliefs
+- **Influences:** Orthodox Christian, Sabean

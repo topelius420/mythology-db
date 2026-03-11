@@ -15167,3 +15167,80 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Influence
 - **Arab, African, French** mix
 - **Islam:** Deep influence
+
+---
+
+## Mauritian
+
+### Karklo
+- **Type:** Legendary creature
+- **Description:** Large, elusive with sharp claws
+
+### Giant Ray
+- **Legend:** Attacked fishing bay
+
+### Dodo
+- **Myth:** Extinct bird, bumbling fool
+
+---
+
+## Seychellois
+
+### Roc
+- **Myth:** Giant bird
+
+### Coco de Mer
+- **Legend:** Sacred palm, hidden by sailors
+
+### Pirates & Mermaids
+- **Folklore:** Buried treasure, sea creatures
+
+---
+
+## Cape Verdean
+
+### Dez Gronzim
+- **Myth:** Ten seeds story
+- **Origin:** God brought seeds
+
+### Nho Lobo
+- **Folklore:** Popular tales
+
+### Praia dos Amores
+- **Legend:** Romeo and Juliet tale
+
+---
+
+## Santomean
+
+### Ossobó
+- **Myth:** Myth, history in literature
+- **Influence:** Gulf of Guinea traditions
+
+---
+
+## Equatorial Guinean (Fang)
+
+### Nzame
+- **Type:** Supreme creator god
+- **Trinity:** Nzame, Mebere, Nkwa
+- **Created:** Universe and first humans
+
+### Fam
+- **Origin:** Lizard transformed to first man
+
+### Ebigane
+- **Type:** Creature (Fang)
+- **Form:** Mix of bat, buffalo, vampire
+
+---
+
+## Guinea-Bissau (Bijago)
+
+### Nindo
+- **Type:** Creator god
+- **Created:** Orango, first island (the world)
+
+### Matriarchal Society
+- **Women:** Choose husbands
+- **Female priests:** Guide the people

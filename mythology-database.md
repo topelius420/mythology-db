@@ -15060,3 +15060,110 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Folklore
 - **Fairies:** Traditional beliefs
 - **Influences:** Orthodox Christian, Sabean
+
+---
+
+## Angolan
+
+### Nzambi
+- **Type:** Creator god
+- **Region:** Kongo influence
+
+---
+
+## Rwandan
+
+### Imana
+- **Type:** Supreme creator
+- **Role:** Sustains all life
+
+### Ryangombe
+- **Type:** Heroic/semi-divine figure
+- **Role:** Kubandwa ritual foundation
+
+### Nyiransibura
+- **Myth:** Created Lake Kivu
+
+---
+
+## Burundian
+
+### Nkubito
+- **Created:** First people from clay
+- **Mwami:** Nearby, symbolizes divine origin
+
+### Imana
+- **Role:** Departed from humans, death entered world
+
+---
+
+## Sudanese (Dinka)
+
+### Nhialic
+- **Type:** Supreme god
+- **Location:** Heaven
+
+### Abuk
+- **Type:** Primal woman
+- **Created:** Humans from fat
+- **Role:** Women and gardens
+
+### Garang
+- **Type:** First man
+- **Created:** From clay
+
+---
+
+## Ethiopian (Oromo)
+
+### Waaqaa
+- **Type:** Supreme sky god
+- **Created:** World in perfect balance
+- **Law:** Safuu - moral relationships
+
+### Wak
+- **Created:** Universe from coffin/ground
+- **First woman:** From man's blood after 4 days
+
+### Eebe (Somali)
+- **Type:** Sky god
+- **Shared:** Cushitic heritage with Oromo
+
+---
+
+## Djiboutian
+
+### Aqiil Abuu Taalib
+- **Myth:** Holy man from Arabia (Issa)
+
+### Bouti
+- **Type:** Ogress
+- **Ability:** Can change shape
+
+---
+
+## Somali
+
+### Waaq (Waqa)
+- **Type:** Sky god
+- **Role:** Creator (Cushitic roots)
+
+### Nebi Khadar
+- **Type:** Prophet
+- **Role:** Wanders eternally, blesses/curses
+- **Disguise:** Beggar between sunset and night
+
+### Giants
+- **Belief:** Prominent in folklore
+
+---
+
+## Comoran
+
+### Karthala
+- **Type:** Volcano (Grande Comore)
+- **Role:** Place legend
+
+### Influence
+- **Arab, African, French** mix
+- **Islam:** Deep influence

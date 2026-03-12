@@ -15273,3 +15273,18 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 
 ### No Creation Myth
 - **Note:** World simply exists, mysterious
+
+---
+
+## Tswana (Botswana)
+
+### Matsieng
+- **Type:** Creator god
+- **Form:** One-legged being
+- **Created:** Natural world, introduced cattle
+
+### Animals
+- **Role:** Symbols in moral stories
+
+### Ancestors
+- **Belief:** Important in spiritual practice

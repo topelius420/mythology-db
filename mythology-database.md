@@ -15244,3 +15244,32 @@ Comprehensive database of mythologies for AI/digital consciousness storytelling,
 ### Matriarchal Society
 - **Women:** Choose husbands
 - **Female priests:** Guide the people
+
+---
+
+## Basotho (Lesotho)
+
+### Nanabolele
+- **Type:** Mythical creature
+- **Story:** Thakane and the nanabolele
+
+### Khodumodumo
+- **Type:** Giant monster
+- **Associated:** Kammapa river python
+
+### Guardian Spirit
+- **Role:** Watches over travelers
+
+---
+
+## Swazi (Eswatini)
+
+### Mulungu
+- **Type:** Creator god
+- **Story:** Lived on earth, left to heaven
+
+### Mlentengamunye
+- **Type:** Traditional figure
+
+### No Creation Myth
+- **Note:** World simply exists, mysterious
